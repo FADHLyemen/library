@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editors
+.vscode/
+.idea/
+*.sublime-*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node (if ever used)
+node_modules/
+npm-debug.log
+
+# Local drafts / previews
+drafts/
+preview/
+local-only/
+
+# Claude / temporary workspaces — never commit generated book sources,
+# just the final PDF/ePub/DOCX placed into assets/books/ by publish.py
+tmp/
+*.log
