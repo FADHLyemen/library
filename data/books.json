@@ -64,50 +64,246 @@
   ],
   "books": [
     {
-      "id": "last-moments-qushaibi",
-      "title_ar": "اللحظات الأخيرة للعميد حميد القشيبي",
-      "title_en": "The Last Moments of Brigadier General Hamid Al-Qushaibi",
-      "subtitle_ar": "شهادة على مأساة",
+      "id": "yemen-epstein-files",
+      "title_ar": "اليمن في ملفات إبستين",
+      "title_en": "Yemen in the Epstein Files",
+      "subtitle_ar": "قراءة في الوثائق المسرّبة",
       "category": "yemen",
       "year": 2026,
-      "pages": 60,
-      "description_ar": "كتاب يرصد اللحظات الأخيرة للقائد العسكري اليمني حميد القشيبي الذي استشهد في الدفاع عن عمران ضد الحوثيين.",
-      "description_en": "A book chronicling the final moments of Yemeni military commander Hamid Al-Qushaibi, who died defending Amran against the Houthis.",
-      "cover": "assets/covers/last-moments-qushaibi.jpg",
+      "pages": 70,
+      "description_ar": "دراسة في ما كشفته ملفات إبستين المسرّبة من إشارات وروابط تخصّ اليمن، وقراءة تحليلية في دلالاتها السياسية.",
+      "description_en": "A study of what the leaked Epstein files reveal about Yemen-related references and connections, with an analytical reading of their political implications.",
+      "cover": "assets/covers/yemen-epstein-files.jpg",
       "files": {
-        "pdf": "assets/books/last-moments-qushaibi.pdf",
-        "epub": "assets/books/last-moments-qushaibi.epub",
-        "docx": "assets/books/last-moments-qushaibi.docx"
+        "pdf": "assets/books/yemen-epstein-files.pdf",
+        "epub": "assets/books/yemen-epstein-files.epub",
+        "docx": "assets/books/yemen-epstein-files.docx"
       },
       "formats": [
         "pdf",
         "epub",
         "docx"
-      ],
-      "author_pseudonym": "باحث يمني"
+      ]
     },
     {
-      "id": "fall-of-sanaa-2014",
-      "title_ar": "أسرار سقوط صنعاء بيد الحوثيين 2014",
-      "title_en": "The Secrets Behind the Fall of Sanaa to the Houthis in 2014",
-      "subtitle_ar": "ما لا يعرفه الناس عن هذا السقوط",
+      "id": "ibrahim-al-hamdi-biography",
+      "title_ar": "الرئيس إبراهيم الحمدي — حياته ومشروعه الوطني",
+      "title_en": "President Ibrahim al-Hamdi — His Life and National Project",
+      "subtitle_ar": "سيرة رئيس وحلم وطن",
       "category": "yemen",
       "year": 2026,
-      "pages": 128,
-      "description_ar": "دراسة تحليلية تستند إلى تقارير فريق خبراء الأمم المتحدة ووثائق مسرّبة وتحقيقات صحفية لكشف التحالف السري بين صالح والحوثيين والتدخل الإيراني.",
-      "description_en": "An analytical study drawing on UN Panel of Experts reports, leaked documents, and investigative journalism to expose the secret Saleh-Houthi alliance and Iranian involvement behind the fall of Sanaa.",
-      "cover": "assets/covers/fall-of-sanaa-2014.jpg",
+      "pages": 90,
+      "description_ar": "سيرة الرئيس اليمني إبراهيم الحمدي ومشروعه الإصلاحي الذي حاول بناء يمن حديث قبل اغتياله، وأثره الممتد إلى اليوم.",
+      "description_en": "A biography of Yemeni President Ibrahim al-Hamdi and his reformist project to build a modern Yemen before his assassination, with his enduring legacy.",
+      "cover": "assets/covers/ibrahim-al-hamdi-biography.jpg",
       "files": {
-        "pdf": "assets/books/fall-of-sanaa-2014.pdf",
-        "epub": "assets/books/fall-of-sanaa-2014.epub",
-        "docx": "assets/books/fall-of-sanaa-2014.docx"
+        "pdf": "assets/books/ibrahim-al-hamdi-biography.pdf",
+        "epub": "assets/books/ibrahim-al-hamdi-biography.epub",
+        "docx": "assets/books/ibrahim-al-hamdi-biography.docx"
       },
       "formats": [
         "pdf",
         "epub",
         "docx"
-      ],
-      "featured": true
+      ]
+    },
+    {
+      "id": "gaza-stance-job-losses",
+      "title_ar": "الشخصيات العامة التي فقدت وظائفها بسبب موقفها من غزة",
+      "title_en": "Public Figures Who Lost Their Jobs Over Their Stance on Gaza",
+      "subtitle_ar": "توثيق حملات الإقالة والتصفية المهنية",
+      "category": "politics",
+      "year": 2026,
+      "pages": 75,
+      "description_ar": "توثيق ودراسة لحالات أكاديميين وصحفيين وموظفين فقدوا وظائفهم بسبب مواقفهم الداعمة لغزة، وما تكشفه عن حدود حرية التعبير في الغرب.",
+      "description_en": "Documentation and analysis of academics, journalists, and employees who lost their jobs over their pro-Gaza positions, revealing the limits of free expression in the West.",
+      "cover": "assets/covers/gaza-stance-job-losses.jpg",
+      "files": {
+        "pdf": "assets/books/gaza-stance-job-losses.pdf",
+        "epub": "assets/books/gaza-stance-job-losses.epub",
+        "docx": "assets/books/gaza-stance-job-losses.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "sufism-comprehensive-study",
+      "title_ar": "الصوفية — دراسة شاملة",
+      "title_en": "Sufism — A Comprehensive Study",
+      "subtitle_ar": "النشأة والتيارات والمواقف",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 100,
+      "description_ar": "دراسة موضوعية للصوفية: نشأتها، أعلامها، طرقها الكبرى، تياراتها المعاصرة، ومواقف العلماء منها قديماً وحديثاً.",
+      "description_en": "An objective study of Sufism: its origins, key figures, major orders, contemporary currents, and scholarly positions on it both classical and modern.",
+      "cover": "assets/covers/sufism-comprehensive-study.jpg",
+      "files": {
+        "pdf": "assets/books/sufism-comprehensive-study.pdf",
+        "epub": "assets/books/sufism-comprehensive-study.epub",
+        "docx": "assets/books/sufism-comprehensive-study.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "food-health-hadith",
+      "title_ar": "الطعام والصحة بين العلم الحديث والحديث النبوي",
+      "title_en": "Food and Health Between Modern Science and Prophetic Tradition",
+      "subtitle_ar": "مقاربة بحثية في التغذية",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 85,
+      "description_ar": "مقاربة بحثية بين ما توصّل إليه علم التغذية الحديث وما وَرَدَ في السنة النبوية حول الطعام والصحة، تكشف التقاطعات اللافتة.",
+      "description_en": "A research-based comparison between findings of modern nutrition science and what is mentioned in the Prophetic tradition about food and health, revealing remarkable intersections.",
+      "cover": "assets/covers/food-health-hadith.jpg",
+      "files": {
+        "pdf": "assets/books/food-health-hadith.pdf",
+        "epub": "assets/books/food-health-hadith.epub",
+        "docx": "assets/books/food-health-hadith.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "us-tax-system-guide",
+      "title_ar": "النظام الضريبي الأمريكي — دليل شامل",
+      "title_en": "The US Tax System — A Comprehensive Guide",
+      "subtitle_ar": "للمهاجرين والمقيمين الجدد",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 90,
+      "description_ar": "دليل عملي للمهاجرين والمقيمين الجدد لفهم النظام الضريبي الأمريكي: الفيدرالي والولاية، الاستقطاع، الإقرارات، والخصومات الشائعة.",
+      "description_en": "A practical guide for new immigrants and residents to understand the US tax system: federal and state, withholding, returns, and common deductions.",
+      "cover": "assets/covers/us-tax-system-guide.jpg",
+      "files": {
+        "pdf": "assets/books/us-tax-system-guide.pdf",
+        "epub": "assets/books/us-tax-system-guide.epub",
+        "docx": "assets/books/us-tax-system-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "halal-meat-michigan-indiana",
+      "title_ar": "دليل شراء اللحم الحلال في ميشيجان وإنديانا",
+      "title_en": "Guide to Buying Halal Meat in Michigan and Indiana",
+      "subtitle_ar": "متاجر، مزارع، ومعايير ذبح موثوقة",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 50,
+      "description_ar": "دليل عملي للأسر المسلمة في ميشيجان وإنديانا لشراء اللحم الحلال: المتاجر، المزارع المحلية، شهادات الذبح، ونصائح للتحقق من صحة المصدر.",
+      "description_en": "A practical guide for Muslim families in Michigan and Indiana to buy halal meat: stores, local farms, slaughter certifications, and tips for verifying authenticity.",
+      "cover": "assets/covers/halal-meat-michigan-indiana.jpg",
+      "files": {
+        "pdf": "assets/books/halal-meat-michigan-indiana.pdf",
+        "epub": "assets/books/halal-meat-michigan-indiana.epub",
+        "docx": "assets/books/halal-meat-michigan-indiana.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "supply-chain-guide",
+      "title_ar": "سلسلة التوريد — دليل شامل",
+      "title_en": "Supply Chain — A Comprehensive Guide",
+      "subtitle_ar": "من الإدارة إلى الذكاء الاصطناعي",
+      "category": "tech",
+      "year": 2026,
+      "pages": 95,
+      "description_ar": "دليل شامل لسلاسل التوريد الحديثة: الإدارة، اللوجستيات، التحليل، تطبيقات الذكاء الاصطناعي، وأبرز المسارات المهنية في هذا الحقل.",
+      "description_en": "A comprehensive guide to modern supply chains: management, logistics, analytics, AI applications, and the leading career paths in this field.",
+      "cover": "assets/covers/supply-chain-guide.jpg",
+      "files": {
+        "pdf": "assets/books/supply-chain-guide.pdf",
+        "epub": "assets/books/supply-chain-guide.epub",
+        "docx": "assets/books/supply-chain-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "quantum-mechanics-guide",
+      "title_ar": "ميكانيكا الكم — دراسة شاملة",
+      "title_en": "Quantum Mechanics — A Comprehensive Study",
+      "subtitle_ar": "من المبادئ إلى التطبيقات",
+      "category": "tech",
+      "year": 2026,
+      "pages": 110,
+      "description_ar": "دراسة شاملة لميكانيكا الكم: المبادئ الأساسية، المعادلات الرئيسية، التفسيرات الفلسفية، والتطبيقات في الحوسبة الكمية والتقنيات الحديثة.",
+      "description_en": "A comprehensive study of quantum mechanics: foundational principles, key equations, philosophical interpretations, and applications in quantum computing and modern technologies.",
+      "cover": "assets/covers/quantum-mechanics-guide.jpg",
+      "files": {
+        "pdf": "assets/books/quantum-mechanics-guide.pdf",
+        "epub": "assets/books/quantum-mechanics-guide.epub",
+        "docx": "assets/books/quantum-mechanics-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "ai-tools-guide",
+      "title_ar": "أدوات الذكاء الاصطناعي — دليل شامل",
+      "title_en": "AI Tools — A Comprehensive Guide",
+      "subtitle_ar": "أحدث الأدوات وكيفية استخدامها",
+      "category": "tech",
+      "year": 2026,
+      "pages": 80,
+      "description_ar": "دليل شامل لأبرز أدوات الذكاء الاصطناعي المتاحة حالياً: نماذج اللغة، توليد الصور، تحرير الفيديو، البرمجة، وكيف تختار الأداة المناسبة لاحتياجك.",
+      "description_en": "A comprehensive guide to the most prominent AI tools currently available: language models, image generation, video editing, coding, and how to choose the right tool for your needs.",
+      "cover": "assets/covers/ai-tools-guide.jpg",
+      "files": {
+        "pdf": "assets/books/ai-tools-guide.pdf",
+        "epub": "assets/books/ai-tools-guide.epub",
+        "docx": "assets/books/ai-tools-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
+      "id": "mythos-vs-anthropic",
+      "title_ar": "Mythos في مواجهة نماذج Anthropic",
+      "title_en": "Mythos versus Anthropic Models",
+      "subtitle_ar": "مقارنة فنية بين أبرز نماذج اللغة",
+      "category": "tech",
+      "year": 2026,
+      "pages": 60,
+      "description_ar": "مقارنة تقنية معمّقة بين نموذج Mythos ونماذج Anthropic، تتناول البنية، الأداء، حالات الاستخدام، ونقاط القوة والضعف.",
+      "description_en": "An in-depth technical comparison between the Mythos model and Anthropic models — architecture, performance, use cases, and strengths and weaknesses.",
+      "cover": "assets/covers/mythos-vs-anthropic.jpg",
+      "files": {
+        "pdf": "assets/books/mythos-vs-anthropic.pdf",
+        "epub": "assets/books/mythos-vs-anthropic.epub",
+        "docx": "assets/books/mythos-vs-anthropic.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
     },
     {
       "id": "claude-skills-guide",
@@ -520,28 +716,6 @@
         "pdf": "assets/books/yemen-presidents-wikileaks.pdf",
         "epub": "assets/books/yemen-presidents-wikileaks.epub",
         "docx": "assets/books/yemen-presidents-wikileaks.docx"
-      },
-      "formats": [
-        "pdf",
-        "epub",
-        "docx"
-      ]
-    },
-    {
-      "id": "knowledge-is-light",
-      "title_ar": "العِلمُ نورٌ والجهلُ ظلام",
-      "title_en": "Knowledge is Light, Ignorance is Darkness",
-      "subtitle_ar": "في فضل العلم وأثره",
-      "category": "islamic",
-      "year": 2026,
-      "pages": 78,
-      "description_ar": "تأملات في مكانة العلم في الإسلام، وكيف ميّز الوحي أهل العلم، مع استعراض لمسيرة العلماء المسلمين وأثرهم في بناء الحضارة.",
-      "description_en": "Reflections on the status of knowledge in Islam, how revelation distinguished the learned, and a review of Muslim scholars' contributions to civilization.",
-      "cover": "assets/covers/knowledge-is-light.jpg",
-      "files": {
-        "pdf": "assets/books/knowledge-is-light.pdf",
-        "epub": "assets/books/knowledge-is-light.epub",
-        "docx": "assets/books/knowledge-is-light.docx"
       },
       "formats": [
         "pdf",
@@ -1071,28 +1245,6 @@
         "pdf": "assets/books/america-rise-decline.pdf",
         "epub": "assets/books/america-rise-decline.epub",
         "docx": "assets/books/america-rise-decline.docx"
-      },
-      "formats": [
-        "pdf",
-        "epub",
-        "docx"
-      ]
-    },
-    {
-      "id": "houthis-gaza-blood-power",
-      "title_ar": "الحوثيون وغزة: مقايضة الدم بالسلطة",
-      "title_en": "The Houthis and Gaza: Trading Blood for Power",
-      "subtitle_ar": "قراءة في التوظيف السياسي للقضية",
-      "category": "politics",
-      "year": 2026,
-      "pages": 102,
-      "description_ar": "قراءة نقدية في كيفية توظيف جماعة الحوثي للقضية الفلسطينية وحرب غزة لتعزيز سلطتها داخلياً، ومقايضة دماء اليمنيين والفلسطينيين بمكاسب سياسية.",
-      "description_en": "A critical reading of how the Houthi movement has leveraged the Palestinian cause and the Gaza war to consolidate domestic power, trading Yemeni and Palestinian blood for political gains.",
-      "cover": "assets/covers/houthis-gaza-blood-power.jpg",
-      "files": {
-        "pdf": "assets/books/houthis-gaza-blood-power.pdf",
-        "epub": "assets/books/houthis-gaza-blood-power.epub",
-        "docx": "assets/books/houthis-gaza-blood-power.docx"
       },
       "formats": [
         "pdf",
