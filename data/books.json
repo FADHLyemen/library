@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-04-26",
+    "last_updated": "2026-04-27",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "ai-jobs-future-2026-2036",
+      "title_ar": "الذكاء الاصطناعي ومستقبل المهن — أيها يندثر وأيها يصعد",
+      "title_en": "AI and the Future of Work — Which Jobs Will Disappear, Which Will Rise",
+      "subtitle_ar": "خارطة طريق للعشر السنوات القادمة (٢٠٢٦–٢٠٣٦)",
+      "category": "tech",
+      "year": 2026,
+      "pages": 246,
+      "description_ar": "تحليل عملي للتحولات في سوق العمل بسبب الذكاء الاصطناعي خلال العشر السنوات القادمة، مع توصيات عملية للموظفين والطلاب وأصحاب القرار.",
+      "description_en": "A practical analysis of labor market shifts driven by AI over the next decade, with actionable guidance for employees, students, and decision-makers.",
+      "cover": "assets/covers/ai-jobs-future-2026-2036.jpg",
+      "files": {
+        "pdf": "assets/books/ai-jobs-future-2026-2036.pdf",
+        "epub": "assets/books/ai-jobs-future-2026-2036.epub",
+        "docx": "assets/books/ai-jobs-future-2026-2036.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "us-investment-visas-guide",
       "title_ar": "التأشيرات الاستثمارية في أمريكا — دليل المقارنة والاختيار",
