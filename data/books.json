@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "obbba-impact-analysis",
+      "title_ar": "القانون الجميل الكبير - تشريح إصلاح ترامب الضريبي وتأثيره على أمريكا",
+      "title_en": "The One Big Beautiful Bill - An Anatomy of Trump's 2025 Reform and Its Impact on America",
+      "subtitle_ar": "قراءة تحليلية في القانون الذي غيّر مسار السياسة الأمريكية",
+      "category": "politics",
+      "year": 2026,
+      "pages": 327,
+      "description_ar": "تحليل شامل لقانون OBBBA الذي وقّعه الرئيس ترامب في يوليو 2025، يعرض بالتفصيل تخفيضات الميديكيد وتعديلات الضرائب وتأثيراتها الموثقة على فئات الشعب الأمريكي.",
+      "description_en": "A comprehensive analysis of the OBBBA Act signed by President Trump in July 2025, detailing Medicaid cuts, tax changes, and their documented impacts on different segments of the American population.",
+      "cover": "assets/covers/obbba-impact-analysis.jpg",
+      "files": {
+        "pdf": "assets/books/obbba-impact-analysis.pdf",
+        "epub": "assets/books/obbba-impact-analysis.epub",
+        "docx": "assets/books/obbba-impact-analysis.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "sunni-shia-rapprochement",
       "title_ar": "التقارب السني الشيعي",
       "title_en": "Sunni–Shia Rapprochement",
