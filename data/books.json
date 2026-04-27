@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "notebooklm-complete-guide",
+      "title_ar": "نوت بوك إل إم — الدليل الشامل",
+      "title_en": "NotebookLM — The Complete Guide",
+      "subtitle_ar": "كتاب الأسبوع الثاني من برنامج LLM4Yemen",
+      "category": "tech",
+      "year": 2026,
+      "pages": 406,
+      "description_ar": "دليل شامل لإتقان NotebookLM للطالب اليمني — كتاب لياقة أداة لا كتاب مفاهيم. يأخذ القارئ من إنشاء الحساب إلى تسليم تقرير بحثي احترافي.",
+      "description_en": "A complete tool-fluency guide to NotebookLM for the Yemeni student. From account setup through delivering a professional research brief, with hands-on workflows in every chapter.",
+      "cover": "assets/covers/notebooklm-complete-guide.jpg",
+      "files": {
+        "pdf": "assets/books/notebooklm-complete-guide.pdf",
+        "epub": "assets/books/notebooklm-complete-guide.epub",
+        "docx": "assets/books/notebooklm-complete-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "obbba-impact-analysis",
       "title_ar": "القانون الجميل الكبير - تشريح إصلاح ترامب الضريبي وتأثيره على أمريكا",
       "title_en": "The One Big Beautiful Bill - An Anatomy of Trump's 2025 Reform and Its Impact on America",
