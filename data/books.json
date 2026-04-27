@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "ai-freelancing-guide",
+      "title_ar": "العمل الحر بالذكاء الاصطناعي — دليل المستقل اليمني والعربي",
+      "title_en": "AI-Powered Freelancing — A Guide for Yemeni and Arab Independent Workers",
+      "subtitle_ar": "كتاب الأسبوع السادس لبرنامج LLM4Yemen — تحويل المهارة إلى دخل حقيقي",
+      "category": "tech",
+      "year": 2026,
+      "pages": 506,
+      "description_ar": "دليل عملي شامل للعمل الحر بمساعدة الذكاء الاصطناعي للمستقل اليمني والعربي في 2026، يقود القارئ خطوة بخطوة من بناء الملف الأول وإرسال العروض إلى استلام المدفوعات وبناء وكالة صغيرة.",
+      "description_en": "A comprehensive practical guide to AI-augmented freelancing for the Yemeni and Arab independent worker in 2026, walking the reader step-by-step from first profile and proposals through receiving payments to building a small agency.",
+      "cover": "assets/covers/ai-freelancing-guide.jpg",
+      "files": {
+        "pdf": "assets/books/ai-freelancing-guide.pdf",
+        "epub": "assets/books/ai-freelancing-guide.epub",
+        "docx": "assets/books/ai-freelancing-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "notebooklm-complete-guide",
       "title_ar": "نوت بوك إل إم — الدليل الشامل",
       "title_en": "NotebookLM — The Complete Guide",
