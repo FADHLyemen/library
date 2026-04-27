@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "us-investment-visas-guide",
+      "title_ar": "التأشيرات الاستثمارية في أمريكا — دليل المقارنة والاختيار",
+      "title_en": "US Investment Visas — A Comparison and Selection Guide",
+      "subtitle_ar": "أيها يُوصل إلى الجرين كارد؟",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 205,
+      "description_ar": "دليل شامل للمستثمر العربي حول التأشيرات الاستثمارية الأمريكية، يقارن بين شروط ومتطلبات وتكاليف كل نوع، ويوضح أيها يُوصل إلى الجرين كارد.",
+      "description_en": "A comprehensive guide for Arab investors to US investment visas — comparing requirements, costs, and difficulty of each type, and clarifying which lead to a green card.",
+      "cover": "assets/covers/us-investment-visas-guide.jpg",
+      "files": {
+        "pdf": "assets/books/us-investment-visas-guide.pdf",
+        "epub": "assets/books/us-investment-visas-guide.epub",
+        "docx": "assets/books/us-investment-visas-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "yemen-epstein-files",
       "title_ar": "اليمن في ملفات إبستين",
       "title_en": "Yemen in the Epstein Files",
