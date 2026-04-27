@@ -304,11 +304,20 @@
 
     const formats = Array.isArray(book.formats) ? book.formats : [];
     const formatLabels = { pdf: 'PDF', epub: 'ePub', docx: 'Word' };
+    const viewLabel = state.lang === 'ar' ? 'عرض' : 'View';
     const downloadsHtml = formats.length === 0 || inProd
       ? `<span style="color:var(--muted);font-size:14px;">${escHtml(comingSoon)}</span>`
       : formats.map((fmt, idx) => {
           const url = book.files && book.files[fmt] ? book.files[fmt] : '#';
           const cls = idx === 0 ? 'download-btn' : 'download-btn alt';
+          // PDF opens in a new tab (browsers can render PDFs inline)
+          // ePub and DOCX trigger download (browsers can't render these)
+          if (fmt === 'pdf') {
+            return `<a class="${cls}" href="${escHtml(url)}" target="_blank" rel="noopener">
+              <span>${escHtml(viewLabel)}</span>
+              <span class="download-btn-ext">${escHtml(formatLabels[fmt] || fmt.toUpperCase())}</span>
+            </a>`;
+          }
           return `<a class="${cls}" href="${escHtml(url)}" download>
             <span>${escHtml(downloadLabel)}</span>
             <span class="download-btn-ext">${escHtml(formatLabels[fmt] || fmt.toUpperCase())}</span>
