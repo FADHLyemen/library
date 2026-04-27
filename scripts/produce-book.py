@@ -66,6 +66,23 @@ CREAM = "#F5F0E8"
 VALID_CATEGORIES = {"quran", "islamic", "yemen", "politics", "tech", "family", "diaspora", "personal"}
 EXCLUDED_IDS = {"salman-al-awda", "wafaa-sister", "houthis-gaza-blood-power"}
 
+# AI authorship disclaimer — appears in every book's front matter
+DISCLAIMER_AR = (
+    "هذا الكتاب أُنتج بمساعدة نموذج Claude Opus 4.7 من شركة Anthropic، "
+    "تحت إشراف وتوجيه المؤلف. التوجيه الفكري واختيار الموضوع والمراجعة "
+    "والمسؤولية النهائية للمؤلف الدكتور فضل محمد الأكوع. الكتاب لأغراض "
+    "تثقيفية وإثرائية، ولا يُغني عن استشارة المتخصصين في الموضوعات "
+    "القانونية والطبية والمالية والشرعية."
+)
+
+DISCLAIMER_EN = (
+    "This book was produced with the assistance of Anthropic's Claude Opus 4.7 model, "
+    "under the author's direction and supervision. Intellectual direction, topic selection, "
+    "review, and final responsibility rest with the author, Dr. Fadhl Mohammed Alakwaa. "
+    "The book is for educational purposes and does not substitute for consultation with "
+    "specialists in legal, medical, financial, or religious matters."
+)
+
 
 def log(msg, color=""):
     """Pretty-print a status message."""
@@ -173,7 +190,32 @@ def build_html(chapters: list[dict], title_ar: str, subtitle_ar: str, lang: str 
         margin: 1.5em 0;
         border-radius: 6px;
     }}
+    .disclaimer-page {{
+        page-break-before: always;
+        page-break-after: always;
+        padding: 3em 1em;
+    }}
+    .disclaimer-card {{
+        border: 1px solid {GOLD};
+        border-{'right' if direction == 'rtl' else 'left'}: 4px solid {GOLD};
+        background: {CREAM};
+        padding: 1.5em 1.4em;
+        margin: 3em 0;
+        font-size: 11pt;
+        line-height: 1.7;
+        color: #2A2A2A;
+    }}
+    .disclaimer-label {{
+        color: {NAVY};
+        font-weight: bold;
+        font-size: 13pt;
+        margin-bottom: 0.6em;
+        text-align: center;
+    }}
     """
+
+    disclaimer_label = "تنبيه" if lang == "ar" else "Notice"
+    disclaimer_text = DISCLAIMER_AR if lang == "ar" else DISCLAIMER_EN
 
     html = f"""<!DOCTYPE html>
 <html lang="{lang}" dir="{direction}">
@@ -187,6 +229,12 @@ def build_html(chapters: list[dict], title_ar: str, subtitle_ar: str, lang: str 
 <p style="text-align:center; color:#666;">{subtitle_ar or ''}</p>
 <p style="text-align:center; color:{GOLD}; margin-top:2em;">د. فضل محمد الأكوع</p>
 <div style="page-break-after: always;"></div>
+<div class="disclaimer-page">
+  <div class="disclaimer-card">
+    <div class="disclaimer-label">{disclaimer_label}</div>
+    <p>{disclaimer_text}</p>
+  </div>
+</div>
 {body}
 </body>
 </html>"""
@@ -224,6 +272,27 @@ def make_epub(slug: str, chapters: list[dict], title_ar: str, title_en: str) -> 
     book.set_direction("rtl")
 
     items = []
+
+    # Insert disclaimer as the first item, before any content chapter
+    disclaimer_chapter = epub.EpubHtml(
+        title="تنبيه — Notice",
+        file_name="disclaimer.xhtml",
+        lang="ar",
+        direction="rtl",
+    )
+    disclaimer_chapter.content = f'''<html dir="rtl"><body>
+<h2 style="text-align:center;color:#1B3A5C;">تنبيه</h2>
+<div style="border:1px solid #C9A84C;border-right:4px solid #C9A84C;background:#F5F0E8;padding:1.5em;margin:2em 0;line-height:1.7;">
+<p>{DISCLAIMER_AR}</p>
+</div>
+<h2 style="text-align:center;color:#1B3A5C;margin-top:3em;" dir="ltr">Notice</h2>
+<div dir="ltr" style="border:1px solid #C9A84C;border-left:4px solid #C9A84C;background:#F5F0E8;padding:1.5em;margin:2em 0;line-height:1.7;">
+<p>{DISCLAIMER_EN}</p>
+</div>
+</body></html>'''
+    book.add_item(disclaimer_chapter)
+    items.append(disclaimer_chapter)
+
     for i, ch in enumerate(chapters):
         c = epub.EpubHtml(
             title=ch["title"] or f"Chapter {i+1}",
@@ -253,23 +322,68 @@ def make_docx(slug: str, chapters: list[dict], title_ar: str) -> Path:
     # Write a temp Node.js script
     js_script = ROOT / "scripts" / "_make_docx_temp.js"
     chapters_json = json.dumps(chapters, ensure_ascii=False)
+    disclaimer_ar_json = json.dumps(DISCLAIMER_AR, ensure_ascii=False)
+    disclaimer_en_json = json.dumps(DISCLAIMER_EN, ensure_ascii=False)
     js_code = f"""
 const fs = require('fs');
-const {{ Document, Packer, Paragraph, TextRun, AlignmentType, HeadingLevel, PageBreak }} = require('docx');
+const {{ Document, Packer, Paragraph, TextRun, AlignmentType, HeadingLevel, PageBreak, BorderStyle, ShadingType }} = require('docx');
 
 const chapters = {chapters_json};
 const title = {json.dumps(title_ar, ensure_ascii=False)};
+const disclaimerAr = {disclaimer_ar_json};
+const disclaimerEn = {disclaimer_en_json};
 
-const NAVY = "1B3A5C", GOLD = "C9A84C";
+const NAVY = "1B3A5C", GOLD = "C9A84C", CREAM = "F5F0E8";
 const children = [];
 
+// Title page
 children.push(new Paragraph({{
     alignment: AlignmentType.CENTER,
+    spacing: {{ before: 2400 }},
     children: [new TextRun({{ text: title, bold: true, size: 48, color: NAVY, rightToLeft: true }})]
 }}));
 children.push(new Paragraph({{
     alignment: AlignmentType.CENTER,
+    spacing: {{ before: 600 }},
     children: [new TextRun({{ text: "د. فضل محمد الأكوع", size: 28, color: GOLD, rightToLeft: true }})]
+}}));
+children.push(new Paragraph({{ children: [new PageBreak()] }}));
+
+// Disclaimer page
+children.push(new Paragraph({{
+    alignment: AlignmentType.CENTER,
+    spacing: {{ before: 1200, after: 400 }},
+    children: [new TextRun({{ text: "تنبيه", bold: true, size: 36, color: NAVY, rightToLeft: true }})]
+}}));
+children.push(new Paragraph({{
+    alignment: AlignmentType.START,
+    bidirectional: true,
+    spacing: {{ after: 400 }},
+    border: {{
+        top: {{ style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 8 }},
+        bottom: {{ style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 8 }},
+        left: {{ style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 8 }},
+        right: {{ style: BorderStyle.SINGLE, size: 24, color: GOLD, space: 8 }}
+    }},
+    shading: {{ fill: CREAM, type: ShadingType.CLEAR, color: "auto" }},
+    children: [new TextRun({{ text: disclaimerAr, size: 22, rightToLeft: true }})]
+}}));
+children.push(new Paragraph({{
+    alignment: AlignmentType.CENTER,
+    spacing: {{ before: 600, after: 200 }},
+    children: [new TextRun({{ text: "Notice", bold: true, size: 32, color: NAVY }})]
+}}));
+children.push(new Paragraph({{
+    alignment: AlignmentType.LEFT,
+    spacing: {{ after: 400 }},
+    border: {{
+        top: {{ style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 8 }},
+        bottom: {{ style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 8 }},
+        left: {{ style: BorderStyle.SINGLE, size: 24, color: GOLD, space: 8 }},
+        right: {{ style: BorderStyle.SINGLE, size: 8, color: GOLD, space: 8 }}
+    }},
+    shading: {{ fill: CREAM, type: ShadingType.CLEAR, color: "auto" }},
+    children: [new TextRun({{ text: disclaimerEn, size: 20 }})]
 }}));
 children.push(new Paragraph({{ children: [new PageBreak()] }}));
 
@@ -310,7 +424,10 @@ Packer.toBuffer(doc).then(buf => {{
 """
     js_script.write_text(js_code, encoding="utf-8")
     result = subprocess.run(["node", str(js_script)], capture_output=True, text=True, cwd=ROOT)
-    js_script.unlink(missing_ok=True)
+    try:
+        js_script.unlink(missing_ok=True)
+    except (PermissionError, OSError) as e:
+        log(f"  · Could not delete temp file (non-fatal): {e}", "yellow")
     if result.returncode != 0:
         log(f"  ✗ DOCX failed: {result.stderr}", "red")
         return None
