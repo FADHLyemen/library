@@ -1,0 +1,1302 @@
+
+    "site":  {
+                 "author_ar":  "د. فضل محمد الأكوع",
+                 "author_en":  "Dr. Fadhl Mohammed Alakwaa",
+                 "title_ar":  "مكتبة د. فضل الأكوع",
+                 "title_en":  "Dr. Fadhl Alakwaa — Library",
+                 "tagline_ar":  "مؤلفات في القرآن والإسلاميات واليمن والتقنية والأسرة",
+                 "tagline_en":  "Writings on Quran, Islamic studies, Yemen, technology, and family",
+                 "affiliation_ar":  "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
+                 "affiliation_en":  "University of Michigan — Department of Computational Medicine and Bioinformatics",
+                 "base_url":  "https://fadhlyemen.github.io/library/",
+                 "last_updated":  "2026-04-27",
+                 "copyright_year":  2026
+             },
+    "categories":  [
+                       {
+                           "id":  "quran",
+                           "ar":  "القرآن والإعجاز",
+                           "en":  "Quran \u0026 Quranic Sciences",
+                           "order":  1
+                       },
+                       {
+                           "id":  "islamic",
+                           "ar":  "إسلاميات",
+                           "en":  "Islamic Studies",
+                           "order":  2
+                       },
+                       {
+                           "id":  "yemen",
+                           "ar":  "يمنيات",
+                           "en":  "Yemen Studies",
+                           "order":  3
+                       },
+                       {
+                           "id":  "politics",
+                           "ar":  "سياسة وتحليل",
+                           "en":  "Politics \u0026 Analysis",
+                           "order":  4
+                       },
+                       {
+                           "id":  "tech",
+                           "ar":  "تقنية وعلوم",
+                           "en":  "Technology \u0026 Science",
+                           "order":  5
+                       },
+                       {
+                           "id":  "family",
+                           "ar":  "أسرة وتربية",
+                           "en":  "Family \u0026 Parenting",
+                           "order":  6
+                       },
+                       {
+                           "id":  "diaspora",
+                           "ar":  "دليل المهجر",
+                           "en":  "Diaspora Guides",
+                           "order":  7
+                       },
+                       {
+                           "id":  "personal",
+                           "ar":  "شخصيات ومذكرات",
+                           "en":  "Personal \u0026 Memoir",
+                           "order":  8
+                       }
+                   ],
+    "books":  [
+                  {
+                      "id":  "ai-jobs-future-2026-2036",
+                      "title_ar":  "الذكاء الاصطناعي ومستقبل المهن — أيها يندثر وأيها يصعد",
+                      "title_en":  "AI and the Future of Work — Which Jobs Will Disappear, Which Will Rise",
+                      "subtitle_ar":  "خارطة طريق للعشر السنوات القادمة (٢٠٢٦–٢٠٣٦)",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  246,
+                      "description_ar":  "تحليل عملي للتحولات في سوق العمل بسبب الذكاء الاصطناعي خلال العشر السنوات القادمة، مع توصيات عملية للموظفين والطلاب وأصحاب القرار.",
+                      "description_en":  "A practical analysis of labor market shifts driven by AI over the next decade, with actionable guidance for employees, students, and decision-makers.",
+                      "cover":  "assets/covers/ai-jobs-future-2026-2036.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/ai-jobs-future-2026-2036.pdf",
+                                    "epub":  "assets/books/ai-jobs-future-2026-2036.epub",
+                                    "docx":  "assets/books/ai-jobs-future-2026-2036.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  false
+                  },
+                  {
+                      "id":  "us-investment-visas-guide",
+                      "title_ar":  "التأشيرات الاستثمارية في أمريكا — دليل المقارنة والاختيار",
+                      "title_en":  "US Investment Visas — A Comparison and Selection Guide",
+                      "subtitle_ar":  "أيها يُوصل إلى الجرين كارد؟",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  205,
+                      "description_ar":  "دليل شامل للمستثمر العربي حول التأشيرات الاستثمارية الأمريكية، يقارن بين شروط ومتطلبات وتكاليف كل نوع، ويوضح أيها يُوصل إلى الجرين كارد.",
+                      "description_en":  "A comprehensive guide for Arab investors to US investment visas — comparing requirements, costs, and difficulty of each type, and clarifying which lead to a green card.",
+                      "cover":  "assets/covers/us-investment-visas-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/us-investment-visas-guide.pdf",
+                                    "epub":  "assets/books/us-investment-visas-guide.epub",
+                                    "docx":  "assets/books/us-investment-visas-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  false
+                  },
+                  {
+                      "id":  "yemen-epstein-files",
+                      "title_ar":  "اليمن في ملفات إبستين",
+                      "title_en":  "Yemen in the Epstein Files",
+                      "subtitle_ar":  "قراءة في الوثائق المسرّبة",
+                      "category":  "yemen",
+                      "year":  2026,
+                      "pages":  70,
+                      "description_ar":  "دراسة في ما كشفته ملفات إبستين المسرّبة من إشارات وروابط تخصّ اليمن، وقراءة تحليلية في دلالاتها السياسية.",
+                      "description_en":  "A study of what the leaked Epstein files reveal about Yemen-related references and connections, with an analytical reading of their political implications.",
+                      "cover":  "assets/covers/yemen-epstein-files.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/yemen-epstein-files.pdf",
+                                    "epub":  "assets/books/yemen-epstein-files.epub",
+                                    "docx":  "assets/books/yemen-epstein-files.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "ibrahim-al-hamdi-biography",
+                      "title_ar":  "الرئيس إبراهيم الحمدي — حياته ومشروعه الوطني",
+                      "title_en":  "President Ibrahim al-Hamdi — His Life and National Project",
+                      "subtitle_ar":  "سيرة رئيس وحلم وطن",
+                      "category":  "yemen",
+                      "year":  2026,
+                      "pages":  90,
+                      "description_ar":  "سيرة الرئيس اليمني إبراهيم الحمدي ومشروعه الإصلاحي الذي حاول بناء يمن حديث قبل اغتياله، وأثره الممتد إلى اليوم.",
+                      "description_en":  "A biography of Yemeni President Ibrahim al-Hamdi and his reformist project to build a modern Yemen before his assassination, with his enduring legacy.",
+                      "cover":  "assets/covers/ibrahim-al-hamdi-biography.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/ibrahim-al-hamdi-biography.pdf",
+                                    "epub":  "assets/books/ibrahim-al-hamdi-biography.epub",
+                                    "docx":  "assets/books/ibrahim-al-hamdi-biography.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "gaza-stance-job-losses",
+                      "title_ar":  "الشخصيات العامة التي فقدت وظائفها بسبب موقفها من غزة",
+                      "title_en":  "Public Figures Who Lost Their Jobs Over Their Stance on Gaza",
+                      "subtitle_ar":  "توثيق حملات الإقالة والتصفية المهنية",
+                      "category":  "politics",
+                      "year":  2026,
+                      "pages":  75,
+                      "description_ar":  "توثيق ودراسة لحالات أكاديميين وصحفيين وموظفين فقدوا وظائفهم بسبب مواقفهم الداعمة لغزة، وما تكشفه عن حدود حرية التعبير في الغرب.",
+                      "description_en":  "Documentation and analysis of academics, journalists, and employees who lost their jobs over their pro-Gaza positions, revealing the limits of free expression in the West.",
+                      "cover":  "assets/covers/gaza-stance-job-losses.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/gaza-stance-job-losses.pdf",
+                                    "epub":  "assets/books/gaza-stance-job-losses.epub",
+                                    "docx":  "assets/books/gaza-stance-job-losses.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "sufism-comprehensive-study",
+                      "title_ar":  "الصوفية — دراسة شاملة",
+                      "title_en":  "Sufism — A Comprehensive Study",
+                      "subtitle_ar":  "النشأة والتيارات والمواقف",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  100,
+                      "description_ar":  "دراسة موضوعية للصوفية: نشأتها، أعلامها، طرقها الكبرى، تياراتها المعاصرة، ومواقف العلماء منها قديماً وحديثاً.",
+                      "description_en":  "An objective study of Sufism: its origins, key figures, major orders, contemporary currents, and scholarly positions on it both classical and modern.",
+                      "cover":  "assets/covers/sufism-comprehensive-study.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/sufism-comprehensive-study.pdf",
+                                    "epub":  "assets/books/sufism-comprehensive-study.epub",
+                                    "docx":  "assets/books/sufism-comprehensive-study.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "food-health-hadith",
+                      "title_ar":  "الطعام والصحة بين العلم الحديث والحديث النبوي",
+                      "title_en":  "Food and Health Between Modern Science and Prophetic Tradition",
+                      "subtitle_ar":  "مقاربة بحثية في التغذية",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  85,
+                      "description_ar":  "مقاربة بحثية بين ما توصّل إليه علم التغذية الحديث وما وَرَدَ في السنة النبوية حول الطعام والصحة، تكشف التقاطعات اللافتة.",
+                      "description_en":  "A research-based comparison between findings of modern nutrition science and what is mentioned in the Prophetic tradition about food and health, revealing remarkable intersections.",
+                      "cover":  "assets/covers/food-health-hadith.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/food-health-hadith.pdf",
+                                    "epub":  "assets/books/food-health-hadith.epub",
+                                    "docx":  "assets/books/food-health-hadith.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "us-tax-system-guide",
+                      "title_ar":  "النظام الضريبي الأمريكي — دليل شامل",
+                      "title_en":  "The US Tax System — A Comprehensive Guide",
+                      "subtitle_ar":  "للمهاجرين والمقيمين الجدد",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  90,
+                      "description_ar":  "دليل عملي للمهاجرين والمقيمين الجدد لفهم النظام الضريبي الأمريكي: الفيدرالي والولاية، الاستقطاع، الإقرارات، والخصومات الشائعة.",
+                      "description_en":  "A practical guide for new immigrants and residents to understand the US tax system: federal and state, withholding, returns, and common deductions.",
+                      "cover":  "assets/covers/us-tax-system-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/us-tax-system-guide.pdf",
+                                    "epub":  "assets/books/us-tax-system-guide.epub",
+                                    "docx":  "assets/books/us-tax-system-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "halal-meat-michigan-indiana",
+                      "title_ar":  "دليل شراء اللحم الحلال في ميشيجان وإنديانا",
+                      "title_en":  "Guide to Buying Halal Meat in Michigan and Indiana",
+                      "subtitle_ar":  "متاجر، مزارع، ومعايير ذبح موثوقة",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  50,
+                      "description_ar":  "دليل عملي للأسر المسلمة في ميشيجان وإنديانا لشراء اللحم الحلال: المتاجر، المزارع المحلية، شهادات الذبح، ونصائح للتحقق من صحة المصدر.",
+                      "description_en":  "A practical guide for Muslim families in Michigan and Indiana to buy halal meat: stores, local farms, slaughter certifications, and tips for verifying authenticity.",
+                      "cover":  "assets/covers/halal-meat-michigan-indiana.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/halal-meat-michigan-indiana.pdf",
+                                    "epub":  "assets/books/halal-meat-michigan-indiana.epub",
+                                    "docx":  "assets/books/halal-meat-michigan-indiana.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "supply-chain-guide",
+                      "title_ar":  "سلسلة التوريد — دليل شامل",
+                      "title_en":  "Supply Chain — A Comprehensive Guide",
+                      "subtitle_ar":  "من الإدارة إلى الذكاء الاصطناعي",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  95,
+                      "description_ar":  "دليل شامل لسلاسل التوريد الحديثة: الإدارة، اللوجستيات، التحليل، تطبيقات الذكاء الاصطناعي، وأبرز المسارات المهنية في هذا الحقل.",
+                      "description_en":  "A comprehensive guide to modern supply chains: management, logistics, analytics, AI applications, and the leading career paths in this field.",
+                      "cover":  "assets/covers/supply-chain-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/supply-chain-guide.pdf",
+                                    "epub":  "assets/books/supply-chain-guide.epub",
+                                    "docx":  "assets/books/supply-chain-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "quantum-mechanics-guide",
+                      "title_ar":  "ميكانيكا الكم — دراسة شاملة",
+                      "title_en":  "Quantum Mechanics — A Comprehensive Study",
+                      "subtitle_ar":  "من المبادئ إلى التطبيقات",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  110,
+                      "description_ar":  "دراسة شاملة لميكانيكا الكم: المبادئ الأساسية، المعادلات الرئيسية، التفسيرات الفلسفية، والتطبيقات في الحوسبة الكمية والتقنيات الحديثة.",
+                      "description_en":  "A comprehensive study of quantum mechanics: foundational principles, key equations, philosophical interpretations, and applications in quantum computing and modern technologies.",
+                      "cover":  "assets/covers/quantum-mechanics-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/quantum-mechanics-guide.pdf",
+                                    "epub":  "assets/books/quantum-mechanics-guide.epub",
+                                    "docx":  "assets/books/quantum-mechanics-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "ai-tools-guide",
+                      "title_ar":  "أدوات الذكاء الاصطناعي — دليل شامل",
+                      "title_en":  "AI Tools — A Comprehensive Guide",
+                      "subtitle_ar":  "أحدث الأدوات وكيفية استخدامها",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  80,
+                      "description_ar":  "دليل شامل لأبرز أدوات الذكاء الاصطناعي المتاحة حالياً: نماذج اللغة، توليد الصور، تحرير الفيديو، البرمجة، وكيف تختار الأداة المناسبة لاحتياجك.",
+                      "description_en":  "A comprehensive guide to the most prominent AI tools currently available: language models, image generation, video editing, coding, and how to choose the right tool for your needs.",
+                      "cover":  "assets/covers/ai-tools-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/ai-tools-guide.pdf",
+                                    "epub":  "assets/books/ai-tools-guide.epub",
+                                    "docx":  "assets/books/ai-tools-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "mythos-vs-anthropic",
+                      "title_ar":  "Mythos في مواجهة نماذج Anthropic",
+                      "title_en":  "Mythos versus Anthropic Models",
+                      "subtitle_ar":  "مقارنة فنية بين أبرز نماذج اللغة",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  60,
+                      "description_ar":  "مقارنة تقنية معمّقة بين نموذج Mythos ونماذج Anthropic، تتناول البنية، الأداء، حالات الاستخدام، ونقاط القوة والضعف.",
+                      "description_en":  "An in-depth technical comparison between the Mythos model and Anthropic models — architecture, performance, use cases, and strengths and weaknesses.",
+                      "cover":  "assets/covers/mythos-vs-anthropic.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/mythos-vs-anthropic.pdf",
+                                    "epub":  "assets/books/mythos-vs-anthropic.epub",
+                                    "docx":  "assets/books/mythos-vs-anthropic.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "claude-skills-guide",
+                      "title_ar":  "مهارات كلود — كيف يجعلك استخدامها خبيراً في كل شيء",
+                      "title_en":  "Claude Skills — How Using Them Makes You an Expert in Everything",
+                      "subtitle_ar":  "دليل عملي لمهارات الذكاء الاصطناعي",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  63,
+                      "description_ar":  "دليل عملي ثنائي اللغة عن مهارات كلود — ما هي، كيف تعمل، كيف تبنيها، وكيف تحوّل كلود إلى خبير متخصص في أي مجال.",
+                      "description_en":  "A practical bilingual guide on Claude Skills — what they are, how they work, how to build your own, and how they transform Claude into a domain-specific expert.",
+                      "cover":  "assets/covers/claude-skills-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/claude-skills-guide.pdf",
+                                    "epub":  "assets/books/claude-skills-guide.epub",
+                                    "docx":  "assets/books/claude-skills-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "buddhism-hinduism-comparison",
+                      "title_ar":  "البوذية والهندوسية — النشأة والانتشار والمقارنة",
+                      "title_en":  "Buddhism and Hinduism — Origins, Spread, and Comparison",
+                      "subtitle_ar":  "دراسة مقارنة من منظور إسلامي",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  82,
+                      "description_ar":  "دراسة تفصيلية لنشأة الهندوسية والبوذية ومؤسّسيهما ومعتقداتهما وانتشارهما، والمنظور الإسلامي حول جذب المليارات من الأتباع.",
+                      "description_en":  "A detailed study of the origins of Hinduism and Buddhism, their founders, beliefs, spread, and the Islamic perspective on why they attracted billions of followers.",
+                      "cover":  "assets/covers/buddhism-hinduism-comparison.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/buddhism-hinduism-comparison.pdf"
+                                },
+                      "formats":  [
+                                      "pdf"
+                                  ],
+                      "note":  "PDF only — ePub and DOCX production failed"
+                  },
+                  {
+                      "id":  "sins-ethics-religions",
+                      "title_ar":  "الذنوب والمعاصي والأخلاق في الإسلام — مقارنة مع الأديان الأخرى",
+                      "title_en":  "Sins, Disobedience and Ethics in Islam — A Comparative Study with Other Religions",
+                      "subtitle_ar":  "مقارنة مع الأديان الأخرى",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  66,
+                      "description_ar":  "دراسة مقارنة للكبائر (الكذب، الزنا، الربا، القمار، القتل وغيرها) عبر الإسلام والمسيحية واليهودية والبوذية والهندوسية، تجيب عن أي دين يركّز أكثر على الأخلاق.",
+                      "description_en":  "A comparative study of major sins (lying, adultery, usury, gambling, murder, etc.) across Islam, Christianity, Judaism, Buddhism, and Hinduism, answering which religion most emphasizes ethics.",
+                      "cover":  "assets/covers/sins-ethics-religions.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/sins-ethics-religions.pdf",
+                                    "epub":  "assets/books/sins-ethics-religions.epub",
+                                    "docx":  "assets/books/sins-ethics-religions.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "ai-drug-discovery",
+                      "title_ar":  "الذكاء الاصطناعي وثورة اكتشاف الأدوية",
+                      "title_en":  "Artificial Intelligence and the Drug Discovery Revolution",
+                      "subtitle_ar":  "كيف يغيّر الذكاء الاصطناعي صناعة الدواء",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  81,
+                      "description_ar":  "تحليل ثنائي اللغة لكيفية تحويل الذكاء الاصطناعي — بما في ذلك AlphaFold و Coefficient Bio و Amazon Bio Discovery — للبحث والتطوير في الصناعة الدوائية.",
+                      "description_en":  "A bilingual analysis of how AI — including AlphaFold, Coefficient Bio, Amazon Bio Discovery, and others — is transforming pharmaceutical R\u0026D.",
+                      "cover":  "assets/covers/ai-drug-discovery.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/ai-drug-discovery.pdf",
+                                    "epub":  "assets/books/ai-drug-discovery.epub",
+                                    "docx":  "assets/books/ai-drug-discovery.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "gaza-war-international-community",
+                      "title_ar":  "حرب غزة — كيف فضحت المجتمع الدولي",
+                      "title_en":  "The Gaza War — How It Exposed the International Community",
+                      "subtitle_ar":  "قراءة شاملة في حرب غيّرت العالم",
+                      "category":  "politics",
+                      "year":  2026,
+                      "pages":  74,
+                      "description_ar":  "دراسة شاملة لحرب غزة تتناول الضحايا، أبرز المجازر، المواقف الدولية، خطة ترامب، أحكام محكمة العدل الدولية، وتكاليف إعادة الإعمار، ومستقبل غزة.",
+                      "description_en":  "A comprehensive study of the Gaza war covering casualties, major massacres, international positions, Trump\u0027s plan, ICJ rulings, reconstruction costs, and the future of Gaza.",
+                      "cover":  "assets/covers/gaza-war-international-community.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/gaza-war-international-community.pdf",
+                                    "epub":  "assets/books/gaza-war-international-community.epub",
+                                    "docx":  "assets/books/gaza-war-international-community.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "massacres-against-muslims",
+                      "title_ar":  "مجازر ضد المسلمين عبر العصور",
+                      "title_en":  "Massacres Against Muslims Through the Ages",
+                      "subtitle_ar":  "دراسة تاريخية مقارنة",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  64,
+                      "description_ar":  "دراسة تاريخية مقارنة لأكبر المجازر ضد المسلمين من الحروب الصليبية إلى غزة، مع جداول مقارنة بمجازر غير المسلمين بما فيها الهولوكوست وسريبرنيتشا.",
+                      "description_en":  "A comparative historical study of major massacres against Muslims from the Crusades to Gaza, with data tables comparing non-Muslim massacres including the Holocaust and Srebrenica.",
+                      "cover":  "assets/covers/massacres-against-muslims.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/massacres-against-muslims.pdf",
+                                    "epub":  "assets/books/massacres-against-muslims.epub",
+                                    "docx":  "assets/books/massacres-against-muslims.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "yemen-saudi-relations",
+                      "title_ar":  "العلاقات اليمنية السعودية — تاريخ وتحولات عبر الأزمان",
+                      "title_en":  "Yemeni-Saudi Relations — History and Transformations Through the Ages",
+                      "subtitle_ar":  "تاريخ وتحولات عبر الأزمان",
+                      "category":  "yemen",
+                      "year":  2026,
+                      "pages":  54,
+                      "description_ar":  "دراسة تاريخية تحليلية للعلاقات اليمنية السعودية تتناول الحروب، الاعتماد الاقتصادي، الحدود، التهريب، وهل اليمن القوي يهدد المملكة العربية السعودية.",
+                      "description_en":  "A historical and analytical study of Yemeni-Saudi relations, covering wars, economic dependency, borders, smuggling, and whether a strong Yemen threatens Saudi Arabia.",
+                      "cover":  "assets/covers/yemen-saudi-relations.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/yemen-saudi-relations.pdf",
+                                    "epub":  "assets/books/yemen-saudi-relations.epub",
+                                    "docx":  "assets/books/yemen-saudi-relations.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "start-company-america",
+                      "title_ar":  "كيف تؤسّس شركتك في أمريكا",
+                      "title_en":  "How to Start Your Company in America",
+                      "subtitle_ar":  "دليل شامل للمبتدئين",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  99,
+                      "description_ar":  "دليل خطوة بخطوة للمبتدئين الناطقين بالعربية لتأسيس شركة في أمريكا، يغطي الجدوى، التسجيل، الضرائب، المكاتب الافتراضية، البنوك، والتأمين.",
+                      "description_en":  "A step-by-step guide for Arabic-speaking beginners on starting a business in America, covering feasibility, registration, taxes, virtual offices, banking, insurance, and more.",
+                      "cover":  "assets/covers/start-company-america.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/start-company-america.pdf",
+                                    "epub":  "assets/books/start-company-america.epub",
+                                    "docx":  "assets/books/start-company-america.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "data-engineering-guide",
+                      "title_ar":  "هندسة البيانات — الدليل الشامل",
+                      "title_en":  "Data Engineering — The Complete Guide",
+                      "subtitle_ar":  "كل ما تحتاج أن تعرفه لتصبح مهندس بيانات",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  104,
+                      "description_ar":  "دليل ثنائي اللغة شامل يغطي كل جوانب هندسة البيانات: الأدوات، التقنيات (نظام Apache البيئي، منصات السحابة)، المسارات المهنية، وبيانات الرواتب.",
+                      "description_en":  "A comprehensive bilingual guide covering every aspect of data engineering: tools, technologies (Apache ecosystem, cloud platforms), career paths, and salary data.",
+                      "cover":  "assets/covers/data-engineering-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/data-engineering-guide.pdf",
+                                    "epub":  "assets/books/data-engineering-guide.epub",
+                                    "docx":  "assets/books/data-engineering-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "tablighi-jamaat-study",
+                      "title_ar":  "جماعة الدعوة والتبليغ — دراسة شاملة",
+                      "title_en":  "The Tablighi Jamaat — A Comprehensive Study",
+                      "subtitle_ar":  "النشأة والمعتقدات والمواقف",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  50,
+                      "description_ar":  "دراسة شاملة لأصول جماعة الدعوة والتبليغ ومعتقداتها والأصول الستة وآراء العلماء والجدل المحيط بها.",
+                      "description_en":  "A thorough study of the origins, beliefs, the Six Principles, scholarly opinions, and controversy surrounding the Tablighi Jamaat movement.",
+                      "cover":  "assets/covers/tablighi-jamaat-study.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/tablighi-jamaat-study.pdf",
+                                    "epub":  "assets/books/tablighi-jamaat-study.epub",
+                                    "docx":  "assets/books/tablighi-jamaat-study.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "generations-on-trial",
+                      "title_ar":  "أجيال على المحك — الإسلام في المهجر بين الحفاظ والانسلاخ",
+                      "title_en":  "Generations on Trial — Islam in the Diaspora: Between Preservation and Apostasy",
+                      "subtitle_ar":  "دراسة مقارنة عبر أربعة أجيال في الجاليات المسلمة بالغرب",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  80,
+                      "description_ar":  "دراسة مقارنة لكيفية الحفاظ على الهوية الإسلامية أو فقدانها عبر أربعة أجيال من الجاليات المسلمة في الغرب، مع توصيات عملية.",
+                      "description_en":  "A comparative study of how Islamic identity is preserved or lost across four generations of Muslim communities in the West, with practical recommendations.",
+                      "cover":  "assets/covers/generations-on-trial.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/generations-on-trial.pdf",
+                                    "epub":  "assets/books/generations-on-trial.epub",
+                                    "docx":  "assets/books/generations-on-trial.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "muslims-in-the-west",
+                      "title_ar":  "المسلمون في الغرب — الإنجازات والتحديات والاندماج",
+                      "title_en":  "Muslims in the West — Achievements, Challenges, and Integration",
+                      "subtitle_ar":  "دراسة مقارنة لأداء الجاليات المسلمة",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  59,
+                      "description_ar":  "دراسة للجاليات المسلمة والعربية في الغرب، تقارن أداءها مع الجاليات الأخرى، وتغطي الديموغرافيا، الدخل، التعليم، الاندماج، وتحدي الأجيال القادمة.",
+                      "description_en":  "A study of Muslim and Arab communities in the West, comparing their performance with other communities, covering demographics, income, education, integration, and the challenge of future generations.",
+                      "cover":  "assets/covers/muslims-in-the-west.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/muslims-in-the-west.pdf",
+                                    "epub":  "assets/books/muslims-in-the-west.epub",
+                                    "docx":  "assets/books/muslims-in-the-west.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "usury-islamic-banking",
+                      "title_ar":  "الربا في الإسلام والبنوك الإسلامية",
+                      "title_en":  "Usury in Islam and Islamic Banking",
+                      "subtitle_ar":  "مقارنة شاملة بين البنوك الإسلامية والتقليدية",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  80,
+                      "description_ar":  "دراسة شاملة لتحريم الربا في الإسلام مع مقارنة تفصيلية بين البنوك الإسلامية والتقليدية في أمريكا.",
+                      "description_en":  "A comprehensive study of the prohibition of usury in Islam with a detailed comparison of Islamic vs. conventional banks in America.",
+                      "cover":  "assets/covers/usury-islamic-banking.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/usury-islamic-banking.pdf",
+                                    "epub":  "assets/books/usury-islamic-banking.epub",
+                                    "docx":  "assets/books/usury-islamic-banking.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "quran-bible-comparative",
+                      "title_ar":  "القرآن والإنجيل — دراسة مقارنة في مفاهيم السلام والقتال والتسامح",
+                      "title_en":  "The Quran and the Bible — A Comparative Study in Concepts of Peace, War, and Tolerance",
+                      "subtitle_ar":  "دراسة مقارنة في مفاهيم السلام والقتال والتسامح",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  59,
+                      "description_ar":  "دراسة علمية تقارن بين الآيات العنيفة والسلمية في القرآن والإنجيل، تردّ على ادعاءات أن الإسلام يروّج للعنف.",
+                      "description_en":  "A scholarly comparison of violent and peaceful verses in the Quran and Bible, refuting claims that Islam promotes violence.",
+                      "cover":  "assets/covers/quran-bible-comparative.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/quran-bible-comparative.pdf",
+                                    "epub":  "assets/books/quran-bible-comparative.epub",
+                                    "docx":  "assets/books/quran-bible-comparative.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "end-of-universe-quran",
+                      "title_ar":  "نهاية الكون في القرآن الكريم",
+                      "title_en":  "The End of the Universe in the Holy Quran",
+                      "subtitle_ar":  "تحليل علمي شامل",
+                      "category":  "quran",
+                      "year":  2026,
+                      "pages":  80,
+                      "description_ar":  "قراءة تأملية في الآيات القرآنية التي تتحدث عن نهاية الكون، ومقاربتها مع ما وصل إليه العلم الحديث في علم الفلك والفيزياء الكونية.",
+                      "description_en":  "A reflective reading of Quranic verses describing the end of the universe, compared with modern findings in astronomy and cosmology.",
+                      "cover":  "assets/covers/end-of-universe-quran.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/end-of-universe-quran.pdf",
+                                    "epub":  "assets/books/end-of-universe-quran.epub",
+                                    "docx":  "assets/books/end-of-universe-quran.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "yemen-problems-history",
+                      "title_ar":  "مشاكل اليمن عبر الأزمان",
+                      "title_en":  "Yemen\u0027s Problems Through the Ages",
+                      "subtitle_ar":  "قراءة تاريخية سياسية",
+                      "category":  "yemen",
+                      "year":  2026,
+                      "pages":  95,
+                      "description_ar":  "رحلة في تاريخ اليمن الحديث عبر قراءة معمقة للأزمات المتعاقبة وجذورها الاجتماعية والسياسية والاقتصادية.",
+                      "description_en":  "A journey through modern Yemen\u0027s history with a deep reading of successive crises and their social, political, and economic roots.",
+                      "cover":  "assets/covers/yemen-problems-history.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/yemen-problems-history.pdf",
+                                    "epub":  "assets/books/yemen-problems-history.epub",
+                                    "docx":  "assets/books/yemen-problems-history.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "us-israel-convergence",
+                      "title_ar":  "سر التقارب الأمريكي الإسرائيلي — من يقود من؟",
+                      "title_en":  "The Secret of the American-Israeli Alliance — Who Leads Whom?",
+                      "subtitle_ar":  "تحليل في بنية القرار",
+                      "category":  "politics",
+                      "year":  2026,
+                      "pages":  110,
+                      "description_ar":  "تحليل لطبيعة العلاقة الأمريكية الإسرائيلية، وآليات التأثير المتبادل بين اللوبيات والمؤسسات وصناع القرار في واشنطن وتل أبيب.",
+                      "description_en":  "An analysis of the US-Israel relationship — the mechanisms of mutual influence between lobbies, institutions, and decision-makers in Washington and Tel Aviv.",
+                      "cover":  "assets/covers/us-israel-convergence.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/us-israel-convergence.pdf",
+                                    "epub":  "assets/books/us-israel-convergence.epub",
+                                    "docx":  "assets/books/us-israel-convergence.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "yemen-unity-ended",
+                      "title_ar":  "هل انتهت الوحدة اليمنية؟",
+                      "title_en":  "Has Yemeni Unity Ended?",
+                      "subtitle_ar":  "قراءة في مآلات مشروع مايو 1990",
+                      "category":  "yemen",
+                      "year":  2026,
+                      "pages":  90,
+                      "description_ar":  "محاولة للإجابة عن سؤال شائك: هل ما زالت وحدة 1990 قائمة فعلياً؟ قراءة في المسار السياسي والاجتماعي منذ الوحدة حتى اليوم.",
+                      "description_en":  "An attempt to answer a thorny question: does the 1990 unification still hold in practice? A reading of the political and social trajectory since unity until today.",
+                      "cover":  "assets/covers/yemen-unity-ended.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/yemen-unity-ended.pdf",
+                                    "epub":  "assets/books/yemen-unity-ended.epub",
+                                    "docx":  "assets/books/yemen-unity-ended.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "yemen-presidents-wikileaks",
+                      "title_ar":  "الرؤساء اليمنيون في مذكرات ويكيليكس",
+                      "title_en":  "Yemeni Presidents in WikiLeaks Cables",
+                      "subtitle_ar":  "وثائق ومراسلات",
+                      "category":  "yemen",
+                      "year":  2026,
+                      "pages":  105,
+                      "description_ar":  "تقديم وتحليل لأهم ما كشفته وثائق ويكيليكس عن الرؤساء اليمنيين وعلاقاتهم بالخارج، وما تكشفه من أنماط اتخاذ القرار في الدولة.",
+                      "description_en":  "A presentation and analysis of key WikiLeaks disclosures about Yemeni presidents and their foreign relations, revealing patterns of state decision-making.",
+                      "cover":  "assets/covers/yemen-presidents-wikileaks.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/yemen-presidents-wikileaks.pdf",
+                                    "epub":  "assets/books/yemen-presidents-wikileaks.epub",
+                                    "docx":  "assets/books/yemen-presidents-wikileaks.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "us-israel-alliance-power",
+                      "title_ar":  "أسرار قوة التحالف الأمريكي الإسرائيلي",
+                      "title_en":  "Secrets of the American-Israeli Alliance\u0027s Power",
+                      "subtitle_ar":  "الهوية الدينية عبر الأجيال في المهجر",
+                      "category":  "politics",
+                      "year":  2026,
+                      "pages":  88,
+                      "description_ar":  "قراءة معمقة في مصادر قوة التحالف الأمريكي الإسرائيلي، مع التركيز على دور الهوية الدينية عبر الأجيال في تشكيل المواقف داخل الجاليات في المهجر.",
+                      "description_en":  "A deep reading of the sources of the US-Israel alliance\u0027s strength, focusing on how religious identity across generations shapes attitudes within diaspora communities.",
+                      "cover":  "assets/covers/us-israel-alliance-power.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/us-israel-alliance-power.pdf",
+                                    "epub":  "assets/books/us-israel-alliance-power.epub",
+                                    "docx":  "assets/books/us-israel-alliance-power.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "art-of-parenting",
+                      "title_ar":  "فن التربية — كيف تصنع قادة من أبنائك",
+                      "title_en":  "The Art of Parenting — How to Raise Leaders",
+                      "subtitle_ar":  "دليل عملي للآباء والأمهات",
+                      "category":  "family",
+                      "year":  2026,
+                      "pages":  132,
+                      "description_ar":  "كتاب عملي للآباء والأمهات في بناء شخصية الأبناء القيادية، يدمج بين التربية الإسلامية الأصيلة وعلم النفس الحديث.",
+                      "description_en":  "A practical guide for parents on building leadership in children, combining authentic Islamic upbringing with modern psychology.",
+                      "cover":  "assets/covers/art-of-parenting.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/art-of-parenting.pdf",
+                                    "epub":  "assets/books/art-of-parenting.epub",
+                                    "docx":  "assets/books/art-of-parenting.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "llm-research-education",
+                      "title_ar":  "تأثير النماذج اللغوية الكبيرة على البحث العلمي والتعليم الجامعي",
+                      "title_en":  "The Impact of Large Language Models on Scientific Research and University Education",
+                      "subtitle_ar":  "رؤية من داخل الجامعة الأمريكية",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  52,
+                      "description_ar":  "استعراض عملي لتأثير النماذج اللغوية الكبيرة على البحث العلمي وتدريس الجامعات، من موقع باحث ومعلم في جامعة أمريكية بحثية.",
+                      "description_en":  "A practical review of how large language models are changing scientific research and university teaching — from the vantage of a researcher-educator at a US research university.",
+                      "cover":  "assets/covers/llm-research-education.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/llm-research-education.pdf",
+                                    "epub":  "assets/books/llm-research-education.epub",
+                                    "docx":  "assets/books/llm-research-education.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "signs-of-the-hour",
+                      "title_ar":  "علامات الساعة",
+                      "title_en":  "Signs of the Hour — Minor and Major",
+                      "subtitle_ar":  "قراءة تأملية في النصوص",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  96,
+                      "description_ar":  "جمع وتحليل لعلامات الساعة الصغرى والكبرى من الكتاب والسنة، مع تمييز الصحيح من الضعيف، وتدبر ما تحقق منها وما لم يتحقق.",
+                      "description_en":  "A gathering and analysis of the minor and major signs of the Hour from the Quran and Sunnah, distinguishing sound from weak narrations, and reflecting on what has come to pass.",
+                      "cover":  "assets/covers/signs-of-the-hour.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/signs-of-the-hour.pdf",
+                                    "epub":  "assets/books/signs-of-the-hour.epub",
+                                    "docx":  "assets/books/signs-of-the-hour.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "retirement-planning",
+                      "title_ar":  "التخطيط للتقاعد",
+                      "title_en":  "Planning for Retirement",
+                      "subtitle_ar":  "دليل مالي وحياتي للمهاجرين",
+                      "category":  "personal",
+                      "year":  2026,
+                      "pages":  71,
+                      "description_ar":  "دليل عملي للتخطيط المالي والحياتي للتقاعد، مع تركيز خاص على أوضاع المهاجرين العرب في أمريكا وكيفية الموازنة بين متطلبات الحاضر والمستقبل.",
+                      "description_en":  "A practical guide to financial and lifestyle retirement planning, with a focus on Arab immigrants in the US and balancing present needs with future security.",
+                      "cover":  "assets/covers/retirement-planning.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/retirement-planning.pdf",
+                                    "epub":  "assets/books/retirement-planning.epub",
+                                    "docx":  "assets/books/retirement-planning.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "cryptocurrencies",
+                      "title_ar":  "العملات الرقمية — دليل شامل للمبتدئين",
+                      "title_en":  "Cryptocurrencies — A Comprehensive Beginner\u0027s Guide",
+                      "subtitle_ar":  "من البيتكوين إلى البلوكتشين",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  69,
+                      "description_ar":  "مدخل واضح ومبسط إلى عالم العملات الرقمية: البيتكوين، الإيثيريوم، تقنية البلوكتشين، المحافظ الرقمية، والاستثمار الآمن.",
+                      "description_en":  "A clear, simplified introduction to the world of digital currencies: Bitcoin, Ethereum, blockchain technology, digital wallets, and safe investing.",
+                      "cover":  "assets/covers/cryptocurrencies.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/cryptocurrencies.pdf",
+                                    "epub":  "assets/books/cryptocurrencies.epub",
+                                    "docx":  "assets/books/cryptocurrencies.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "silicon-valley",
+                      "title_ar":  "وادي السيليكون — تاريخ وابتكار وريادة عالمية",
+                      "title_en":  "Silicon Valley — History, Innovation, and Global Leadership",
+                      "subtitle_ar":  "كيف صنع وادي السيليكون المستقبل",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  81,
+                      "description_ar":  "قصة وادي السيليكون من نشأته في بالو ألتو إلى قيادته التكنولوجية العالمية، مع دروس يمكن للعرب استلهامها لبناء مراكز ابتكار مماثلة.",
+                      "description_en":  "The story of Silicon Valley from its origins in Palo Alto to global tech leadership, with lessons Arabs can draw to build similar innovation hubs.",
+                      "cover":  "assets/covers/silicon-valley.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/silicon-valley.pdf",
+                                    "epub":  "assets/books/silicon-valley.epub",
+                                    "docx":  "assets/books/silicon-valley.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "america-national-parks",
+                      "title_ar":  "أشهر المتنزهات الوطنية في أمريكا",
+                      "title_en":  "America\u0027s Most Famous National Parks",
+                      "subtitle_ar":  "دليل مصور للرحالة العربي",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  83,
+                      "description_ar":  "دليل للرحالة العربي المقيم في أمريكا أو الزائر لها، يستعرض أشهر المتنزهات الوطنية مع نصائح عملية للزيارة والإقامة والتخطيط.",
+                      "description_en":  "A guide for Arab travelers living in or visiting the US, reviewing the most famous national parks with practical advice for visiting, lodging, and planning.",
+                      "cover":  "assets/covers/america-national-parks.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/america-national-parks.pdf",
+                                    "epub":  "assets/books/america-national-parks.epub",
+                                    "docx":  "assets/books/america-national-parks.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "used-cars-america",
+                      "title_ar":  "دليل شراء وبيع السيارات المستعملة في أمريكا",
+                      "title_en":  "Guide to Buying and Selling Used Cars in America",
+                      "subtitle_ar":  "خطوة بخطوة للمهاجر الجديد",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  88,
+                      "description_ar":  "دليل عملي للمهاجر العربي في أمريكا حول شراء وبيع السيارات المستعملة: الفحص، التمويل، التأمين، التسجيل، وتجنب الخداع.",
+                      "description_en":  "A practical guide for Arab immigrants in the US on buying and selling used cars: inspection, financing, insurance, registration, and avoiding scams.",
+                      "cover":  "assets/covers/used-cars-america.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/used-cars-america.pdf",
+                                    "epub":  "assets/books/used-cars-america.epub",
+                                    "docx":  "assets/books/used-cars-america.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "claude-code-guide",
+                      "title_ar":  "كلود كود — الدليل الشامل",
+                      "title_en":  "Claude Code — The Complete Guide",
+                      "subtitle_ar":  "البرمجة بمساعدة الذكاء الاصطناعي",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  73,
+                      "description_ar":  "دليل شامل لاستخدام كلود كود، أداة أنثروبيك للبرمجة بالذكاء الاصطناعي من سطر الأوامر: التثبيت، الإعدادات، أنماط الاستخدام، ودمجها في سير العمل البحثي.",
+                      "description_en":  "A complete guide to Claude Code — Anthropic\u0027s agentic coding tool for the terminal: installation, setup, usage patterns, and integration into a research workflow.",
+                      "cover":  "assets/covers/claude-code-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/claude-code-guide.pdf",
+                                    "epub":  "assets/books/claude-code-guide.epub",
+                                    "docx":  "assets/books/claude-code-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "yemeni-immigrant-guide",
+                      "title_ar":  "دليل المهاجر اليمني الجديد إلى أمريكا",
+                      "title_en":  "The New Yemeni Immigrant\u0027s Guide to America",
+                      "subtitle_ar":  "خطوات الاستقرار والنجاح",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  73,
+                      "description_ar":  "دليل شامل للمهاجر اليمني الجديد إلى أمريكا: الوثائق، السكن، العمل، التعليم، المسجد والمجتمع، والتكيف الثقافي.",
+                      "description_en":  "A comprehensive guide for the new Yemeni immigrant to America: documents, housing, employment, education, mosque and community, and cultural adaptation.",
+                      "cover":  "assets/covers/yemeni-immigrant-guide.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/yemeni-immigrant-guide.pdf",
+                                    "epub":  "assets/books/yemeni-immigrant-guide.epub",
+                                    "docx":  "assets/books/yemeni-immigrant-guide.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "muslim-marital-rights-west",
+                      "title_ar":  "الحقوق الزوجية والحياة الأسرية للمسلمين في الغرب",
+                      "title_en":  "Marital Rights and Family Life for Muslims in the West",
+                      "subtitle_ar":  "الفقه الإسلامي في السياق الغربي",
+                      "category":  "family",
+                      "year":  2026,
+                      "pages":  64,
+                      "description_ar":  "معالجة فقهية وعملية للحقوق الزوجية والحياة الأسرية للمسلمين في الغرب، مع التطرق لقضايا الزواج، الطلاق، الميراث، وتربية الأبناء في بيئة غير مسلمة.",
+                      "description_en":  "A jurisprudential and practical treatment of marital rights and family life for Muslims in the West, covering marriage, divorce, inheritance, and raising children in non-Muslim environments.",
+                      "cover":  "assets/covers/muslim-marital-rights-west.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/muslim-marital-rights-west.pdf",
+                                    "epub":  "assets/books/muslim-marital-rights-west.epub",
+                                    "docx":  "assets/books/muslim-marital-rights-west.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "bioinformatics-future-ai",
+                      "title_ar":  "مستقبل المعلوماتية الحيوية والبيولوجيا الحاسوبية في عصر الذكاء الاصطناعي",
+                      "title_en":  "The Future of Bioinformatics and Computational Biology in the Age of AI",
+                      "subtitle_ar":  "رؤية باحث في الجينوميات",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  69,
+                      "description_ar":  "رؤية تحليلية من داخل الحقل حول كيف يعيد الذكاء الاصطناعي تشكيل المعلوماتية الحيوية والبيولوجيا الحاسوبية، مع التركيز على الجينوميات المكانية والتحليل أحادي الخلية.",
+                      "description_en":  "An insider\u0027s analytical view of how AI is reshaping bioinformatics and computational biology, with emphasis on spatial genomics and single-cell analysis.",
+                      "cover":  "assets/covers/bioinformatics-future-ai.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/bioinformatics-future-ai.pdf",
+                                    "epub":  "assets/books/bioinformatics-future-ai.epub",
+                                    "docx":  "assets/books/bioinformatics-future-ai.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "quran-verses-classification",
+                      "title_ar":  "تصنيف الآيات في القرآن الكريم — دراسة تأملية في البنية الموضوعية",
+                      "title_en":  "Classification of Verses in the Holy Quran — A Reflective Study on Thematic Structure",
+                      "subtitle_ar":  "قراءة في البنية الموضوعية",
+                      "category":  "quran",
+                      "year":  2026,
+                      "pages":  80,
+                      "description_ar":  "دراسة تأملية تحاول تصنيف آيات القرآن الكريم وفق بنيتها الموضوعية: العقيدة، التشريع، القصص، الأخلاق، والكون، مع إبراز التشابك بينها.",
+                      "description_en":  "A reflective study classifying Quranic verses by their thematic structure — creed, legislation, narratives, ethics, and cosmos — highlighting how they interweave.",
+                      "cover":  "assets/covers/quran-verses-classification.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/quran-verses-classification.pdf",
+                                    "epub":  "assets/books/quran-verses-classification.epub",
+                                    "docx":  "assets/books/quran-verses-classification.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "how-llms-work",
+                      "title_ar":  "كيف تعمل النماذج اللغوية الكبيرة — دليل مبسّط",
+                      "title_en":  "How Large Language Models Work — A Simplified Guide",
+                      "subtitle_ar":  "من الكلمة إلى التوليد",
+                      "category":  "tech",
+                      "year":  2026,
+                      "pages":  65,
+                      "description_ar":  "شرح مبسط لكيفية عمل النماذج اللغوية الكبيرة: التضمينات، الانتباه، طبقات المحوّل، التدريب، والتوليد — بلغة يفهمها غير المتخصص.",
+                      "description_en":  "A simplified explanation of how large language models work: embeddings, attention, transformer layers, training, and generation — in language accessible to non-specialists.",
+                      "cover":  "assets/covers/how-llms-work.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/how-llms-work.pdf",
+                                    "epub":  "assets/books/how-llms-work.epub",
+                                    "docx":  "assets/books/how-llms-work.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "american-universities-secret",
+                      "title_ar":  "سر قوة الجامعات الأمريكية",
+                      "title_en":  "The Secret of American Universities\u0027 Power",
+                      "subtitle_ar":  "من الداخل — رحلة باحث",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  157,
+                      "description_ar":  "رحلة من داخل الأكاديميا الأمريكية تكشف عن مصادر قوة الجامعات الأمريكية: التمويل، الاستقطاب، الحرية الأكاديمية، التنوع، وثقافة البحث.",
+                      "description_en":  "A journey from inside American academia revealing the sources of US universities\u0027 strength: funding, recruitment, academic freedom, diversity, and research culture.",
+                      "cover":  "assets/covers/american-universities-secret.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/american-universities-secret.pdf",
+                                    "epub":  "assets/books/american-universities-secret.epub",
+                                    "docx":  "assets/books/american-universities-secret.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "my-grandmother-atiqa",
+                      "title_ar":  "عتيقة — حكاية جدتي من جبال اليمن",
+                      "title_en":  "Ateeqa — My Grandmother\u0027s Story from the Mountains of Yemen",
+                      "subtitle_ar":  "رواية قصصية",
+                      "category":  "personal",
+                      "year":  2026,
+                      "pages":  103,
+                      "description_ar":  "سيرة قصصية حميمة لجدة الكاتب، عتيقة بنت سعد العاقفي، التاجرة المكافحة من كحلان عفار في حجة، تحتفي بقوتها وتضحيتها وإيمانها.",
+                      "description_en":  "A narrative memoir of the author\u0027s grandmother, Ateeqa bint Saad Al-Aqifi, a tireless merchant woman from Kahlan Afar in Hajjah, Yemen, celebrating her strength, sacrifice, and faith.",
+                      "cover":  "assets/covers/my-grandmother-atiqa.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/my-grandmother-atiqa.pdf",
+                                    "epub":  "assets/books/my-grandmother-atiqa.epub",
+                                    "docx":  "assets/books/my-grandmother-atiqa.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ],
+                      "featured":  true
+                  },
+                  {
+                      "id":  "islamic-caliphate-history",
+                      "title_ar":  "الخلافة الإسلامية: من السقيفة إلى سقوط غرناطة",
+                      "title_en":  "The Islamic Caliphate: From Saqifah to the Fall of Granada",
+                      "subtitle_ar":  "رحلة في ألف عام من التاريخ",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  115,
+                      "description_ar":  "رحلة تاريخية في ألف عام من الخلافة الإسلامية، من اجتماع سقيفة بني ساعدة إلى سقوط غرناطة، مع قراءة تحليلية في صعودها وأفولها.",
+                      "description_en":  "A historical journey through a thousand years of Islamic caliphate — from the gathering at Saqifah to the fall of Granada — with analytical reflection on its rise and decline.",
+                      "cover":  "assets/covers/islamic-caliphate-history.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/islamic-caliphate-history.pdf",
+                                    "epub":  "assets/books/islamic-caliphate-history.epub",
+                                    "docx":  "assets/books/islamic-caliphate-history.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "salafism-study",
+                      "title_ar":  "السلفية — دراسة في المفهوم والنشأة والتيارات المعاصرة",
+                      "title_en":  "Salafism — A Study in Concept, Origins, and Contemporary Currents",
+                      "subtitle_ar":  "من ابن تيمية إلى اليوم",
+                      "category":  "islamic",
+                      "year":  2026,
+                      "pages":  105,
+                      "description_ar":  "دراسة موضوعية للسلفية: مفهومها، نشأتها من ابن تيمية إلى الشيخ محمد بن عبد الوهاب، وتياراتها المعاصرة المختلفة.",
+                      "description_en":  "An objective study of Salafism: its concept, its origins from Ibn Taymiyyah to Sheikh Muhammad ibn Abd al-Wahhab, and its diverse contemporary currents.",
+                      "cover":  "assets/covers/salafism-study.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/salafism-study.pdf",
+                                    "epub":  "assets/books/salafism-study.epub",
+                                    "docx":  "assets/books/salafism-study.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "legitimate-criticism-antisemitism",
+                      "title_ar":  "النقد المشروع وحدود معاداة السامية",
+                      "title_en":  "Legitimate Criticism and the Boundaries of Antisemitism",
+                      "subtitle_ar":  "حيث ينتهي النقد وتبدأ العنصرية",
+                      "category":  "politics",
+                      "year":  2026,
+                      "pages":  92,
+                      "description_ar":  "بحث في التمييز بين النقد السياسي المشروع لسياسات دولة إسرائيل وبين معاداة السامية كتمييز عرقي، مع استعراض النصوص القانونية والتاريخية.",
+                      "description_en":  "An inquiry into the distinction between legitimate political criticism of Israeli state policies and antisemitism as ethnic discrimination, reviewing legal and historical texts.",
+                      "cover":  "assets/covers/legitimate-criticism-antisemitism.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/legitimate-criticism-antisemitism.pdf"
+                                },
+                      "formats":  [
+                                      "pdf"
+                                  ],
+                      "status":  "in-production"
+                  },
+                  {
+                      "id":  "academic-success-us-universities",
+                      "title_ar":  "كيف تنجح أكاديمياً في الجامعات الأمريكية",
+                      "title_en":  "How to Succeed Academically in American Universities",
+                      "subtitle_ar":  "دليل الطالب العربي",
+                      "category":  "diaspora",
+                      "year":  2026,
+                      "pages":  123,
+                      "description_ar":  "دليل عملي للطالب العربي في الجامعات الأمريكية: كيفية الاختيار، التسجيل، الدراسة، البحث، التعامل مع الأساتذة، وتجنب الأخطاء الشائعة.",
+                      "description_en":  "A practical guide for Arab students in US universities: choosing, registering, studying, researching, dealing with professors, and avoiding common pitfalls.",
+                      "cover":  "assets/covers/academic-success-us-universities.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/academic-success-us-universities.pdf",
+                                    "epub":  "assets/books/academic-success-us-universities.epub",
+                                    "docx":  "assets/books/academic-success-us-universities.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "successful-marriage",
+                      "title_ar":  "الزواج الناجح — دليل عملي بمنظور إسلامي",
+                      "title_en":  "Successful Marriage — A Practical Guide from an Islamic Perspective",
+                      "subtitle_ar":  "رفيق \"فن التربية\"",
+                      "category":  "family",
+                      "year":  2026,
+                      "pages":  146,
+                      "description_ar":  "دليل عملي للزواج الناجح من منظور إسلامي، يعالج اختيار الشريك، الحياة الزوجية، حل الخلافات، وبناء البيت المسلم. رفيق كتاب \"فن التربية\".",
+                      "description_en":  "A practical guide to a successful marriage from an Islamic perspective — choosing a partner, married life, resolving conflicts, and building a Muslim household. Companion to \"The Art of Parenting\".",
+                      "cover":  "assets/covers/successful-marriage.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/successful-marriage.pdf",
+                                    "epub":  "assets/books/successful-marriage.epub",
+                                    "docx":  "assets/books/successful-marriage.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "quran-scientific-miracles",
+                      "title_ar":  "الإعجاز العلمي في القرآن — من منظور باحث في الجينوميات",
+                      "title_en":  "Scientific Miracles in the Quran — A Genomics Researcher\u0027s Perspective",
+                      "subtitle_ar":  "قراءة علمية لآيات الكون والإنسان",
+                      "category":  "quran",
+                      "year":  2026,
+                      "pages":  98,
+                      "description_ar":  "قراءة علمية منضبطة في آيات القرآن الكونية والإنسانية من موقع باحث في الجينوميات، مع حرص على تجنب التكلّف والإسقاط على النص.",
+                      "description_en":  "A disciplined scientific reading of Quranic verses on the cosmos and humanity from the vantage of a genomics researcher, avoiding forced interpretation or projection onto the text.",
+                      "cover":  "assets/covers/quran-scientific-miracles.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/quran-scientific-miracles.pdf",
+                                    "epub":  "assets/books/quran-scientific-miracles.epub",
+                                    "docx":  "assets/books/quran-scientific-miracles.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  },
+                  {
+                      "id":  "america-rise-decline",
+                      "title_ar":  "أمريكا — صعود القوة وبوادر الأفول",
+                      "title_en":  "America — The Rise of Power and the Signs of Decline",
+                      "subtitle_ar":  "قراءة في مئتين وخمسين عاماً",
+                      "category":  "politics",
+                      "year":  2026,
+                      "pages":  140,
+                      "description_ar":  "قراءة تاريخية وسياسية لصعود الولايات المتحدة إلى قمة القوة العالمية، والبوادر المعاصرة التي تشير إلى بدء مرحلة الأفول.",
+                      "description_en":  "A historical and political reading of America\u0027s ascent to global power, and the contemporary signs suggesting the onset of decline.",
+                      "cover":  "assets/covers/america-rise-decline.jpg",
+                      "files":  {
+                                    "pdf":  "assets/books/america-rise-decline.pdf",
+                                    "epub":  "assets/books/america-rise-decline.epub",
+                                    "docx":  "assets/books/america-rise-decline.docx"
+                                },
+                      "formats":  [
+                                      "pdf",
+                                      "epub",
+                                      "docx"
+                                  ]
+                  }
+              ]
+}

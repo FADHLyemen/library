@@ -64,6 +64,28 @@
   ],
   "books": [
     {
+      "id": "sunni-shia-rapprochement",
+      "title_ar": "التقارب السني الشيعي",
+      "title_en": "Sunni–Shia Rapprochement",
+      "subtitle_ar": "بين الجوهر الديني والصراع السياسي",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 86,
+      "description_ar": "دراسة تحليلية معمّقة للعلاقة بين المذهبين السني والشيعي، تكشف الفروق الجوهرية من الفرعية، وتُشرّح الأسباب الحقيقية للخلاف بين الديني والسياسي، ودور القوى الخارجية في تأجيج الصراع، وتطرح طريقاً واقعياً للتقارب.",
+      "description_en": "An in-depth analytical study of the Sunni–Shia relationship that distinguishes substantive doctrinal differences from secondary ones, anatomizes the true religious-versus-political causes of conflict, examines the role of external powers in fueling division, and presents a realistic path toward genuine rapprochement.",
+      "cover": "assets/covers/sunni-shia-rapprochement.jpg",
+      "files": {
+        "pdf": "assets/books/sunni-shia-rapprochement.pdf",
+        "epub": "assets/books/sunni-shia-rapprochement.epub",
+        "docx": "assets/books/sunni-shia-rapprochement.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
+    {
       "id": "ai-jobs-future-2026-2036",
       "title_ar": "الذكاء الاصطناعي ومستقبل المهن — أيها يندثر وأيها يصعد",
       "title_en": "AI and the Future of Work — Which Jobs Will Disappear, Which Will Rise",
