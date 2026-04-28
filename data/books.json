@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-04-27",
+    "last_updated": "2026-04-28",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "ai-agents-mcp",
+      "title_ar": "العملاء الأذكياء وبروتوكول MCP - بناء أنظمة ذكاء اصطناعي مستقلة",
+      "title_en": "AI Agents and the Model Context Protocol - Building Autonomous AI Systems",
+      "subtitle_ar": "دليل عملي متقدم - برنامج LLM4Yemen - المسار التطبيقي",
+      "category": "tech",
+      "year": 2026,
+      "pages": 673,
+      "description_ar": "كتاب شامل حول بناء العملاء الأذكياء وخوادم MCP من الصفر - 12 فصلاً، مشروعان تطبيقيان، ومشروع ختامي لمدة 5 أيام ضمن برنامج LLM4Yemen.",
+      "description_en": "A comprehensive book on building intelligent agents and MCP servers from scratch - 12 chapters, two anchor projects, and a 5-day Track B capstone for the LLM4Yemen program.",
+      "cover": "assets/covers/ai-agents-mcp.jpg",
+      "files": {
+        "pdf": "assets/books/ai-agents-mcp.pdf",
+        "epub": "assets/books/ai-agents-mcp.epub",
+        "docx": "assets/books/ai-agents-mcp.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "rag-engineering-guide",
       "title_ar": "التوليد المعزز بالاسترجاع - دليل عملي لبناء أنظمة RAG",
