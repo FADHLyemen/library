@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "rag-engineering-guide",
+      "title_ar": "التوليد المعزز بالاسترجاع - دليل عملي لبناء أنظمة RAG",
+      "title_en": "Retrieval-Augmented Generation - A Practical Guide to Building RAG Systems",
+      "subtitle_ar": "كتاب الأسبوع الثالث - برنامج LLM4Yemen",
+      "category": "tech",
+      "year": 2026,
+      "pages": 717,
+      "description_ar": "دليل عملي شامل لبناء أنظمة التوليد المعزز بالاسترجاع (RAG) من النموذج الأولي إلى النشر الإنتاجي. موجّه للطلاب اليمنيين في علوم الحاسوب وحديثي التخرج الباحثين عن دخل من العمل الحر الدولي. يبني الكتاب مشروعين عمليين: نظام RAG أساسي ومساعد بحث أكاديمي عربي بمستوى الإنتاج.",
+      "description_en": "A practical end-to-end guide to building Retrieval-Augmented Generation systems, from prototype to production deployment. Aimed at Yemeni computer-science students and recent graduates pursuing international freelance income. The book builds two real projects: a basic RAG system and a production-grade Arabic academic research assistant.",
+      "cover": "assets/covers/rag-engineering-guide.jpg",
+      "files": {
+        "pdf": "assets/books/rag-engineering-guide.pdf",
+        "epub": "assets/books/rag-engineering-guide.epub",
+        "docx": "assets/books/rag-engineering-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "ai-freelancing-guide",
       "title_ar": "العمل الحر بالذكاء الاصطناعي — دليل المستقل اليمني والعربي",
       "title_en": "AI-Powered Freelancing — A Guide for Yemeni and Arab Independent Workers",
