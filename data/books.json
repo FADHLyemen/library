@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "no-code-ai-automation",
+      "title_ar": "الأتمتة بدون كود - دليل بناء سير عمل ذكي",
+      "title_en": "No-Code AI Automation - A Guide to Intelligent Workflows",
+      "subtitle_ar": "الأسبوع الخامس - مسار الأتمتة الذكية - برنامج LLM4Yemen",
+      "category": "tech",
+      "year": 2026,
+      "pages": 459,
+      "description_ar": "الكتاب السابع والأخير في سلسلة LLM4Yemen - الأسبوع الخامس لطلاب مسار A. دليل عملي لبناء الأتمتة بدون كود باستخدام Make و Zapier و n8n مع الذكاء الاصطناعي. يتضمن 30 وصفة قابلة للبيع، و33 بناءً عملياً، ومشروعاً ختامياً لمدة خمسة أيام.",
+      "description_en": "The seventh and final book in the LLM4Yemen series - Week 5 for Track A students. A practical guide to building intelligent automations without code using Make, Zapier, and n8n with AI. Includes 30 sellable recipes, 33 practical builds, and a five-day capstone project.",
+      "cover": "assets/covers/no-code-ai-automation.jpg",
+      "files": {
+        "pdf": "assets/books/no-code-ai-automation.pdf",
+        "epub": "assets/books/no-code-ai-automation.epub",
+        "docx": "assets/books/no-code-ai-automation.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "ai-agents-mcp",
       "title_ar": "العملاء الأذكياء وبروتوكول MCP - بناء أنظمة ذكاء اصطناعي مستقلة",
       "title_en": "AI Agents and the Model Context Protocol - Building Autonomous AI Systems",
