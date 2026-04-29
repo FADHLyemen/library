@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "python-for-ai",
+      "title_ar": "بايثون للذكاء الاصطناعي: من الصفر إلى البناء",
+      "title_en": "Python for AI: From Zero to Building",
+      "subtitle_ar": "كتاب تأسيسي لطلاب مسار B في برنامج LLM4Yemen",
+      "category": "tech",
+      "year": 2026,
+      "pages": 516,
+      "description_ar": "كتاب عملي يأخذ القارئ من عدم معرفة البرمجة إلى بناء أول تطبيق ذكاء اصطناعي عربي، في أسبوعين فقط. يغطي بايثون من الأساسيات إلى استدعاء النماذج اللغوية، ويُختتم بمشروع تلخيص ملف CSV عربي عبر الذكاء الاصطناعي. مصمَّم خصيصًا لطلاب مسار B في برنامج LLM4Yemen، ويُمهد الطريق لكتاب RAG التالي في البرنامج.",
+      "description_en": "A practical book taking the reader from zero programming knowledge to building their first Arabic AI application in just two weeks. Covers Python from fundamentals to calling LLM APIs, concluding with a capstone project summarizing an Arabic CSV via AI. Designed specifically for Track B students of the LLM4Yemen program, paving the way for the upcoming RAG textbook.",
+      "cover": "assets/covers/python-for-ai.jpg",
+      "files": {
+        "pdf": "assets/books/python-for-ai.pdf",
+        "epub": "assets/books/python-for-ai.epub",
+        "docx": "assets/books/python-for-ai.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "arabic-nlp-and-the-llm",
       "title_ar": "معالجة اللغة العربية مع نماذج الذكاء الاصطناعي: العمل بلغتك الأم",
       "title_en": "Arabic NLP and the LLM: Working in Your Mother Tongue",
