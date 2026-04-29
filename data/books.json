@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "prompt-engineering-llm4yemen",
+      "title_ar": "هندسة الأوامر — فن التحاور مع الذكاء الاصطناعي",
+      "title_en": "Prompt Engineering - The Art of Communicating with AI",
+      "subtitle_ar": "",
+      "category": "tech",
+      "year": 2026,
+      "pages": 368,
+      "description_ar": "",
+      "description_en": "",
+      "cover": "assets/covers/prompt-engineering-llm4yemen.jpg",
+      "files": {
+        "pdf": "assets/books/prompt-engineering-llm4yemen.pdf",
+        "epub": "assets/books/prompt-engineering-llm4yemen.epub",
+        "docx": "assets/books/prompt-engineering-llm4yemen.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "ai-content-creators",
       "title_ar": "الذكاء الاصطناعي لصنّاع المحتوى - دليل التصميم والصوت والفيديو",
       "title_en": "AI for Content Creators - A Guide to Design, Audio, and Video",
