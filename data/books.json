@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "ai-content-creators",
+      "title_ar": "الذكاء الاصطناعي لصنّاع المحتوى - دليل التصميم والصوت والفيديو",
+      "title_en": "AI for Content Creators - A Guide to Design, Audio, and Video",
+      "subtitle_ar": "دليل عملي تطبيقي - مسار المحتوى الإبداعي Track A - برنامج LLM4Yemen",
+      "category": "tech",
+      "year": 2026,
+      "pages": 834,
+      "description_ar": "دليل عملي مرئي يعلّم الطلاب والخريجين اليمنيين كيف يصنعون محتوى احترافياً بالذكاء الاصطناعي - تصميم الصور، توليد الأصوات، إنتاج الفيديو، والكتابة الإبداعية - وتحويل هذه المهارات إلى دخل بالعملة الصعبة عبر منصات العمل الحر العالمية.",
+      "description_en": "A visual, practical handbook teaching Yemeni undergraduates and graduates how to create professional content with AI - image design, voice generation, video production, creative writing - and turn those skills into hard-currency income through global freelance platforms.",
+      "cover": "assets/covers/ai-content-creators.jpg",
+      "files": {
+        "pdf": "assets/books/ai-content-creators.pdf",
+        "epub": "assets/books/ai-content-creators.epub",
+        "docx": "assets/books/ai-content-creators.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "no-code-ai-automation",
       "title_ar": "الأتمتة بدون كود - دليل بناء سير عمل ذكي",
       "title_en": "No-Code AI Automation - A Guide to Intelligent Workflows",
