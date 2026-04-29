@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-04-28",
+    "last_updated": "2026-04-29",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "ai-freelance-portfolio",
+      "title_ar": "بناء معرض أعمالك في مجال الذكاء الاصطناعي: 30 مشروعاً حقيقياً",
+      "title_en": "Building Your AI Freelance Portfolio: 30 Real Projects",
+      "subtitle_ar": "دليل عملي لطلاب LLM4Yemen لتحويل المهارات إلى مشاريع",
+      "category": "tech",
+      "year": 2026,
+      "pages": 56,
+      "description_ar": "دليل عملي يقدم ثلاثين مشروعاً جاهزاً للبناء في ست فئات: المحتوى، استخراج البيانات، روبوتات المحادثة، الأتمتة، الأدوات الإبداعية، وأدوات الأعمال. كل مشروع يمكن بناؤه خلال ثلاث إلى ثماني ساعات عبر مسار بدون كود أو مسار Python، مع تسعير عالمي بالدولار وأمثلة للواجهات. يتضمن فصلاً ختامياً عن تحويل مشاريع المعرض إلى أعمال مدفوعة مع العملاء.",
+      "description_en": "A practical guide presenting thirty ready-to-build projects across six categories (Content, Data Extraction, Chatbots, Automation, Creative Tools, Business Tools). Each project is buildable in three to eight hours via both no-code and Python paths, with global USD pricing and interface examples. Includes a closing chapter on converting portfolio projects into paid client engagements.",
+      "cover": "assets/covers/ai-freelance-portfolio.jpg",
+      "files": {
+        "pdf": "assets/books/ai-freelance-portfolio.pdf",
+        "epub": "assets/books/ai-freelance-portfolio.epub",
+        "docx": "assets/books/ai-freelance-portfolio.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "prompt-engineering-llm4yemen",
       "title_ar": "هندسة الأوامر — فن التحاور مع الذكاء الاصطناعي",
