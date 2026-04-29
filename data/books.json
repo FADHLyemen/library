@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "arabic-nlp-and-the-llm",
+      "title_ar": "معالجة اللغة العربية مع نماذج الذكاء الاصطناعي: العمل بلغتك الأم",
+      "title_en": "Arabic NLP and the LLM: Working in Your Mother Tongue",
+      "subtitle_ar": "دليل المهندس اليمني لخدمة السوق العربي بثقة وتميّز",
+      "category": "tech",
+      "year": 2026,
+      "pages": 368,
+      "description_ar": "كتاب عملي وإستراتيجي يجهّز خرّيجي LLM4Yemen لخدمة السوق العربي للذكاء الاصطناعي. يغطي مرمّزات اللغة العربية، اقتصاد الـ tokens، اللهجات، التشكيل، العرض من اليمين لليسار، النصوص القرآنية والكلاسيكية، الحساسية الدينية والثقافية، مقارنة نماذج 2026، تصميم منتجات عربية-أولاً، خمس دراسات حالة، وتسعير المستقل أمام عملاء الخليج.",
+      "description_en": "A practical and strategic guide preparing LLM4Yemen graduates to serve the Arabic AI market. Covers Arabic tokenizers, token economics, dialects, diacritics, RTL display, Qur'anic and classical text, religious and cultural sensitivity, the 2026 model landscape, Arabic-first product design, five case studies, and pricing yourself before Gulf clients.",
+      "cover": "assets/covers/arabic-nlp-and-the-llm.jpg",
+      "files": {
+        "pdf": "assets/books/arabic-nlp-and-the-llm.pdf",
+        "epub": "assets/books/arabic-nlp-and-the-llm.epub",
+        "docx": "assets/books/arabic-nlp-and-the-llm.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "building-with-claude",
       "title_ar": "البناء مع كلود — دليل عملي لواجهة برمجة Anthropic",
       "title_en": "Building With Claude - A Practical Guide to the Anthropic API",
