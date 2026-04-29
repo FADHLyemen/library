@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "building-with-claude",
+      "title_ar": "البناء مع كلود — دليل عملي لواجهة برمجة Anthropic",
+      "title_en": "Building With Claude - A Practical Guide to the Anthropic API",
+      "subtitle_ar": "مسار B في برنامج LLM4Yemen — للمطورين الذين يبنون منتجات إنتاجية فوق نماذج كلود",
+      "category": "tech",
+      "year": 2026,
+      "pages": 417,
+      "description_ar": "دليل تطبيقي لطلاب وخريجي مسار B في برنامج LLM4Yemen يعلّمهم بناء تطبيقات إنتاجية على واجهة Anthropic Claude API. يغطي الكتاب عائلة نماذج كلود في 2026، Messages API، Streaming، Tool Use، Vision، PDF، Prompt Caching، Batch API، Claude Code، MCP، تحسين التكلفة، وخمسة مشاريع كاملة من روبوت محادثة ثنائي اللغة إلى وكيل بحث متعدد الأدوات، إضافة إلى اعتبارات الإنتاج.",
+      "description_en": "A practical handbook for LLM4Yemen Track B students building production applications on the Anthropic Claude API. Covers the 2026 Claude model family, Messages API, streaming, tool use, vision, PDF, prompt caching, Batch API, Claude Code, MCP, cost optimization, and five complete projects from bilingual chatbot to multi-tool research agent — plus production concerns.",
+      "cover": "assets/covers/building-with-claude.jpg",
+      "files": {
+        "pdf": "assets/books/building-with-claude.pdf",
+        "epub": "assets/books/building-with-claude.epub",
+        "docx": "assets/books/building-with-claude.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "ai-freelance-portfolio",
       "title_ar": "بناء معرض أعمالك في مجال الذكاء الاصطناعي: 30 مشروعاً حقيقياً",
       "title_en": "Building Your AI Freelance Portfolio: 30 Real Projects",
