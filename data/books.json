@@ -64,6 +64,52 @@
   ],
   "books": [
     {
+      "id": "best-us-cities-to-live",
+      "title_ar": "أفضل المدن للعيش في الولايات المتحدة الأمريكية",
+      "title_en": "The Best Cities to Live in the United States",
+      "subtitle_ar": "دليل شامل لاختيار المدينة المناسبة للعمل والأسرة والتقاعد مع تركيز على المدن الصديقة للجاليات العربية والمسلمة",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 318,
+      "description_ar": "دليل شامل لاختيار أفضل المدن الأمريكية للعيش وفقا لتكلفة المعيشة وفرص العمل والتعليم والرعاية الصحية والمناخ مع قسم خاص للمدن الصديقة للجاليات العربية والمسلمة وفصول للشباب والعائلات والمتقاعدين وإطار عملي لاتخاذ قرار الانتقال.",
+      "description_en": "A comprehensive guide to choosing the best US cities to live in based on cost, jobs, education, healthcare, and climate, with a dedicated section on Arab and Muslim friendly cities, chapters tailored to young professionals, families, and retirees, and a practical decision framework.",
+      "cover": "assets/covers/best-us-cities-to-live.jpg",
+      "files": {
+        "pdf": "assets/books/best-us-cities-to-live.pdf",
+        "epub": "assets/books/best-us-cities-to-live.epub",
+        "docx": "assets/books/best-us-cities-to-live.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "image-test",
+      "title_ar": "اختبار الصور",
+      "title_en": "Image Test",
+      "subtitle_ar": "اختبار معالجة الصور في خط الإنتاج",
+      "category": "personal",
+      "year": 2026,
+      "pages": 50,
+      "description_ar": "كتاب اختبار لمعالجة الصور",
+      "description_en": "Test book for image handling",
+      "cover": "assets/covers/image-test.jpg",
+      "files": {
+        "pdf": "assets/books/image-test.pdf",
+        "epub": "assets/books/image-test.epub",
+        "docx": "assets/books/image-test.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "coffee-world-guide",
       "title_ar": "عالم القهوة  رحلة من المزرعة إلى الفنجان",
       "title_en": "The World of Coffee  A Journey from Farm to Cup",
