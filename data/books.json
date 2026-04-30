@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "stock-market-investment-guide",
+      "title_ar": "دليل الاستثمار في سوق الأسهم  التاريخ والمستقبل وأسرار الثروة",
+      "title_en": "The Stock Market Investment Guide  History, Future, and the Secrets of Wealth",
+      "subtitle_ar": "لماذا لا يمكن التنبؤ بالأسواق ومن يتحكم بها وأين تستثمر أموالك بحكمة",
+      "category": "personal",
+      "year": 2026,
+      "pages": 279,
+      "description_ar": "كتاب شامل يتناول تاريخ أسواق الأسهم وآليات عملها ولماذا يستحيل التنبؤ بمستقبلها ويحلل القوى المتحكمة بها ويقارن بين الاستثمار في الأسهم والبنك والعقار مع منظور إسلامي للاستثمار الحلال.",
+      "description_en": "A comprehensive book on stock market history, mechanics, the impossibility of prediction, the forces that control markets, and a practical comparison of stocks vs. bank savings vs. real estate, with an Islamic perspective on halal investing.",
+      "cover": "assets/covers/stock-market-investment-guide.jpg",
+      "files": {
+        "pdf": "assets/books/stock-market-investment-guide.pdf",
+        "epub": "assets/books/stock-market-investment-guide.epub",
+        "docx": "assets/books/stock-market-investment-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "homosexuality-history-perspectives",
       "title_ar": "المثلية الجنسية  قراءة في التاريخ والحجج والأديان",
       "title_en": "Homosexuality  A Reading of History, Arguments, and Religions",
