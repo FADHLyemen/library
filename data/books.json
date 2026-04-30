@@ -64,6 +64,52 @@
   ],
   "books": [
     {
+      "id": "image-test",
+      "title_ar": "اختبار الصور",
+      "title_en": "Image Test",
+      "subtitle_ar": "اختبار معالجة الصور في خط الإنتاج",
+      "category": "personal",
+      "year": 2026,
+      "pages": 50,
+      "description_ar": "كتاب اختبار",
+      "description_en": "Test book",
+      "cover": "assets/covers/image-test.jpg",
+      "files": {
+        "pdf": "assets/books/image-test.pdf",
+        "epub": "assets/books/image-test.epub",
+        "docx": "assets/books/image-test.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "auto-mechanic-career-michigan",
+      "title_ar": "الدليل العملي لمهنة ميكانيكي السيارات في أمريكا",
+      "title_en": "The Practical Guide to an Auto Mechanic Career in America",
+      "subtitle_ar": "كيف تدرس في كلية واشتناو المجتمعية وتحصل على شهادة ASE وتبني مستقبلك في مهنة من أكثر المهن طلبا",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 359,
+      "description_ar": "دليل عملي شامل لمهنة ميكانيكي السيارات في أمريكا يستعرض برنامج كلية واشتناو المجتمعية ونظام شهادات ASE واختباراته والأدوات المطلوبة ومسارات العمل والرواتب المتوقعة والتخصصات المتقدمة في السيارات الكهربائية والديزل وملكية الورشة.",
+      "description_en": "A comprehensive practical guide to the auto mechanic career in America, covering the Washtenaw Community College program, the ASE certification system and tests, required tools, career paths, expected salaries, and advanced specializations in EVs, diesel, and shop ownership.",
+      "cover": "assets/covers/auto-mechanic-career-michigan.jpg",
+      "files": {
+        "pdf": "assets/books/auto-mechanic-career-michigan.pdf",
+        "epub": "assets/books/auto-mechanic-career-michigan.epub",
+        "docx": "assets/books/auto-mechanic-career-michigan.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "best-us-cities-to-live",
       "title_ar": "أفضل المدن للعيش في الولايات المتحدة الأمريكية",
       "title_en": "The Best Cities to Live in the United States",
@@ -78,29 +124,6 @@
         "pdf": "assets/books/best-us-cities-to-live.pdf",
         "epub": "assets/books/best-us-cities-to-live.epub",
         "docx": "assets/books/best-us-cities-to-live.docx"
-      },
-      "formats": [
-        "pdf",
-        "epub",
-        "docx"
-      ],
-      "featured": false
-    },
-    {
-      "id": "image-test",
-      "title_ar": "اختبار الصور",
-      "title_en": "Image Test",
-      "subtitle_ar": "اختبار معالجة الصور في خط الإنتاج",
-      "category": "personal",
-      "year": 2026,
-      "pages": 50,
-      "description_ar": "كتاب اختبار لمعالجة الصور",
-      "description_en": "Test book for image handling",
-      "cover": "assets/covers/image-test.jpg",
-      "files": {
-        "pdf": "assets/books/image-test.pdf",
-        "epub": "assets/books/image-test.epub",
-        "docx": "assets/books/image-test.docx"
       },
       "formats": [
         "pdf",
