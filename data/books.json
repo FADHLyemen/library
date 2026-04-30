@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-04-30",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "homosexuality-history-perspectives",
+      "title_ar": "المثلية الجنسية  قراءة في التاريخ والحجج والأديان",
+      "title_en": "Homosexuality  A Reading of History, Arguments, and Religions",
+      "subtitle_ar": "من الجذور التاريخية إلى الحركات المعاصرة ومصادر النفوذ وموقف الأديان والعلم",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 298,
+      "description_ar": "دراسة شاملة للمثلية الجنسية من منظور تاريخي وفكري وديني تتناول الجذور التاريخية ونشأة الحركات المعاصرة ومصادر نفوذها وتعرض بإنصاف حجج المؤيدين والمعارضين وموقف الأديان السماوية والشرقية والعلم الحديث بمنهج علمي موضوعي.",
+      "description_en": "A comprehensive study of homosexuality from historical, intellectual, and religious perspectives, covering historical roots, the rise of modern movements and their sources of influence, fairly presenting arguments on both sides, the positions of Abrahamic and Eastern religions, and contemporary science.",
+      "cover": "assets/covers/homosexuality-history-perspectives.jpg",
+      "files": {
+        "pdf": "assets/books/homosexuality-history-perspectives.pdf",
+        "epub": "assets/books/homosexuality-history-perspectives.epub",
+        "docx": "assets/books/homosexuality-history-perspectives.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "python-for-ai",
       "title_ar": "بايثون للذكاء الاصطناعي: من الصفر إلى البناء",
