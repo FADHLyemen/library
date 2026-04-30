@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "coffee-world-guide",
+      "title_ar": "عالم القهوة  رحلة من المزرعة إلى الفنجان",
+      "title_en": "The World of Coffee  A Journey from Farm to Cup",
+      "subtitle_ar": "تاريخ القهوة وأنواعها أسرار جودتها وأسواقها العالمية",
+      "category": "personal",
+      "year": 2026,
+      "pages": 245,
+      "description_ar": "رحلة شاملة في عالم القهوة من جذورها في إثيوبيا واليمن إلى المقاهي المتخصصة الحديثة تتناول أنواع البن وكبرى الدول المنتجة وأسرار الجودة وأغلى الأنواع وحجم السوق العالمي وقصة ستاربكس وثقافة القهوة وفوائدها الصحية ومستقبلها.",
+      "description_en": "A comprehensive journey through coffee from its Ethiopian and Yemeni roots to modern specialty cafés, covering species, top producers, quality secrets, the most expensive varieties, the global market, the Starbucks story, world coffee culture, health effects, and the future.",
+      "cover": "assets/covers/coffee-world-guide.jpg",
+      "files": {
+        "pdf": "assets/books/coffee-world-guide.pdf",
+        "epub": "assets/books/coffee-world-guide.epub",
+        "docx": "assets/books/coffee-world-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "stock-market-investment-guide",
       "title_ar": "دليل الاستثمار في سوق الأسهم  التاريخ والمستقبل وأسرار الثروة",
       "title_en": "The Stock Market Investment Guide  History, Future, and the Secrets of Wealth",
