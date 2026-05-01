@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-04-30",
+    "last_updated": "2026-05-01",
     "copyright_year": 2026
   },
   "categories": [
@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "attention-is-all-you-need",
+      "title_ar": "كل ما تحتاجه هو الانتباه",
+      "title_en": "All You Need Is Attention",
+      "subtitle_ar": "شرح مبسط لورقة المحولات التي أحدثت ثورة في الذكاء الاصطناعي",
+      "category": "tech",
+      "year": 2026,
+      "pages": 260,
+      "description_ar": "شرح مبسط وسلس لورقة المحولات الشهيرة Attention Is All You Need التي أحدثت ثورة في الذكاء الاصطناعي عام 2017 ومهدت الطريق لنماذج مثل ChatGPT وBERT وClaude. يقدم المؤلف المفاهيم التقنية بأسلوب تشبيهي يفهمه القارئ غير المتخصص مع ربطها بمنظور إسلامي في طلب العلم والتدبر.",
+      "description_en": "A clear and accessible explanation of the landmark 2017 paper Attention Is All You Need, which revolutionized artificial intelligence and gave rise to ChatGPT, BERT, Claude, and modern language models. The author  a computational biologist at the University of Michigan  unpacks every concept through analogy, intuition, and Islamic reflection on the pursuit of knowledge.",
+      "cover": "assets/covers/attention-is-all-you-need.jpg",
+      "files": {
+        "pdf": "assets/books/attention-is-all-you-need.pdf",
+        "epub": "assets/books/attention-is-all-you-need.epub",
+        "docx": "assets/books/attention-is-all-you-need.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "kidney-histology-reading-guide",
       "title_ar": "قراءة شرائح الكلى المرضية  دليل عملي لتفسير صبغة H&E",
       "title_en": "Reading Kidney Pathology Slides  A Practical Guide to H&E Interpretation",
@@ -86,7 +109,6 @@
       ],
       "featured": false
     },
-
     {
       "id": "auto-mechanic-career-michigan",
       "title_ar": "الدليل العملي لمهنة ميكانيكي السيارات في أمريكا",
