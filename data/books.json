@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "pos-accounting-guide",
+      "title_ar": "من آلة الكاش إلى نظام البيع الذكي",
+      "title_en": "From Cash Register to Smart POS",
+      "subtitle_ar": "دليل عملي شامل لأنظمة البيع والمحاسبة والمخزون وتطوير الحلول المخصصة",
+      "category": "tech",
+      "year": 2026,
+      "pages": 186,
+      "description_ar": "دليل عملي شامل يشرح أنظمة نقطة البيع والمحاسبة وإدارة المخزون بلغة بسيطة بعيدة عن التعقيد التقني. يتعلم القارئ كيف تعمل هذه الأنظمة وكيف تتكامل مع بعضها وكيف يبني أو يخصص حلولا برمجية لعملائه وكيف يسعر خدماته بثقة في السوق الأمريكي والعربي.",
+      "description_en": "A practical, beginner-friendly guide to POS systems, accounting software, inventory management, and custom development. Written for small business owners and aspiring tech consultants, this book explains how these systems work, how they connect, and how to build, customize, and price such solutions for real clients  with special attention to payment security and the growing diaspora market.",
+      "cover": "assets/covers/pos-accounting-guide.jpg",
+      "files": {
+        "pdf": "assets/books/pos-accounting-guide.pdf",
+        "epub": "assets/books/pos-accounting-guide.epub",
+        "docx": "assets/books/pos-accounting-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "attention-is-all-you-need",
       "title_ar": "كل ما تحتاجه هو الانتباه",
       "title_en": "All You Need Is Attention",
