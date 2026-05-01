@@ -475,31 +475,6 @@ blockquote {{
 """
 
 
-
-
-def _rewrite_image_paths_for_pdf(html):
-    """Rewrite img src paths to absolute file:// URIs so WeasyPrint can resolve them.
-    Handles paths like '/assets/...', 'assets/...', etc.
-    Leaves remote URLs and data: URIs alone."""
-    import re
-
-    def replace(m):
-        src = m.group(1)
-        if src.startswith(("http://", "https://", "data:", "file://")):
-            return m.group(0)
-        rel = src.lstrip("/")
-        path = (ROOT / rel).resolve()
-        if path.exists():
-            return m.group(0).replace(src, path.as_uri())
-        return m.group(0)
-
-    # Match src="..." (double quotes)
-    html = re.sub(r'<img[^>]*src="([^"]+)"', replace, html)
-    # Match src='...' (single quotes)
-    html = re.sub(r"<img[^>]*src='([^']+)'", replace, html)
-    return html
-
-
 def render_chapters_html(chapters: list[dict], lang: str) -> str:
     """Render chapter markdown into HTML with proper direction."""
     import markdown as md_lib
@@ -508,7 +483,6 @@ def render_chapters_html(chapters: list[dict], lang: str) -> str:
         if ch["title"]:
             parts.append(f'<h2 class="chapter-title">{ch["title"]}</h2>')
         body_html = md_lib.markdown(ch["body"], extensions=["extra", "toc"])
-        body_html = _rewrite_image_paths_for_pdf(body_html)
         parts.append(body_html)
         parts.append('<div class="chapter-break"></div>')
     return "\n".join(parts)
@@ -738,7 +712,7 @@ def make_pdf(slug: str, full_html: str) -> Path:
         sys.exit(1)
     out = BOOKS_DIR / f"{slug}.pdf"
     BOOKS_DIR.mkdir(parents=True, exist_ok=True)
-    HTML(string=full_html, base_url=ROOT.as_uri() + "/").write_pdf(str(out))
+    HTML(string=full_html, base_url=str(ROOT)).write_pdf(str(out))
     log(f"  ✓ PDF  → {out.relative_to(ROOT)}", "green")
     return out
 
@@ -1208,5 +1182,3 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
-
-

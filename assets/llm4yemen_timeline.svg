@@ -1,0 +1,138 @@
+<svg width="900" viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#888" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="520" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="340" y="28" text-anchor="middle" font-size="15" font-weight="500" fill="#1C1C1C">LLM4Yemen — Cohort 1 Program Timeline</text>
+  <text x="340" y="46" text-anchor="middle" font-size="12" fill="#666">September 2026 · 6 Weeks · 2 Sessions/Week · 2 hrs/Session</text>
+
+  <!-- Legend -->
+  <rect x="40" y="58" width="12" height="12" rx="3" fill="#1B3A5C"/>
+  <text x="57" y="70" font-size="11" fill="#444">Combined (all 15 students)</text>
+  <rect x="210" y="58" width="12" height="12" rx="3" fill="#185FA5"/>
+  <text x="227" y="70" font-size="11" fill="#444">Track A</text>
+  <rect x="305" y="58" width="12" height="12" rx="3" fill="#3B6D11"/>
+  <text x="322" y="70" font-size="11" fill="#444">Track B</text>
+
+  <!-- Week column headers -->
+  <text x="102" y="98" text-anchor="middle" font-size="11" font-weight="500" fill="#555">Week 1</text>
+  <text x="202" y="98" text-anchor="middle" font-size="11" font-weight="500" fill="#555">Week 2</text>
+  <text x="302" y="98" text-anchor="middle" font-size="11" font-weight="500" fill="#555">Week 3</text>
+  <text x="402" y="98" text-anchor="middle" font-size="11" font-weight="500" fill="#555">Week 4</text>
+  <text x="502" y="98" text-anchor="middle" font-size="11" font-weight="500" fill="#555">Week 5</text>
+  <text x="602" y="98" text-anchor="middle" font-size="11" font-weight="500" fill="#555">Week 6</text>
+
+  <!-- Timeline spine -->
+  <line x1="52" y1="110" x2="648" y2="110" stroke="#C9A84C" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="102" cy="110" r="5" fill="#C9A84C"/>
+  <circle cx="202" cy="110" r="5" fill="#C9A84C"/>
+  <circle cx="302" cy="110" r="5" fill="#C9A84C"/>
+  <circle cx="402" cy="110" r="5" fill="#C9A84C"/>
+  <circle cx="502" cy="110" r="5" fill="#C9A84C"/>
+  <circle cx="602" cy="110" r="5" fill="#C9A84C"/>
+
+  <!-- Row labels -->
+  <text x="38" y="158" text-anchor="end" font-size="11" fill="#666">Combined</text>
+  <text x="38" y="238" text-anchor="end" font-size="11" fill="#666">Track A</text>
+  <text x="38" y="338" text-anchor="end" font-size="11" fill="#666">Track B</text>
+
+  <!-- Track divider lines -->
+  <line x1="40" y1="185" x2="648" y2="185" stroke="#ccc" stroke-width="0.5" stroke-dasharray="4 4"/>
+  <line x1="40" y1="285" x2="648" y2="285" stroke="#ccc" stroke-width="0.5" stroke-dasharray="4 4"/>
+
+  <!-- WEEK 1: Combined — Dr. Mawari -->
+  <rect x="52" y="128" width="100" height="52" rx="6" fill="#1B3A5C" stroke="#0C447C" stroke-width="0.5"/>
+  <text x="102" y="148" text-anchor="middle" font-size="11" fill="#B5D4F4" font-weight="500">Dr. Mawari</text>
+  <text x="102" y="162" text-anchor="middle" font-size="10" fill="#85B7EB">Foundations &amp;</text>
+  <text x="102" y="174" text-anchor="middle" font-size="10" fill="#85B7EB">Prompt Eng.</text>
+
+  <!-- WEEK 2: Track A — Dr. Fadhl -->
+  <rect x="152" y="208" width="100" height="52" rx="6" fill="#185FA5" stroke="#0C447C" stroke-width="0.5"/>
+  <text x="202" y="228" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="500">Dr. Fadhl</text>
+  <text x="202" y="242" text-anchor="middle" font-size="10" fill="#B5D4F4">AI Tool</text>
+  <text x="202" y="254" text-anchor="middle" font-size="10" fill="#B5D4F4">Fluency</text>
+
+  <!-- WEEK 3: Track A — Dr. Fadhl -->
+  <rect x="252" y="208" width="100" height="52" rx="6" fill="#185FA5" stroke="#0C447C" stroke-width="0.5"/>
+  <text x="302" y="228" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="500">Dr. Fadhl</text>
+  <text x="302" y="242" text-anchor="middle" font-size="10" fill="#B5D4F4">NotebookLM</text>
+  <text x="302" y="254" text-anchor="middle" font-size="10" fill="#B5D4F4">Mastery</text>
+
+  <!-- WEEK 3: Track B — Dr. Yousif -->
+  <rect x="252" y="308" width="100" height="52" rx="6" fill="#3B6D11" stroke="#27500A" stroke-width="0.5"/>
+  <text x="302" y="328" text-anchor="middle" font-size="11" fill="#EAF3DE" font-weight="500">Dr. Yousif</text>
+  <text x="302" y="342" text-anchor="middle" font-size="10" fill="#C0DD97">RAG Eng. +</text>
+  <text x="302" y="354" text-anchor="middle" font-size="10" fill="#C0DD97">Data Science</text>
+
+  <!-- WEEK 4: Track A — Wail -->
+  <rect x="352" y="208" width="100" height="52" rx="6" fill="#185FA5" stroke="#0C447C" stroke-width="0.5"/>
+  <text x="402" y="228" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="500">Wail</text>
+  <text x="402" y="242" text-anchor="middle" font-size="10" fill="#B5D4F4">Content</text>
+  <text x="402" y="254" text-anchor="middle" font-size="10" fill="#B5D4F4">Creators</text>
+
+  <!-- WEEK 4: Track B — Dr. Alareqi -->
+  <rect x="352" y="308" width="100" height="52" rx="6" fill="#3B6D11" stroke="#27500A" stroke-width="0.5"/>
+  <text x="402" y="328" text-anchor="middle" font-size="11" fill="#EAF3DE" font-weight="500">Dr. Alareqi</text>
+  <text x="402" y="342" text-anchor="middle" font-size="10" fill="#C0DD97">Claude Code</text>
+
+  <!-- WEEK 5: Track A — Wail -->
+  <rect x="452" y="208" width="100" height="52" rx="6" fill="#185FA5" stroke="#0C447C" stroke-width="0.5"/>
+  <text x="502" y="228" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="500">Wail</text>
+  <text x="502" y="242" text-anchor="middle" font-size="10" fill="#B5D4F4">No-Code</text>
+  <text x="502" y="254" text-anchor="middle" font-size="10" fill="#B5D4F4">Automation</text>
+
+  <!-- WEEK 5: Track B — Dr. Alareqi -->
+  <rect x="452" y="308" width="100" height="52" rx="6" fill="#3B6D11" stroke="#27500A" stroke-width="0.5"/>
+  <text x="502" y="328" text-anchor="middle" font-size="11" fill="#EAF3DE" font-weight="500">Dr. Alareqi</text>
+  <text x="502" y="342" text-anchor="middle" font-size="10" fill="#C0DD97">AI Agents</text>
+  <text x="502" y="354" text-anchor="middle" font-size="10" fill="#C0DD97">&amp; MCP</text>
+
+  <!-- WEEK 6: Combined — Wail -->
+  <rect x="552" y="128" width="100" height="52" rx="6" fill="#1B3A5C" stroke="#0C447C" stroke-width="0.5"/>
+  <text x="602" y="148" text-anchor="middle" font-size="11" fill="#B5D4F4" font-weight="500">Wail</text>
+  <text x="602" y="162" text-anchor="middle" font-size="10" fill="#85B7EB">Freelance</text>
+  <text x="602" y="174" text-anchor="middle" font-size="10" fill="#85B7EB">Launch</text>
+
+  <!-- Hours badges -->
+  <text x="102" y="196" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
+  <text x="227" y="270" text-anchor="middle" font-size="10" fill="#C9A84C">8 hrs · 4 sessions</text>
+  <text x="302" y="370" text-anchor="middle" font-size="10" fill="#639922">4 hrs · 2 sessions</text>
+  <text x="402" y="270" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
+  <text x="402" y="370" text-anchor="middle" font-size="10" fill="#639922">4 hrs · 2 sessions</text>
+  <text x="502" y="270" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
+  <text x="502" y="370" text-anchor="middle" font-size="10" fill="#639922">4 hrs · 2 sessions</text>
+  <text x="602" y="196" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
+
+  <!-- Tracks split/merge annotations -->
+  <line x1="152" y1="186" x2="152" y2="310" stroke="#C9A84C" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="148" y="200" text-anchor="end" font-size="10" fill="#C9A84C">tracks split</text>
+  <line x1="548" y1="186" x2="548" y2="310" stroke="#C9A84C" stroke-width="0.5" stroke-dasharray="3 3"/>
+  <text x="552" y="200" font-size="10" fill="#C9A84C">tracks merge</text>
+
+  <!-- Summary bar -->
+  <rect x="40" y="400" width="600" height="88" rx="8" fill="none" stroke="#ddd" stroke-width="0.5"/>
+  <text x="340" y="422" text-anchor="middle" font-size="13" font-weight="500" fill="#1C1C1C">Program summary</text>
+  <text x="112" y="448" text-anchor="middle" font-size="13" font-weight="500" fill="#C9A84C">6 weeks</text>
+  <text x="112" y="464" text-anchor="middle" font-size="11" fill="#666">Duration</text>
+  <text x="240" y="448" text-anchor="middle" font-size="13" font-weight="500" fill="#C9A84C">12 sessions</text>
+  <text x="240" y="464" text-anchor="middle" font-size="11" fill="#666">Total sessions</text>
+  <text x="368" y="448" text-anchor="middle" font-size="13" font-weight="500" fill="#C9A84C">24 hrs</text>
+  <text x="368" y="464" text-anchor="middle" font-size="11" fill="#666">Total instruction</text>
+  <text x="496" y="448" text-anchor="middle" font-size="13" font-weight="500" fill="#C9A84C">5 instructors</text>
+  <text x="496" y="464" text-anchor="middle" font-size="11" fill="#666">Teaching team</text>
+  <text x="612" y="448" text-anchor="middle" font-size="13" font-weight="500" fill="#C9A84C">15 students</text>
+  <text x="612" y="464" text-anchor="middle" font-size="11" fill="#666">Cohort size</text>
+  <line x1="176" y1="412" x2="176" y2="478" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="304" y1="412" x2="304" y2="478" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="432" y1="412" x2="432" y2="478" stroke="#ddd" stroke-width="0.5"/>
+  <line x1="560" y1="412" x2="560" y2="478" stroke="#ddd" stroke-width="0.5"/>
+
+  <!-- Footer -->
+  <text x="340" y="510" text-anchor="middle" font-size="10" fill="#aaa">LLM4Yemen Cohort 1 · Sept 2026 · fadhlyemen.github.io/llm4yemen</text>
+</svg>
