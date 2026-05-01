@@ -86,29 +86,7 @@
       ],
       "featured": false
     },
-    {
-      "id": "image-test",
-      "title_ar": "اختبار الصور",
-      "title_en": "Image Test",
-      "subtitle_ar": "اختبار معالجة الصور في خط الإنتاج",
-      "category": "personal",
-      "year": 2026,
-      "pages": 50,
-      "description_ar": "كتاب اختبار",
-      "description_en": "Test book",
-      "cover": "assets/covers/image-test.jpg",
-      "files": {
-        "pdf": "assets/books/image-test.pdf",
-        "epub": "assets/books/image-test.epub",
-        "docx": "assets/books/image-test.docx"
-      },
-      "formats": [
-        "pdf",
-        "epub",
-        "docx"
-      ],
-      "featured": false
-    },
+
     {
       "id": "auto-mechanic-career-michigan",
       "title_ar": "الدليل العملي لمهنة ميكانيكي السيارات في أمريكا",
