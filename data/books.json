@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "kidney-histology-reading-guide",
+      "title_ar": "قراءة شرائح الكلى المرضية  دليل عملي لتفسير صبغة H&E",
+      "title_en": "Reading Kidney Pathology Slides  A Practical Guide to H&E Interpretation",
+      "subtitle_ar": "منهج منظم للتعرف على الأنماط النسيجية في الكبيبات والأنابيب والنسيج الخلالي والأوعية الدموية",
+      "category": "personal",
+      "year": 2026,
+      "pages": 275,
+      "description_ar": "دليل عملي يعلمك قراءة شرائح الكلى المصبوغة بـ H&E يبدأ بالنسيج الطبيعي ويقدم منهجا منظما لفحص الكبيبات والأنابيب والنسيج الخلالي والأوعية ويعلم أنماط الأمراض الكلاسيكية ومتى تحتاج إلى صبغات أو دراسات إضافية ويختتم بقراءة الشرائح بالذكاء الاصطناعي.",
+      "description_en": "A practical guide to reading kidney H&E slides, starting from normal histology and offering a systematic approach to evaluating glomeruli, tubules, interstitium, and vessels. It teaches classical disease patterns, when additional stains or studies are needed, and closes with AI-assisted whole-slide analysis.",
+      "cover": "assets/covers/kidney-histology-reading-guide.jpg",
+      "files": {
+        "pdf": "assets/books/kidney-histology-reading-guide.pdf",
+        "epub": "assets/books/kidney-histology-reading-guide.epub",
+        "docx": "assets/books/kidney-histology-reading-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "image-test",
       "title_ar": "اختبار الصور",
       "title_en": "Image Test",
