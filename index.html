@@ -1,353 +1,234 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Home · LLM4Yemen</title>
-<meta name="description" content="LLM4Yemen — A 6-week intensive AI skills program for Yemeni undergraduates. Cohort 1 starts September 2026.">
-<meta property="og:title" content="LLM4Yemen — From Yemen's universities to the global market">
-<meta property="og:description" content="LLM4Yemen — A 6-week intensive AI skills program for Yemeni undergraduates. Cohort 1 starts September 2026.">
-<meta property="og:type" content="website">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>مكتبة د. فضل الأكوع — Dr. Fadhl Alakwaa Library</title>
+  <meta name="description" content="المكتبة الإلكترونية لمؤلفات د. فضل محمد الأكوع — كتب في القرآن والإسلاميات واليمن والتقنية والأسرة.">
+  <meta name="author" content="Dr. Fadhl Mohammed Alakwaa">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="مكتبة د. فضل الأكوع — Dr. Fadhl Alakwaa Library">
+  <meta property="og:description" content="مؤلفات في القرآن والإسلاميات واليمن والتقنية والأسرة">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://fadhlyemen.github.io/library/">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%231B3A5C'/%3E%3Cpath d='M30 30h40v40H30z' fill='none' stroke='%23C9A84C' stroke-width='3'/%3E%3Ccircle cx='50' cy='50' r='8' fill='%23C9A84C'/%3E%3C/svg%3E">
+
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="New books — مكتبة د. فضل الأكوع" href="feed.xml">
 </head>
-<body data-lang="ar" dir="rtl">
+<body>
 
-<div class="topbar">
-  <span data-ar>📅 التقديم مفتوح للدفعة الأولى — تبدأ سبتمبر ٢٠٢٦ — <a href="apply.html">قدّم الآن</a></span>
-  <span data-en>📅 Cohort 1 applications open — starts September 2026 — <a href="apply.html">Apply now</a></span>
-</div>
-
-<nav class="nav">
-  <div class="nav-inner">
-    <a href="index.html" class="logo">LLM4<span>Yemen</span></a>
-    <div class="nav-links">
-      <a href="program.html" data-ar>البرنامج</a><a href="program.html" data-en>Program</a>
-      <a href="curriculum.html" data-ar>المنهج</a><a href="curriculum.html" data-en>Curriculum</a>
-      <a href="team.html" data-ar>الفريق</a><a href="team.html" data-en>Team</a>
-      <a href="documents.html" data-ar>الوثائق</a><a href="documents.html" data-en>Documents</a>
-      <a href="faq.html" data-ar>أسئلة</a><a href="faq.html" data-en>FAQ</a>
-      <a href="apply.html" data-ar>التقديم</a><a href="apply.html" data-en>Apply</a>
-    </div>
-    <button class="lang-toggle" onclick="toggleLang()">
-      <span data-ar>EN</span><span data-en>عربي</span>
-    </button>
-  </div>
-</nav>
-
-<section class="hero" style="background: radial-gradient(ellipse at top right, rgba(201,168,76,0.15), transparent 50%), radial-gradient(ellipse at bottom left, rgba(46,117,182,0.10), transparent 50%), linear-gradient(180deg, #fcfaf6 0%, #ffffff 100%); padding: 80px 24px 100px; text-align: center;">
-  <div style="max-width: 900px; margin: 0 auto;">
-    <div style="display: inline-block; background: var(--gold); color: white; padding: 6px 16px; border-radius: 999px; font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 24px;">
-      <span data-ar>الدفعة الأولى · سبتمبر ٢٠٢٦</span>
-      <span data-en>Cohort 1 · September 2026</span>
-    </div>
-    <h1 style="font-size: clamp(36px, 6vw, 64px); font-weight: 700; color: var(--navy); line-height: 1.15; margin-bottom: 16px; letter-spacing: -1px;">
-      <span data-ar>من الجامعة اليمنية<br>إلى السوق العالمي</span>
-      <span data-en>From Yemen's universities<br>to the global market</span>
-      <span class="latin" style="display: block; font-size: 0.7em; color: var(--blue); margin-top: 12px; font-weight: 600;">through AI fluency</span>
-    </h1>
-    <p style="font-size: clamp(18px, 2.5vw, 22px); color: var(--muted); max-width: 700px; margin: 0 auto 40px; line-height: 1.5;">
-      <span data-ar>برنامج مكثّف مدّته ٦ أسابيع يُمكّن الطلاب اليمنيين من إتقان أدوات الذكاء الاصطناعي وكسب العملة الصعبة من العمل الحر العالمي. مدعوم بالكامل.</span>
-      <span data-en>A 6-week intensive that equips Yemeni undergraduates with the AI skills to earn hard currency from global remote work. Fully funded.</span>
-    </p>
-    <a href="apply.html" class="btn large">
-      <span data-ar>قدّم للدفعة الأولى ←</span>
-      <span data-en>Apply for Cohort 1 →</span>
-    </a>
-    <div style="margin-top: 20px;">
-      <a href="program.html" style="display: inline-block; margin-inline-end: 16px; color: var(--navy); text-decoration: none; font-size: 15px; font-weight: 600; border-bottom: 2px solid transparent;">
-        <span data-ar>اعرف المزيد عن البرنامج</span>
-        <span data-en>Learn about the program</span>
-      </a>
+  <!-- Top ribbon -->
+  <div class="topbar">
+    <div class="topbar-inner">
+      <span class="topbar-item" data-ar="مكتبة خاصة — وصول مجاني" data-en="Private library — free access">مكتبة خاصة — وصول مجاني</span>
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button class="lang-btn active" data-lang="ar" aria-pressed="true">عربي</button>
+        <span class="lang-sep">·</span>
+        <button class="lang-btn" data-lang="en" aria-pressed="false">English</button>
+      </div>
     </div>
   </div>
-</section>
 
-<section class="stats">
-  <div class="stats-grid">
-    <div>
-      <div class="stat-num">6</div>
-      <div class="stat-label" data-ar>أسابيع</div>
-      <div class="stat-label" data-en>weeks</div>
-    </div>
-    <div>
-      <div class="stat-num">15</div>
-      <div class="stat-label" data-ar>طالباً في الدفعة</div>
-      <div class="stat-label" data-en>students per cohort</div>
-    </div>
-    <div>
-      <div class="stat-num">2</div>
-      <div class="stat-label" data-ar>مساران تخصصيان</div>
-      <div class="stat-label" data-en>specialized tracks</div>
-    </div>
-    <div>
-      <div class="stat-num">$0</div>
-      <div class="stat-label" data-ar>تكلفة على الطالب</div>
-      <div class="stat-label" data-en>cost to students</div>
-    </div>
-  </div>
-</section>
+  <!-- Masthead -->
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="ornament ornament-top" aria-hidden="true">
+        <svg viewBox="0 0 200 24" xmlns="http://www.w3.org/2000/svg">
+          <line x1="0" y1="12" x2="80" y2="12" stroke="currentColor" stroke-width="0.5"/>
+          <polygon points="90,4 100,12 90,20 80,12" fill="none" stroke="currentColor" stroke-width="1"/>
+          <circle cx="100" cy="12" r="2" fill="currentColor"/>
+          <polygon points="110,4 120,12 110,20 100,12" fill="none" stroke="currentColor" stroke-width="1"/>
+          <line x1="120" y1="12" x2="200" y2="12" stroke="currentColor" stroke-width="0.5"/>
+        </svg>
+      </div>
 
-<!-- Program Timeline Section -->
-<section style="padding: 60px 24px; background: #f8f6f1; text-align: center;">
-  <div style="max-width: 900px; margin: 0 auto;">
-
-    <h2 style="font-size: clamp(22px, 3.5vw, 32px); font-weight: 700; color: var(--navy); margin-bottom: 8px;">
-      <span data-ar>الجدول الزمني للبرنامج</span>
-      <span data-en>Program Timeline</span>
-    </h2>
-    <p style="color: var(--muted); font-size: 15px; margin-bottom: 32px;">
-      <span data-ar>٦ أسابيع · ١٢ جلسة · ٢٤ ساعة تدريس · ٥ مدربين · ١٥ طالباً</span>
-      <span data-en>6 weeks · 12 sessions · 24 teaching hours · 5 instructors · 15 students</span>
-    </p>
-
-    <div style="background: #ffffff; border-radius: 16px; border: 1px solid rgba(201,168,76,0.25); padding: 24px; box-shadow: 0 2px 16px rgba(27,58,92,0.06);">
-      <svg width="100%" viewBox="0 0 680 430" xmlns="http://www.w3.org/2000/svg" font-family="'Inter', 'Amiri', sans-serif" role="img" aria-label="LLM4Yemen 6-week program timeline">
-        <title>LLM4Yemen Program Timeline</title>
-
-        <!-- Legend -->
-        <rect x="40" y="12" width="11" height="11" rx="2" fill="#1B3A5C"/>
-        <text x="56" y="22" font-size="11" fill="#555">
-          <tspan data-ar>مشترك</tspan>
-          <tspan data-en>Combined</tspan>
-        </text>
-        <rect x="145" y="12" width="11" height="11" rx="2" fill="#185FA5"/>
-        <text x="161" y="22" font-size="11" fill="#555">Track A</text>
-        <rect x="230" y="12" width="11" height="11" rx="2" fill="#3B6D11"/>
-        <text x="246" y="22" font-size="11" fill="#555">Track B</text>
-
-        <!-- Week headers -->
-        <text x="102" y="52" text-anchor="middle" font-size="11" font-weight="600" fill="#888">Week 1</text>
-        <text x="202" y="52" text-anchor="middle" font-size="11" font-weight="600" fill="#888">Week 2</text>
-        <text x="302" y="52" text-anchor="middle" font-size="11" font-weight="600" fill="#888">Week 3</text>
-        <text x="402" y="52" text-anchor="middle" font-size="11" font-weight="600" fill="#888">Week 4</text>
-        <text x="502" y="52" text-anchor="middle" font-size="11" font-weight="600" fill="#888">Week 5</text>
-        <text x="602" y="52" text-anchor="middle" font-size="11" font-weight="600" fill="#888">Week 6</text>
-
-        <!-- Spine -->
-        <line x1="52" y1="64" x2="648" y2="64" stroke="#C9A84C" stroke-width="2" stroke-linecap="round"/>
-        <circle cx="102" cy="64" r="5" fill="#C9A84C"/>
-        <circle cx="202" cy="64" r="5" fill="#C9A84C"/>
-        <circle cx="302" cy="64" r="5" fill="#C9A84C"/>
-        <circle cx="402" cy="64" r="5" fill="#C9A84C"/>
-        <circle cx="502" cy="64" r="5" fill="#C9A84C"/>
-        <circle cx="602" cy="64" r="5" fill="#C9A84C"/>
-
-        <!-- Row labels -->
-        <text x="38" y="108" text-anchor="end" font-size="10" fill="#777">Combined</text>
-        <text x="38" y="188" text-anchor="end" font-size="10" fill="#777">Track A</text>
-        <text x="38" y="278" text-anchor="end" font-size="10" fill="#777">Track B</text>
-
-        <!-- Dividers -->
-        <line x1="40" y1="138" x2="648" y2="138" stroke="#e0e0e0" stroke-width="0.5" stroke-dasharray="4 4"/>
-        <line x1="40" y1="228" x2="648" y2="228" stroke="#e0e0e0" stroke-width="0.5" stroke-dasharray="4 4"/>
-
-        <!-- WEEK 1: Combined — Dr. Mawari -->
-        <rect x="52" y="78" width="100" height="52" rx="6" fill="#1B3A5C"/>
-        <text x="102" y="99" text-anchor="middle" font-size="11" fill="#B5D4F4" font-weight="600">Dr. Mawari</text>
-        <text x="102" y="113" text-anchor="middle" font-size="10" fill="#85B7EB">Foundations &amp;</text>
-        <text x="102" y="125" text-anchor="middle" font-size="10" fill="#85B7EB">Prompt Eng.</text>
-
-        <!-- WEEK 2: Track A — Dr. Fadhl -->
-        <rect x="152" y="158" width="100" height="52" rx="6" fill="#185FA5"/>
-        <text x="202" y="179" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="600">Dr. Fadhl</text>
-        <text x="202" y="193" text-anchor="middle" font-size="10" fill="#B5D4F4">AI Tool</text>
-        <text x="202" y="205" text-anchor="middle" font-size="10" fill="#B5D4F4">Fluency</text>
-
-        <!-- WEEK 3: Track A — Dr. Fadhl -->
-        <rect x="252" y="158" width="100" height="52" rx="6" fill="#185FA5"/>
-        <text x="302" y="179" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="600">Dr. Fadhl</text>
-        <text x="302" y="193" text-anchor="middle" font-size="10" fill="#B5D4F4">NotebookLM</text>
-        <text x="302" y="205" text-anchor="middle" font-size="10" fill="#B5D4F4">Mastery</text>
-
-        <!-- WEEK 3: Track B — Dr. Yousif -->
-        <rect x="252" y="248" width="100" height="52" rx="6" fill="#3B6D11"/>
-        <text x="302" y="269" text-anchor="middle" font-size="11" fill="#EAF3DE" font-weight="600">Dr. Yousif</text>
-        <text x="302" y="283" text-anchor="middle" font-size="10" fill="#C0DD97">RAG Eng. +</text>
-        <text x="302" y="295" text-anchor="middle" font-size="10" fill="#C0DD97">Data Science</text>
-
-        <!-- WEEK 4: Track A — Wail -->
-        <rect x="352" y="158" width="100" height="52" rx="6" fill="#185FA5"/>
-        <text x="402" y="179" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="600">Wail</text>
-        <text x="402" y="193" text-anchor="middle" font-size="10" fill="#B5D4F4">Content</text>
-        <text x="402" y="205" text-anchor="middle" font-size="10" fill="#B5D4F4">Creators</text>
-
-        <!-- WEEK 4: Track B — Dr. Alareqi -->
-        <rect x="352" y="248" width="100" height="52" rx="6" fill="#3B6D11"/>
-        <text x="402" y="269" text-anchor="middle" font-size="11" fill="#EAF3DE" font-weight="600">Dr. Alareqi</text>
-        <text x="402" y="283" text-anchor="middle" font-size="10" fill="#C0DD97">Claude Code</text>
-
-        <!-- WEEK 5: Track A — Wail -->
-        <rect x="452" y="158" width="100" height="52" rx="6" fill="#185FA5"/>
-        <text x="502" y="179" text-anchor="middle" font-size="11" fill="#E6F1FB" font-weight="600">Wail</text>
-        <text x="502" y="193" text-anchor="middle" font-size="10" fill="#B5D4F4">No-Code</text>
-        <text x="502" y="205" text-anchor="middle" font-size="10" fill="#B5D4F4">Automation</text>
-
-        <!-- WEEK 5: Track B — Dr. Alareqi -->
-        <rect x="452" y="248" width="100" height="52" rx="6" fill="#3B6D11"/>
-        <text x="502" y="269" text-anchor="middle" font-size="11" fill="#EAF3DE" font-weight="600">Dr. Alareqi</text>
-        <text x="502" y="283" text-anchor="middle" font-size="10" fill="#C0DD97">AI Agents</text>
-        <text x="502" y="295" text-anchor="middle" font-size="10" fill="#C0DD97">&amp; MCP</text>
-
-        <!-- WEEK 6: Combined — Wail -->
-        <rect x="552" y="78" width="100" height="52" rx="6" fill="#1B3A5C"/>
-        <text x="602" y="99" text-anchor="middle" font-size="11" fill="#B5D4F4" font-weight="600">Wail</text>
-        <text x="602" y="113" text-anchor="middle" font-size="10" fill="#85B7EB">Freelance</text>
-        <text x="602" y="125" text-anchor="middle" font-size="10" fill="#85B7EB">Launch</text>
-
-        <!-- Hours labels -->
-        <text x="102" y="148" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
-        <text x="227" y="220" text-anchor="middle" font-size="10" fill="#C9A84C">8 hrs · 4 sessions</text>
-        <text x="302" y="312" text-anchor="middle" font-size="10" fill="#5a9e20">4 hrs · 2 sessions</text>
-        <text x="402" y="220" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
-        <text x="402" y="312" text-anchor="middle" font-size="10" fill="#5a9e20">4 hrs · 2 sessions</text>
-        <text x="502" y="220" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
-        <text x="502" y="312" text-anchor="middle" font-size="10" fill="#5a9e20">4 hrs · 2 sessions</text>
-        <text x="602" y="148" text-anchor="middle" font-size="10" fill="#C9A84C">4 hrs · 2 sessions</text>
-
-        <!-- Split / merge annotations -->
-        <line x1="152" y1="139" x2="152" y2="250" stroke="#C9A84C" stroke-width="0.5" stroke-dasharray="3 3"/>
-        <text x="148" y="152" text-anchor="end" font-size="10" fill="#C9A84C">tracks split</text>
-        <line x1="548" y1="139" x2="548" y2="250" stroke="#C9A84C" stroke-width="0.5" stroke-dasharray="3 3"/>
-        <text x="552" y="152" font-size="10" fill="#C9A84C">tracks merge</text>
-
-        <!-- Summary bar -->
-        <rect x="40" y="335" width="600" height="72" rx="8" fill="none" stroke="#e8e0cc" stroke-width="1"/>
-        <text x="340" y="356" text-anchor="middle" font-size="12" font-weight="600" fill="#1B3A5C">Program Summary</text>
-        <text x="112" y="378" text-anchor="middle" font-size="14" font-weight="700" fill="#C9A84C">6</text>
-        <text x="112" y="393" text-anchor="middle" font-size="10" fill="#777">weeks</text>
-        <text x="240" y="378" text-anchor="middle" font-size="14" font-weight="700" fill="#C9A84C">12</text>
-        <text x="240" y="393" text-anchor="middle" font-size="10" fill="#777">sessions</text>
-        <text x="368" y="378" text-anchor="middle" font-size="14" font-weight="700" fill="#C9A84C">24 hrs</text>
-        <text x="368" y="393" text-anchor="middle" font-size="10" fill="#777">instruction</text>
-        <text x="496" y="378" text-anchor="middle" font-size="14" font-weight="700" fill="#C9A84C">5</text>
-        <text x="496" y="393" text-anchor="middle" font-size="10" fill="#777">instructors</text>
-        <text x="612" y="378" text-anchor="middle" font-size="14" font-weight="700" fill="#C9A84C">15</text>
-        <text x="612" y="393" text-anchor="middle" font-size="10" fill="#777">students</text>
-        <line x1="176" y1="345" x2="176" y2="398" stroke="#e8e0cc" stroke-width="0.5"/>
-        <line x1="304" y1="345" x2="304" y2="398" stroke="#e8e0cc" stroke-width="0.5"/>
-        <line x1="432" y1="345" x2="432" y2="398" stroke="#e8e0cc" stroke-width="0.5"/>
-        <line x1="560" y1="345" x2="560" y2="398" stroke="#e8e0cc" stroke-width="0.5"/>
-      </svg>
-    </div>
-
-  </div>
-</section>
-<!-- End Program Timeline Section -->
-
-<section class="content">
-  <h2 class="section-title center">
-    <span data-ar>كل ما تحتاج معرفته</span>
-    <span data-en>Everything you need to know</span>
-  </h2>
-  <p class="section-intro center large">
-    <span data-ar>استكشف البرنامج من خلال صفحاتنا التفصيلية. كل قسم يجيب على سؤال مختلف.</span>
-    <span data-en>Explore the program through our detailed pages. Each one answers a different question.</span>
-  </p>
-
-  <div class="grid-3">
-    <a href="program.html" class="card no-hover" style="text-decoration: none;">
-      <div class="card-tag" data-ar>البرنامج</div>
-      <div class="card-tag" data-en>Program</div>
-      <h3 data-ar>كيف يعمل البرنامج؟</h3>
-      <h3 data-en>How does it work?</h3>
-      <p data-ar>المسار التقاربي–التباعدي، التزام الوقت، البنية التقنية، البنية التحتية للأسئلة اليمنية.</p>
-      <p data-en>Convergent–divergent design, time commitment, technical setup, Yemen-specific infrastructure considerations.</p>
-    </a>
-    <a href="curriculum.html" class="card blue no-hover" style="text-decoration: none;">
-      <div class="card-tag" data-ar>المنهج</div>
-      <div class="card-tag" data-en>Curriculum</div>
-      <h3 data-ar>ماذا ستتعلم؟</h3>
-      <h3 data-en>What will you learn?</h3>
-      <p data-ar>المنهج كاملاً: ٦ أسابيع، ٧ كتب، تمارين، مشاريع ختامية.</p>
-      <p data-en>The full curriculum: 6 weeks, 7 textbooks, exercises, capstone projects.</p>
-    </a>
-    <a href="team.html" class="card no-hover" style="text-decoration: none;">
-      <div class="card-tag" data-ar>الفريق</div>
-      <div class="card-tag" data-en>Team</div>
-      <h3 data-ar>من سيدرّسك؟</h3>
-      <h3 data-en>Who teaches?</h3>
-      <p data-ar>خمسة مدرّسين يجمعون بين العمق الأكاديمي والخبرة الصناعية.</p>
-      <p data-en>Five instructors combining academic depth and industry experience.</p>
-    </a>
-    <a href="documents.html" class="card no-hover" style="text-decoration: none;">
-      <div class="card-tag" data-ar>الوثائق</div>
-      <div class="card-tag" data-en>Documents</div>
-      <h3 data-ar>الوثائق الكاملة</h3>
-      <h3 data-en>Full documents</h3>
-      <p data-ar>تنزيل موجز البرنامج، استمارة التقديم، مواصفات المشروع الختامي، قوالب المختبر.</p>
-      <p data-en>Download the program brief, application form, capstone spec, and lab worksheet templates.</p>
-    </a>
-    <a href="faq.html" class="card blue no-hover" style="text-decoration: none;">
-      <div class="card-tag" data-ar>أسئلة</div>
-      <div class="card-tag" data-en>FAQ</div>
-      <h3 data-ar>أسئلتك أُجيب عليها</h3>
-      <h3 data-en>Your questions answered</h3>
-      <p data-ar>التكلفة، المتطلبات، الانقطاعات، استلام المدفوعات، والمزيد.</p>
-      <p data-en>Cost, requirements, outages, receiving payments, and more.</p>
-    </a>
-    <a href="apply.html" class="card no-hover" style="text-decoration: none;">
-      <div class="card-tag" data-ar>التقديم</div>
-      <div class="card-tag" data-en>Apply</div>
-      <h3 data-ar>التقديم خطوة بخطوة</h3>
-      <h3 data-en>How to apply</h3>
-      <p data-ar>المتطلبات، الجدول الزمني، الاستمارة، عملية الاختيار.</p>
-      <p data-en>Requirements, timeline, application form, selection process.</p>
-    </a>
-  </div>
-</section>
-
-<section class="cta-banner">
-  <h2>
-    <span data-ar>انضم إلى الدفعة الأولى</span>
-    <span data-en>Join Cohort 1</span>
-  </h2>
-  <p>
-    <span data-ar>التقديم مفتوح حتى ٣١ يوليو ٢٠٢٦. ١٥ مقعداً متاحاً. لا تكلفة على الطالب.</span>
-    <span data-en>Applications open until 31 July 2026. 15 seats available. No cost to students.</span>
-  </p>
-  <a href="apply.html" class="btn">
-    <span data-ar>ابدأ التقديم ←</span>
-    <span data-en>Start your application →</span>
-  </a>
-</section>
-
-<footer>
-  <div class="footer-inner">
-    <div>
-      <div class="logo">LLM4<span>Yemen</span></div>
-      <p data-ar>برنامج مكثّف لمهارات الذكاء الاصطناعي للطلاب اليمنيين — يحوّل الجامعة اليمنية إلى بوابة للسوق العالمي عبر العمل الحر بالذكاء الاصطناعي.</p>
-      <p data-en>An intensive AI skills program for Yemeni undergraduates — turning Yemen's universities into a gateway to the global market through AI-powered freelance work.</p>
-    </div>
-    <div>
-      <h5 data-ar>الصفحات</h5>
-      <h5 data-en>Pages</h5>
-      <ul>
-        <li><a href="program.html" data-ar>عن البرنامج</a><a href="program.html" data-en>About the Program</a></li>
-        <li><a href="curriculum.html" data-ar>المنهج</a><a href="curriculum.html" data-en>Curriculum</a></li>
-        <li><a href="team.html" data-ar>فريق التدريس</a><a href="team.html" data-en>Teaching Team</a></li>
-        <li><a href="documents.html" data-ar>الوثائق</a><a href="documents.html" data-en>Documents</a></li>
-        <li><a href="faq.html" data-ar>أسئلة شائعة</a><a href="faq.html" data-en>FAQ</a></li>
-        <li><a href="apply.html" data-ar>التقديم</a><a href="apply.html" data-en>Apply</a></li>
-      </ul>
-    </div>
-    <div>
-      <h5 data-ar>تواصل</h5>
-      <h5 data-en>Contact</h5>
-      <p>
-        <a href="mailto:llm4yemen@gmail.com">llm4yemen@gmail.com</a>
+      <h1 class="author-name" data-ar="د. فضل محمد الأكوع" data-en="Dr. Fadhl Mohammed Alakwaa">د. فضل محمد الأكوع</h1>
+      <p class="author-role" data-ar="باحث في المعلوماتية الحيوية والجينوميات المكانية — جامعة ميشيغان" data-en="Researcher in Bioinformatics and Spatial Genomics — University of Michigan">
+        باحث في المعلوماتية الحيوية والجينوميات المكانية — جامعة ميشيغان
       </p>
-      <p data-ar style="font-size: 13px; margin-top: 8px;">للشركاء، المتبرعين، والمتقدّمين</p>
-      <p data-en style="font-size: 13px; margin-top: 8px;">For partners, donors, and applicants</p>
-    </div>
-  </div>
-  <div class="footer-bottom">
-    © 2026 LLM4Yemen
-  </div>
-</footer>
 
-<script src="site.js"></script>
+      <div class="ornament ornament-bottom" aria-hidden="true">
+        <svg viewBox="0 0 200 24" xmlns="http://www.w3.org/2000/svg">
+          <line x1="0" y1="12" x2="80" y2="12" stroke="currentColor" stroke-width="0.5"/>
+          <polygon points="90,4 100,12 90,20 80,12" fill="none" stroke="currentColor" stroke-width="1"/>
+          <circle cx="100" cy="12" r="2" fill="currentColor"/>
+          <polygon points="110,4 120,12 110,20 100,12" fill="none" stroke="currentColor" stroke-width="1"/>
+          <line x1="120" y1="12" x2="200" y2="12" stroke="currentColor" stroke-width="0.5"/>
+        </svg>
+      </div>
+
+      <p class="library-title" data-ar="المكتبة" data-en="The Library">المكتبة</p>
+      <p class="library-tagline" data-ar="مؤلفات في القرآن والإسلاميات واليمن والتقنية والأسرة" data-en="Writings on Quran, Islamic studies, Yemen, technology, and family">
+        مؤلفات في القرآن والإسلاميات واليمن والتقنية والأسرة
+      </p>
+
+      <div class="stats" id="stats">
+        <div class="stat">
+          <span class="stat-num" id="stat-total">—</span>
+          <span class="stat-label" data-ar="مؤلف" data-en="books">مؤلف</span>
+        </div>
+        <div class="stat-divider" aria-hidden="true"></div>
+        <div class="stat">
+          <span class="stat-num" id="stat-categories">—</span>
+          <span class="stat-label" data-ar="حقل معرفي" data-en="fields">حقل معرفي</span>
+        </div>
+        <div class="stat-divider" aria-hidden="true"></div>
+        <div class="stat">
+          <span class="stat-num" id="stat-year">2026</span>
+          <span class="stat-label" data-ar="أحدث إصدار" data-en="latest year">أحدث إصدار</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Featured spotlight -->
+  <section class="spotlight" id="spotlight" aria-labelledby="spotlight-heading">
+    <div class="spotlight-inner">
+      <h2 class="section-heading" id="spotlight-heading">
+        <span class="heading-mark" aria-hidden="true">﴿</span>
+        <span data-ar="مختارات المكتبة" data-en="Library selections">مختارات المكتبة</span>
+        <span class="heading-mark" aria-hidden="true">﴾</span>
+      </h2>
+      <div class="spotlight-grid" id="spotlight-grid"></div>
+    </div>
+  </section>
+
+  <!-- Filters and catalog -->
+  <section class="catalog" aria-labelledby="catalog-heading">
+    <div class="catalog-inner">
+      <div class="catalog-header">
+        <h2 class="section-heading" id="catalog-heading">
+          <span class="heading-mark" aria-hidden="true">﴿</span>
+          <span data-ar="جميع المؤلفات" data-en="The full catalog">جميع المؤلفات</span>
+          <span class="heading-mark" aria-hidden="true">﴾</span>
+        </h2>
+
+        <div class="search-bar">
+          <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="1.5"/>
+            <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <input
+            type="search"
+            id="search-input"
+            class="search-input"
+            placeholder="ابحث في العناوين والمواضيع…"
+            data-placeholder-ar="ابحث في العناوين والمواضيع…"
+            data-placeholder-en="Search titles and topics…"
+            aria-label="Search"
+          >
+          <button class="search-clear" id="search-clear" aria-label="Clear search" hidden>×</button>
+        </div>
+      </div>
+
+      <div class="filters">
+        <div class="filter-group" role="group" aria-label="Category filter">
+          <button class="chip chip-active" data-category="all" data-ar="الكل" data-en="All">الكل</button>
+          <!-- Category chips injected by JS -->
+        </div>
+
+        <div class="filter-meta">
+          <span class="result-count" id="result-count"></span>
+          <select id="sort-select" class="sort-select" aria-label="Sort order">
+            <option value="newest" data-ar="الأحدث أولاً" data-en="Newest first">الأحدث أولاً</option>
+            <option value="title-ar" data-ar="العنوان أ-ي" data-en="Title (Arabic)">العنوان أ-ي</option>
+            <option value="pages-desc" data-ar="الأطول أولاً" data-en="Longest first">الأطول أولاً</option>
+            <option value="pages-asc" data-ar="الأقصر أولاً" data-en="Shortest first">الأقصر أولاً</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="book-grid" id="book-grid" role="list">
+        <!-- Book cards injected by JS -->
+      </div>
+
+      <div class="empty-state" id="empty-state" hidden>
+        <p data-ar="لا توجد نتائج تطابق بحثك." data-en="No results match your search.">لا توجد نتائج تطابق بحثك.</p>
+        <button class="link-btn" id="reset-filters" data-ar="إعادة ضبط الفلاتر" data-en="Reset filters">إعادة ضبط الفلاتر</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- About the author -->
+  <section class="about" aria-labelledby="about-heading">
+    <div class="about-inner">
+      <h2 class="section-heading" id="about-heading">
+        <span class="heading-mark" aria-hidden="true">﴿</span>
+        <span data-ar="عن المؤلف" data-en="About the author">عن المؤلف</span>
+        <span class="heading-mark" aria-hidden="true">﴾</span>
+      </h2>
+
+      <div class="about-content">
+        <div class="about-text" data-lang-block>
+          <div data-ar>
+            <p>الدكتور فضل محمد الأكوع باحث في البيولوجيا الحاسوبية والمعلوماتية الحيوية والجينوميات المكانية بجامعة ميشيغان في آن أربر. تتمحور أبحاثه حول تطبيق الذكاء الاصطناعي في دراسة الأمراض المزمنة، ومن أبرز أعماله المنشورة دراسات على مثبطات ناقل الصوديوم-غلوكوز 2 (SGLT2) والتغيرات الأنبوبية الكلوية المنشورة في مجلة JCI عام 2023.</p>
+            <p>إلى جانب مسيرته العلمية، يكتب د. فضل باللغتين العربية والإنجليزية في حقول متعددة تشمل الدراسات القرآنية، تاريخ اليمن والسياسة، الذكاء الاصطناعي والتقنية، الأسرة والتربية، ودليل المهاجرين في المهجر. ينظّم شهرياً في ولاية ميشيغان لقاءً فكرياً باسم "ديوان الأصدقاء".</p>
+          </div>
+          <div data-en hidden>
+            <p>Dr. Fadhl Mohammed Alakwaa is a researcher in computational biology, bioinformatics, and spatial genomics at the University of Michigan in Ann Arbor. His research focuses on applying AI to the study of chronic diseases; among his notable publications are studies on SGLT2 inhibitors and kidney tubular changes published in JCI in 2023.</p>
+            <p>Alongside his scientific career, Dr. Alakwaa writes in both Arabic and English across a range of fields including Quranic studies, Yemeni history and politics, AI and technology, family and parenting, and guides for diaspora life. He hosts a monthly intellectual gathering in Michigan called "ديوان الأصدقاء" (Diwan al-Asdiqa).</p>
+          </div>
+        </div>
+
+        <aside class="about-card">
+          <h3 data-ar="روابط" data-en="Connect">روابط</h3>
+          <ul class="link-list">
+            <li><a href="https://experts.umich.edu/6352-fadhl-alakwaa" target="_blank" rel="noopener">
+              <span data-ar="الصفحة الجامعية" data-en="University profile">الصفحة الجامعية</span>
+              <span class="link-arrow" aria-hidden="true">↗</span>
+            </a></li>
+            <li><a href="https://github.com/FADHLyemen" target="_blank" rel="noopener">
+              <span data-ar="GitHub — الأبحاث والأكواد" data-en="GitHub — research and code">GitHub — الأبحاث والأكواد</span>
+              <span class="link-arrow" aria-hidden="true">↗</span>
+            </a></li>
+            <li><a href="https://x.com/fadhlyemen" target="_blank" rel="noopener">
+              <span data-ar="X (تويتر)" data-en="X (Twitter)">X (تويتر)</span>
+              <span class="link-arrow" aria-hidden="true">↗</span>
+            </a></li>
+            <li><a href="feed.xml">
+              <span data-ar="RSS — كتب جديدة" data-en="RSS — new books">RSS — كتب جديدة</span>
+              <span class="link-arrow" aria-hidden="true">↗</span>
+            </a></li>
+          </ul>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- AI authorship disclaimer -->
+  <section class="disclaimer" aria-label="AI authorship disclaimer">
+    <div class="disclaimer-inner">
+      <div class="disclaimer-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M12 8v4M12 16h.01" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </div>
+      <div class="disclaimer-text">
+        <p data-ar="معظم كتب هذه المكتبة أُنتجت بمساعدة نموذج Claude Opus 4.7 من Anthropic، تحت إشراف وتوجيه المؤلف. التوجيه الفكري والمراجعة والمسؤولية النهائية للمؤلف. الكتب لأغراض تثقيفية وإثرائية، ولا تُغني عن استشارة المتخصصين في الموضوعات القانونية والطبية والمالية." data-en="Most books in this library were produced with the assistance of Anthropic's Claude Opus 4.7 model, under the author's direction and supervision. Intellectual direction, review, and final responsibility rest with the author. Books are for educational purposes and do not substitute for consultation with specialists in legal, medical, and financial matters.">معظم كتب هذه المكتبة أُنتجت بمساعدة نموذج Claude Opus 4.7 من Anthropic، تحت إشراف وتوجيه المؤلف. التوجيه الفكري والمراجعة والمسؤولية النهائية للمؤلف. الكتب لأغراض تثقيفية وإثرائية، ولا تُغني عن استشارة المتخصصين في الموضوعات القانونية والطبية والمالية.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <p class="footer-line" data-ar="جميع الحقوق محفوظة للمؤلف" data-en="All rights reserved to the author">جميع الحقوق محفوظة للمؤلف</p>
+      <p class="footer-copyright">© <span id="copyright-year">2026</span> Dr. Fadhl Mohammed Alakwaa · د. فضل محمد الأكوع</p>
+      <p class="footer-note" data-ar="مكتبة شخصية مفتوحة للقرّاء — لا تستخدم للتجارة." data-en="A private library open to readers — not for commercial use.">مكتبة شخصية مفتوحة للقرّاء — لا تستخدم للتجارة.</p>
+    </div>
+  </footer>
+
+  <!-- Book detail modal -->
+  <dialog id="book-modal" class="book-modal" aria-labelledby="modal-title">
+    <div class="modal-inner" id="modal-inner"></div>
+    <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+  </dialog>
+
+  <script src="js/main.js" defer></script>
 </body>
 </html>
