@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-01",
+    "last_updated": "2026-05-04",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "ml-algorithms-guide",
+      "title_ar": "خوارزميات التعلم الآلي",
+      "title_en": "Machine Learning Algorithms Explained",
+      "subtitle_ar": "دليل شامل لخوارزميات SVM والغابة العشوائية وما بعدها",
+      "category": "tech",
+      "year": 2026,
+      "pages": 194,
+      "description_ar": "دليل شامل ومبسط لأهم خوارزميات التعلم الآلي الكلاسيكي من الانحدار الخطي إلى الغابة العشوائية وآلة المتجهات الداعمة وما بعدها. يشرح المؤلف كل خوارزمية بالتشبيه والمثال قبل الرياضيات مستندا إلى تجربته في أبحاث علم الجينوم والبيانات الطبية في جامعة ميشيغان.",
+      "description_en": "A comprehensive and intuitive guide to classical machine learning algorithms  from linear regression to SVM, random forest, XGBoost, clustering, and dimensionality reduction. The author, a computational biologist at the University of Michigan, explains every algorithm through analogy and real biomedical examples before any equations appear.",
+      "cover": "assets/covers/ml-algorithms-guide.jpg",
+      "files": {
+        "pdf": "assets/books/ml-algorithms-guide.pdf",
+        "epub": "assets/books/ml-algorithms-guide.epub",
+        "docx": "assets/books/ml-algorithms-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "pos-accounting-guide",
       "title_ar": "من آلة الكاش إلى نظام البيع الذكي",
