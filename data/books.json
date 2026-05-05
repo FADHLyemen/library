@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "uae-israel-rapprochement",
+      "title_ar": "أسباب التقارب الإماراتي الإسرائيلي",
+      "title_en": "The UAE-Israel Rapprochement",
+      "subtitle_ar": "جذور التطبيع: التاريخ والسياسة والاستراتيجيا",
+      "category": "politics",
+      "year": 2026,
+      "pages": 254,
+      "description_ar": "تحليل موثق ومعمق لأسباب التقارب الإماراتي الإسرائيلي وصولا إلى اتفاقيات أبراهام 2020 وما تلاها. يدرس الكتاب الدوافع الأمنية والاقتصادية والأمريكية ويطرح السؤال الصعب: ما الثمن الذي دفعه الفلسطينيون وماذا يعني هذا التقارب لمستقبل القضية والمنطقة",
+      "description_en": "A documented and rigorous analysis of the forces behind the UAE-Israel normalization  from decades of secret contacts to the Abraham Accords of 2020 and their aftermath. The book examines security, economic, and American drivers, confronts the Palestinian price, and asks what this realignment means for the future of the Arab world and the Palestinian cause.",
+      "cover": "assets/covers/uae-israel-rapprochement.jpg",
+      "files": {
+        "pdf": "assets/books/uae-israel-rapprochement.pdf",
+        "epub": "assets/books/uae-israel-rapprochement.epub",
+        "docx": "assets/books/uae-israel-rapprochement.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "ml-algorithms-guide",
       "title_ar": "خوارزميات التعلم الآلي",
       "title_en": "Machine Learning Algorithms Explained",
