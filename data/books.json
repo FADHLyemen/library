@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "google-deepmind",
+      "title_ar": "جوجل ديب مايند",
+      "title_en": "Google DeepMind",
+      "subtitle_ar": "المختبر الذي علم الآلات أن تفكر",
+      "category": "tech",
+      "year": 2026,
+      "pages": 138,
+      "description_ar": "رحلة شيقة في أعمق مختبرات الذكاء الاصطناعي في العالم: من بداياته المتواضعة في لندن إلى AlphaGo وAlphaFold والنماذج اللغوية الكبرى. يستعرض الكتاب إنجازات DeepMind التي غيرت علم الأحياء والطب والطاقة ويطرح أسئلة جوهرية عن مستقبل الذكاء الاصطناعي والمسؤولية الأخلاقية.",
+      "description_en": "A compelling account of Google DeepMind  the AI lab that went from a London startup to solving 50-year-old scientific mysteries. From Atari games to AlphaFold, from climate prediction to cancer diagnosis, this book traces DeepMind's breakthroughs and asks what they mean for science, humanity, and the future of intelligence itself.",
+      "cover": "assets/covers/google-deepmind.jpg",
+      "files": {
+        "pdf": "assets/books/google-deepmind.pdf",
+        "epub": "assets/books/google-deepmind.epub",
+        "docx": "assets/books/google-deepmind.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "uae-israel-rapprochement",
       "title_ar": "أسباب التقارب الإماراتي الإسرائيلي",
       "title_en": "The UAE-Israel Rapprochement",
