@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-04",
+    "last_updated": "2026-05-06",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "claude-code-from-zero-to-deployed",
+      "title_ar": "البرمجة بالذكاء الاصطناعي: Claude Code من الصفر إلى الإنتاج",
+      "title_en": "AI-Assisted Coding with Claude Code: From Zero to Deployed",
+      "subtitle_ar": "دليل عملي لطلاب اليمن لبناء تطبيقات حقيقية وبيعها على Upwork",
+      "category": "tech",
+      "year": 2026,
+      "pages": 354,
+      "description_ar": "كتاب عملي يأخذ الطالب اليمني الذي يعرف Python من الصفر إلى نشر تطبيق ذكاء اصطناعي حقيقي مبني على Claude. يغطي API و Claude Code وهندسة التعليمات وأربعة مشاريع قابلة للبيع النشر على الإنترنت التسعير على Upwork وعادات الإنتاج والأمان.",
+      "description_en": "A practical book taking a Yemeni student with basic Python from zero to a deployed AI service built on Claude. Covers the API, Claude Code, prompt engineering, four sellable projects, deployment, Upwork pricing, and production habits  written for the LLM4Yemen Week 4 AI Builder track.",
+      "cover": "assets/covers/claude-code-from-zero-to-deployed.jpg",
+      "files": {
+        "pdf": "assets/books/claude-code-from-zero-to-deployed.pdf",
+        "epub": "assets/books/claude-code-from-zero-to-deployed.epub",
+        "docx": "assets/books/claude-code-from-zero-to-deployed.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "google-deepmind",
       "title_ar": "جوجل ديب مايند",
