@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "unhealthy-food-guide",
+      "title_ar": "الأكل الذي يقتلنا ببطء",
+      "title_en": "The Food That Slowly Kills Us",
+      "subtitle_ar": "حقائق علمية عن الأكل الضار الذي نتناوله كل يوم",
+      "category": "personal",
+      "year": 2026,
+      "pages": 157,
+      "description_ar": "دليل علمي وعملي يكشف حقيقة الأطعمة الضارة التي باتت جزءا من حياتنا اليومية  من السكر المخفي إلى الدهون المتحولة والمشروبات المدمرة. يربط الكتاب بين الأدلة العلمية الحديثة والمنظور الإسلامي في الأكل الحلال الطيب.",
+      "description_en": "A science-based and practical guide to the harmful foods embedded in our daily lives  hidden sugars, trans fats, ultra-processed foods, and deceptive food labels. Connects current nutritional research with the Islamic principle of eating what is both lawful and wholesome.",
+      "cover": "assets/covers/unhealthy-food-guide.jpg",
+      "files": {
+        "pdf": "assets/books/unhealthy-food-guide.pdf",
+        "epub": "assets/books/unhealthy-food-guide.epub",
+        "docx": "assets/books/unhealthy-food-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "inheritance-comparative-law",
       "title_ar": "المواريث في الإسلام والقانون",
       "title_en": "Inheritance: Islam, America, and Human Law",
