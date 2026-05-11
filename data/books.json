@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-06",
+    "last_updated": "2026-05-10",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "drug-discovery-clinical-trials",
+      "title_ar": "رحلة الدواء",
+      "title_en": "The Journey of Medicine",
+      "subtitle_ar": "كيف يكتشف العلم الأدوية ولماذا تفشل معظمها",
+      "category": "tech",
+      "year": 2026,
+      "pages": 201,
+      "description_ar": "رحلة موثقة في عالم اكتشاف الأدوية والتجارب السريرية  من الاكتشافات العرضية إلى معدلات الفشل الصادمة ومن تكاليف التجارب إلى الأمراض التي لا علاج لها. يكتب المؤلف من موقع الباحث البيوطبي في جامعة ميشيغان بأسلوب يجمع بين الدقة العلمية وسهولة الفهم.",
+      "description_en": "A data-rich journey through drug discovery and clinical trials  accidental discoveries, 90% failure rates, mouse model limitations, federal funding flows, and the most profitable drugs in history. Written by a biomedical researcher at the University of Michigan with direct experience in clinical data science.",
+      "cover": "assets/covers/drug-discovery-clinical-trials.jpg",
+      "files": {
+        "pdf": "assets/books/drug-discovery-clinical-trials.pdf",
+        "epub": "assets/books/drug-discovery-clinical-trials.epub",
+        "docx": "assets/books/drug-discovery-clinical-trials.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
     {
       "id": "healthcare-technology-ecosystem",
       "title_ar": "حزمة التقنية الصحية",
