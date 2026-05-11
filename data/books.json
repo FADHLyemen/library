@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "healthcare-technology-ecosystem",
+      "title_ar": "حزمة التقنية الصحية",
+      "title_en": "The Healthcare Technology Stack",
+      "subtitle_ar": "رحلة في عمالقة الصحة الرقمية",
+      "category": "tech",
+      "year": 2026,
+      "pages": 153,
+      "description_ar": "رحلة شاملة في عالم التقنية الصحية الرقمية — من السجلات الطبية الإلكترونية إلى الذكاء الاصطناعي في الطب، ومن منصات الرعاية عن بُعد إلى عمالقة الشركات التي تُعيد تشكيل مستقبل الصحة.",
+      "description_en": "A comprehensive journey through the healthcare technology ecosystem — from electronic health records and clinical AI to telemedicine platforms and the giant companies reshaping the future of digital health.",
+      "cover": "assets/covers/healthcare-technology-ecosystem.jpg",
+      "files": {
+        "pdf": "assets/books/healthcare-technology-ecosystem.pdf",
+        "epub": "assets/books/healthcare-technology-ecosystem.epub",
+        "docx": "assets/books/healthcare-technology-ecosystem.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "claude-code-from-zero-to-deployed",
       "title_ar": "البرمجة بالذكاء الاصطناعي: Claude Code من الصفر إلى الإنتاج",
       "title_en": "AI-Assisted Coding with Claude Code: From Zero to Deployed",
@@ -1871,29 +1894,6 @@
         "epub",
         "docx"
       ]
-    },
-    {
-      "id": "healthcare-technology-ecosystem",
-      "title_ar": "حزمة التقنية الصحية",
-      "title_en": "The Healthcare Technology Stack",
-      "subtitle_ar": "رحلة في عمالقة الصحة الرقمية",
-      "category": "tech",
-      "year": 2026,
-      "pages": 153,
-      "description_ar": "رحلة شاملة في عالم التقنية الصحية الرقمية — من السجلات الطبية الإلكترونية إلى الذكاء الاصطناعي في الطب، ومن منصات الرعاية عن بُعد إلى عمالقة الشركات التي تُعيد تشكيل مستقبل الصحة.",
-      "description_en": "A comprehensive journey through the healthcare technology ecosystem — from electronic health records and clinical AI to telemedicine platforms and the giant companies reshaping the future of digital health.",
-      "cover": "assets/covers/healthcare-technology-ecosystem.jpg",
-      "files": {
-        "pdf": "assets/books/healthcare-technology-ecosystem.pdf",
-        "epub": "assets/books/healthcare-technology-ecosystem.epub",
-        "docx": "assets/books/healthcare-technology-ecosystem.docx"
-      },
-      "formats": [
-        "pdf",
-        "epub",
-        "docx"
-      ],
-      "featured": true
     }
   ]
 }
