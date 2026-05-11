@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "inheritance-comparative-law",
+      "title_ar": "المواريث في الإسلام والقانون",
+      "title_en": "Inheritance: Islam, America, and Human Law",
+      "subtitle_ar": "دراسة مقارنة في الميراث والطلاق بين الشريعة الإسلامية والقانون الأمريكي والشرائع الإنسانية",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 197,
+      "description_ar": "دراسة مقارنة شاملة في أنظمة المواريث  الإسلامي والأمريكي والروماني واليهودي والهندوسي. يتناول الكتاب الطلاق في أمريكا وحقوق المرأة ويشرح كيف يكتب المسلم وصيته في أمريكا بما يعكس أحكام الشريعة الإسلامية.",
+      "description_en": "A comprehensive comparative study of inheritance systems across Islamic jurisprudence, American civil law, Roman tradition, and other human legal frameworks. Includes a detailed chapter on divorce in America, women's financial rights, and a practical guide for Muslims navigating inheritance planning in the United States.",
+      "cover": "assets/covers/inheritance-comparative-law.jpg",
+      "files": {
+        "pdf": "assets/books/inheritance-comparative-law.pdf",
+        "epub": "assets/books/inheritance-comparative-law.epub",
+        "docx": "assets/books/inheritance-comparative-law.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "drug-discovery-clinical-trials",
       "title_ar": "رحلة الدواء",
       "title_en": "The Journey of Medicine",
