@@ -1893,7 +1893,7 @@
         "epub",
         "docx"
       ],
-      "featured": false
+      "featured": true
     }
   ]
 }
