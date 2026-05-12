@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-10",
+    "last_updated": "2026-05-12",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "family-movies-guide",
+      "title_ar": "الأفلام الهادفة",
+      "title_en": "Purposeful Cinema",
+      "subtitle_ar": "دليل المسلم للأفلام الأمريكية الهادفة والعائلية",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 196,
+      "description_ar": "دليل شامل للأسر المسلمة في الغرب يستعرض أفضل الأفلام الأمريكية الهادفة والعائلية  مع شرح نظام تصنيف الأفلام وأرقام صناعة السينما العالمية وقوائم مفصلة لكل فيلم بالعنوان والقصة والجوائز وتوصية المؤلف. بديل حقيقي عن الأفلام التي لا تناسب القيم الإسلامية.",
+      "description_en": "A comprehensive guide for Muslim families in the West to purposeful and family-friendly American films  covering the rating system, global film industry statistics, and curated lists with full entries for each film: title, year, cast, story, awards, and the author's recommendation note.",
+      "cover": "assets/covers/family-movies-guide.jpg",
+      "files": {
+        "pdf": "assets/books/family-movies-guide.pdf",
+        "epub": "assets/books/family-movies-guide.epub",
+        "docx": "assets/books/family-movies-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "unhealthy-food-guide",
       "title_ar": "الأكل الذي يقتلنا ببطء",
