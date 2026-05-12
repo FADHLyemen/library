@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "halal-mortgage-guide",
+      "title_ar": "بيت بلا ربا",
+      "title_en": "Home Without Riba",
+      "subtitle_ar": "دليل المسلم لشراء منزل في أمريكا بتمويل إسلامي",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 203,
+      "description_ar": "دليل عملي شامل للمسلم الذي يريد أن يمتلك منزلا في أمريكا دون الوقوع في الربا. يشرح الكتاب بدائل التمويل الإسلامي المتاحة  المرابحة والإجارة والمشاركة المتناقصة  ويقارن بين المؤسسات ويرشد القارئ خطوة بخطوة من قرار الشراء إلى إغلاق الصفقة.",
+      "description_en": "A comprehensive practical guide for Muslims who want to own a home in America without engaging in riba. Explains Islamic home finance structures  Murabaha, Diminishing Musharaka  compares available institutions, and walks the reader step by step from the initial decision to closing day.",
+      "cover": "assets/covers/halal-mortgage-guide.jpg",
+      "files": {
+        "pdf": "assets/books/halal-mortgage-guide.pdf",
+        "epub": "assets/books/halal-mortgage-guide.epub",
+        "docx": "assets/books/halal-mortgage-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "family-movies-guide",
       "title_ar": "الأفلام الهادفة",
       "title_en": "Purposeful Cinema",
