@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "muslim-life-in-west",
+      "title_ar": "مسلم في الغرب",
+      "title_en": "A Muslim in the West",
+      "subtitle_ar": "كيف تعيش في أمريكا دون أن تخسر دينك أو تعزل نفسك عن العالم",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 197,
+      "description_ar": "دليل عملي ودافئ من مسلم يمني-أمريكي يعيش في ميشيغان لكل مسلم قادم إلى الغرب  كيف تأكل حلالا وتصلي في العمل وتصوم رمضان وتربي أطفالك على الإسلام وتتعامل مع الكحول في اجتماعات العمل وكيف تكتشف الجوانب الجميلة في أمريكا التي لا تجدها في بلادك.",
+      "description_en": "A warm and practical guide from a Yemeni-American Muslim researcher in Michigan to every Muslim navigating life in the West  halal food, prayer at work, Ramadan fasting, raising children, alcohol at office events, and discovering the genuinely beautiful things America offers that you may not find back home.",
+      "cover": "assets/covers/muslim-life-in-west.jpg",
+      "files": {
+        "pdf": "assets/books/muslim-life-in-west.pdf",
+        "epub": "assets/books/muslim-life-in-west.epub",
+        "docx": "assets/books/muslim-life-in-west.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "halal-mortgage-guide",
       "title_ar": "بيت بلا ربا",
       "title_en": "Home Without Riba",
