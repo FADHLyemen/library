@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "divorce-america-islam",
+      "title_ar": "الطلاق في أمريكا والإسلام",
+      "title_en": "Divorce: America and Islam",
+      "subtitle_ar": "حقوق المرأة والأطفال والميراث بين الشريعة والقانون المدني",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 186,
+      "description_ar": "دليل عملي ومقارن يجيب على الأسئلة التي يسألها كل مسلم في أمريكا: ماذا تحصل المرأة عند الطلاق من يحضن الأطفال هل يرث الأبناء بالتساوي أم وفق الشريعة يقارن الكتاب بصدق وعمق بين الطلاق والميراث في الإسلام والقانون الأمريكي ويرشد المسلم إلى كيفية حماية حقوق أسرته في كلا النظامين.",
+      "description_en": "A practical and comparative guide that answers what every Muslim in America actually asks: What does the wife receive in divorce? Who gets the children? Do sons and daughters inherit equally? This book honestly compares divorce and inheritance under Islamic law and American civil law, and guides Muslim families on how to protect their rights in both systems.",
+      "cover": "assets/covers/divorce-america-islam.jpg",
+      "files": {
+        "pdf": "assets/books/divorce-america-islam.pdf",
+        "epub": "assets/books/divorce-america-islam.epub",
+        "docx": "assets/books/divorce-america-islam.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "muslim-life-in-west",
       "title_ar": "مسلم في الغرب",
       "title_en": "A Muslim in the West",
