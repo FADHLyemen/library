@@ -64,6 +64,75 @@
   ],
   "books": [
     {
+      "id": "generation-gap-diaspora",
+      "title_ar": "فجوة الأجيال",
+      "title_en": "The Generation Gap",
+      "subtitle_ar": "آباء الجيل الأول وأبناء المهجر: كيف نبني جسرا لا جدارا",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 163,
+      "description_ar": "دليل صادق وعملي للأسرة المسلمة في المهجر التي تعيش توتر الأجيال  من الهوية المزدوجة وتراجع اللغة العربية إلى الزواج والمال ورعاية الوالدين المسنين. يكتب المؤلف من تجربة حية كأب مهاجر في أمريكا.",
+      "description_en": "An honest and practical guide for Muslim families in the diaspora navigating generational tension  from dual identity and Arabic language loss to marriage choices, family financial expectations, aging parents, and building a shared legacy that crosses cultures and generations.",
+      "cover": "assets/covers/generation-gap-diaspora.jpg",
+      "files": {
+        "pdf": "assets/books/generation-gap-diaspora.pdf",
+        "epub": "assets/books/generation-gap-diaspora.epub",
+        "docx": "assets/books/generation-gap-diaspora.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "death-burial-america",
+      "title_ar": "الموت في أمريكا",
+      "title_en": "Death in America",
+      "subtitle_ar": "دليل المسلم للوفاة والدفن والميراث في الغرب",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 157,
+      "description_ar": "الدليل الأشمل للمسلم في أمريكا عن الموت  من تجهيز الميت وصلاة الجنازة إلى الدفن الإسلامي والوصية الشرعية القابلة للتنفيذ أمريكيا مع إجابة السؤال الذي يسأله الجميع: هل ندفنه هنا أم نرسله للوطن",
+      "description_en": "The most comprehensive guide for Muslims in America on death  from washing and shrouding the body, funeral prayer, and Islamic burial to writing an enforceable Islamic will and the question every family asks: bury here or send the body home?",
+      "cover": "assets/covers/death-burial-america.jpg",
+      "files": {
+        "pdf": "assets/books/death-burial-america.pdf",
+        "epub": "assets/books/death-burial-america.epub",
+        "docx": "assets/books/death-burial-america.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "immigrant-loneliness-guide",
+      "title_ar": "وحدة المهاجر",
+      "title_en": "The Loneliness of the Immigrant",
+      "subtitle_ar": "دليل روحي وعملي للانتماء في أمريكا",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 134,
+      "description_ar": "دليل دافئ وصادق للمهاجر المسلم الذي يعاني الوحدة والاغتراب في الغرب  من الحنين للوطن وبناء الصداقات إلى دور المسجد والأدوات الروحية والمساعدة النفسية المتخصصة.",
+      "description_en": "A warm and honest guide for Muslim immigrants experiencing loneliness and alienation in the West  from homesickness and building friendships to the mosque as community center, spiritual tools for belonging, and knowing when to seek professional mental health support.",
+      "cover": "assets/covers/immigrant-loneliness-guide.jpg",
+      "files": {
+        "pdf": "assets/books/immigrant-loneliness-guide.pdf",
+        "epub": "assets/books/immigrant-loneliness-guide.epub",
+        "docx": "assets/books/immigrant-loneliness-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "divorce-america-islam",
       "title_ar": "الطلاق في أمريكا والإسلام",
       "title_en": "Divorce: America and Islam",
