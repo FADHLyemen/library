@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "speak-like-native",
+      "title_ar": "تحدث كالناطقين",
+      "title_en": "Speak Like a Native",
+      "subtitle_ar": "دليل الناطق بالعربية لإتقان النطق الإنجليزي في السياق الأكاديمي",
+      "category": "personal",
+      "year": 2026,
+      "pages": 218,
+      "description_ar": "دليل نطق استثنائي كتبه باحث يمني-أمريكي في جامعة ميشيغان بعد تشخيص أخطائه الصوتية الخاصة من تسجيلات عروضه العلمية. يستهدف الكتاب المتحدث المتقدم الذي يريد القضاء على الـ20% الأخيرة من الفوارق النطقية: ثنائي /oʊ/ النهايات الساكنة حروف الجر الاختصارات والإيقاع الأكاديمي الطبيعي.",
+      "description_en": "An exceptional pronunciation guide written by a Yemeni-American researcher at the University of Michigan who diagnosed his own phonetic errors from recordings of his scientific presentations. Targets the advanced speaker who wants to eliminate the final 20% of accent markers: the /oʊ/ diphthong, word-final consonants, prepositions, acronyms, and native academic rhythm.",
+      "cover": "assets/covers/speak-like-native.jpg",
+      "files": {
+        "pdf": "assets/books/speak-like-native.pdf",
+        "epub": "assets/books/speak-like-native.epub",
+        "docx": "assets/books/speak-like-native.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "generation-gap-diaspora",
       "title_ar": "فجوة الأجيال",
       "title_en": "The Generation Gap",
