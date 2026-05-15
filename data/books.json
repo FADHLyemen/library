@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "islamic-will-america",
+      "title_ar": "الوصية في أمريكا",
+      "title_en": "The Islamic Will in America",
+      "subtitle_ar": "الدليل الشامل لكتابة وصيتك الإسلامية قبل فوات الأوان",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 227,
+      "description_ar": "الدليل الأشمل لكتابة الوصية الإسلامية القابلة للتنفيذ في أمريكا — من أحكام الميراث الإسلامي وحصصه إلى توجيه الثلث الحر وحماية الأطفال القاصرين وتسوية حسابات التقاعد والعقارات. كل مسلم في أمريكا يحتاج هذا الكتاب.",
+      "description_en": "The most comprehensive guide to writing an Islamically valid and legally enforceable will in America — covering Islamic inheritance shares, the one-third bequest, guardianship of minor children, retirement accounts, real estate, and power of attorney. Every Muslim in America needs this book.",
+      "cover": "assets/covers/islamic-will-america.jpg",
+      "files": {
+        "pdf": "assets/books/islamic-will-america.pdf",
+        "epub": "assets/books/islamic-will-america.epub",
+        "docx": "assets/books/islamic-will-america.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "journalists-killed-gaza",
       "title_ar": "قتل الشاهد",
       "title_en": "Killing the Witness",
