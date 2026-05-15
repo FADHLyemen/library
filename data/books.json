@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-14",
+    "last_updated": "2026-05-15",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "campaign-finance-corruption",
+      "title_ar": "ديمقراطية للبيع",
+      "title_en": "Bought and Paid For",
+      "subtitle_ar": "كيف تفسد التبرعات الانتخابية منظومة الديمقراطية الأمريكية",
+      "category": "politics",
+      "year": 2026,
+      "pages": 199,
+      "description_ar": "تحليل موثق ومعمق لظاهرة فساد المال السياسي في أمريكا — كيف تشتري شركات الأدوية والنفط والسلاح والبنوك قرارات المشرعين، ومن هم أكبر المانحين في التاريخ وماذا حصلوا مقابل أموالهم، مع توصيات إصلاحية مقارنة. استناداً إلى أرقام OpenSecrets وبيانات FEC ودراسات جامعية.",
+      "description_en": "A documented and rigorous analysis of how campaign donations corrupt American democracy — how pharmaceutical, oil, weapons, and finance industries buy congressional votes, who the biggest donors in history are and what they received in return, with comparative reform recommendations. Based on OpenSecrets data, FEC filings, and peer-reviewed political science research.",
+      "cover": "assets/covers/campaign-finance-corruption.jpg",
+      "files": {
+        "pdf": "assets/books/campaign-finance-corruption.pdf",
+        "epub": "assets/books/campaign-finance-corruption.epub",
+        "docx": "assets/books/campaign-finance-corruption.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "shisha-dangers-guide",
       "title_ar": "الحقيقة عن الشيشة",
