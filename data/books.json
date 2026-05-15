@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "journalists-killed-gaza",
+      "title_ar": "قتل الشاهد",
+      "title_en": "Killing the Witness",
+      "subtitle_ar": "الصحفيون وعمال الإغاثة ومنظمات المجتمع المدني الذين قُتلوا في غزة",
+      "category": "politics",
+      "year": 2026,
+      "pages": 283,
+      "description_ar": "توثيق صارم ومعمق لأكثر من 137 صحفياً وأكثر من 280 عاملاً إنسانياً قُتلوا في غزة — الأسماء والأرقام والتحقيقات وأحكام القانون الدولي. يُقيّم الكتاب الأدلة على عمدية الاستهداف استناداً إلى تقارير منظمة CPJ وRSF وHRW وأمنستي وقرارات محكمة العدل الدولية والمدعي العام للمحكمة الجنائية الدولية.",
+      "description_en": "A rigorous documentation of 137+ journalists and 280+ aid workers killed in Gaza — names, numbers, investigations, and international law analysis. Evaluates the evidence for intentional targeting based on CPJ, RSF, Human Rights Watch, Amnesty International, ICJ rulings, and ICC prosecutor findings.",
+      "cover": "assets/covers/journalists-killed-gaza.jpg",
+      "files": {
+        "pdf": "assets/books/journalists-killed-gaza.pdf",
+        "epub": "assets/books/journalists-killed-gaza.epub",
+        "docx": "assets/books/journalists-killed-gaza.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "campaign-finance-corruption",
       "title_ar": "ديمقراطية للبيع",
       "title_en": "Bought and Paid For",
