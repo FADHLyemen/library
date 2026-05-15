@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-12",
+    "last_updated": "2026-05-14",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "muslim-nonmuslim-relations",
+      "title_ar": "المسلم في مجتمع غير مسلم",
+      "title_en": "Living With Non-Muslims",
+      "subtitle_ar": "دليل إسلامي للتعامل مع الجيران والزملاء والأصدقاء في أمريكا",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 125,
+      "description_ar": "دليل إسلامي عملي للتعامل مع غير المسلمين في الحياة اليومية الأمريكية — من حقوق الجار والصداقة والأكل المشترك إلى المناسبات والزواج المختلط والدعوة والحوار بين الأديان. يجمع بين الفقه الإسلامي وتجربة المؤلف في الحياة الجامعية والمهنية في ميشيغان.",
+      "description_en": "A practical Islamic guide for daily interactions with non-Muslims in America — covering neighbor rights, cross-faith friendships, shared meals, holiday occasions, mixed marriage rules, dawah, Islamophobia in personal relationships, and interfaith dialogue. Grounded in Islamic jurisprudence and the author's professional life at the University of Michigan.",
+      "cover": "assets/covers/muslim-nonmuslim-relations.jpg",
+      "files": {
+        "pdf": "assets/books/muslim-nonmuslim-relations.pdf",
+        "epub": "assets/books/muslim-nonmuslim-relations.epub",
+        "docx": "assets/books/muslim-nonmuslim-relations.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "speak-like-native",
       "title_ar": "تحدث كالناطقين",
