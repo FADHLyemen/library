@@ -64,6 +64,27 @@
   ],
   "books": [
     {
+      "id": "muslim-american-identity",
+      "title_ar": "من أنا؟",
+      "title_en": "Who Am I?",
+      "subtitle_ar": "بناء هوية مسلمة أمريكية واثقة",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 129,
+      "description_ar": "رحلة فكرية وشخصية في بناء الهوية المسلمة الأمريكية — بين الإسلام الثقافي والديني، ونماذج الاندماج والعزلة والتكيّف، ودور المسلم في أمريكا تاريخاً وحاضراً. يكتب المؤلف من تجربته الشخصية كيمني أمريكي مسلم في ميشيغان.",
+      "description_en": "An intellectual and personal journey through building a confident Muslim-American identity — between cultural and religious Islam, assimilation vs. integration vs. isolation, the history of Muslims in America, and the Muslim's obligation to contribute. Written from the author's personal experience as a Yemeni-American Muslim in Michigan.",
+      "cover": "assets/covers/muslim-american-identity.jpg",
+      "files": {
+        "pdf": "assets/books/muslim-american-identity.pdf",
+        "epub": "assets/books/muslim-american-identity.epub"
+      },
+      "formats": [
+        "pdf",
+        "epub"
+      ],
+      "featured": false
+    },
+    {
       "id": "muslim-nonmuslim-relations",
       "title_ar": "المسلم في مجتمع غير مسلم",
       "title_en": "Living With Non-Muslims",
