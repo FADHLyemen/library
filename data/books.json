@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "shisha-dangers-guide",
+      "title_ar": "الحقيقة عن الشيشة",
+      "title_en": "The Truth About Shisha",
+      "subtitle_ar": "حقائق علمية وإحصاءات صادمة عن تأثير الشيشة على الرئتين والعمر الافتراضي",
+      "category": "personal",
+      "year": 2026,
+      "pages": 223,
+      "description_ar": "كتاب علمي موثق يكشف الحقيقة الكاملة عن أخطار الشيشة — من تحليل تركيبها الكيميائي إلى إحصاءات السرطان وأمراض القلب وتأثيرها على العمر الافتراضي. يكتب مؤلف بيوطبي يعمل مع بيانات أمراض الرئة يومياً ويعرف ما تبدو عليه هذه الأضرار على المستوى الخلوي.",
+      "description_en": "A scientifically rigorous and data-rich book exposing the full truth about shisha dangers — from chemical analysis of smoke to cancer statistics, cardiovascular damage, and life expectancy reduction. Written by a biomedical researcher who works with lung disease data daily and knows what this damage looks like at the cellular level.",
+      "cover": "assets/covers/shisha-dangers-guide.jpg",
+      "files": {
+        "pdf": "assets/books/shisha-dangers-guide.pdf",
+        "epub": "assets/books/shisha-dangers-guide.epub",
+        "docx": "assets/books/shisha-dangers-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "youtube-challenges-guide",
       "title_ar": "تحديات يوتيوب",
       "title_en": "The YouTube Challenge Economy",
