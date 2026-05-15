@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "youtube-challenges-guide",
+      "title_ar": "تحديات يوتيوب",
+      "title_en": "The YouTube Challenge Economy",
+      "subtitle_ar": "MrBeast والتحديات الفيروسية وما يجب أن يعرفه المبدع المسلم",
+      "category": "tech",
+      "year": 2026,
+      "pages": 159,
+      "description_ar": "رحلة شيقة في عالم تحديات يوتيوب — من قصة MrBeast وكيف بنى أكبر قناة في التاريخ إلى اقتصاد المحتوى وأخطار التحديات على الشباب وفرص المبدع المسلم في هذا السوق الضخم. يكتب مؤلف وباحث ومدير برنامج تعليمي للشباب العربي.",
+      "description_en": "A fascinating journey through the YouTube challenge economy — from MrBeast's story and how he built the biggest channel in history to content economics, the dangers of viral challenges for youth, and the enormous opportunity for Muslim creators in this space. Written by a researcher and director of an AI education program for Arab youth.",
+      "cover": "assets/covers/youtube-challenges-guide.jpg",
+      "files": {
+        "pdf": "assets/books/youtube-challenges-guide.pdf",
+        "epub": "assets/books/youtube-challenges-guide.epub",
+        "docx": "assets/books/youtube-challenges-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "muslim-american-identity",
       "title_ar": "من أنا؟",
       "title_en": "Who Am I?",
