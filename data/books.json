@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "bankruptcy-america",
+      "title_ar": "الإفلاس في أمريكا",
+      "title_en": "Bankruptcy in America",
+      "subtitle_ar": "ما يجب أن يعرفه كل مسلم عن Chapter 7 وChapter 13 والبدائل الإسلامية",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 145,
+      "description_ar": "دليل عملي يشرح أنواع الإفلاس في أمريكا وحكمه الشرعي وتأثيره على الأسرة المسلمة، مع بدائل إسلامية وخطوات عملية للخروج من الأزمة المالية.",
+      "description_en": "A practical guide explaining Chapter 7 and Chapter 13 bankruptcy, Islamic scholarly positions on insolvency, the impact on Muslim families, and practical alternatives and steps toward financial recovery.",
+      "cover": "assets/covers/bankruptcy-america.jpg",
+      "files": {
+        "pdf": "assets/books/bankruptcy-america.pdf",
+        "epub": "assets/books/bankruptcy-america.epub",
+        "docx": "assets/books/bankruptcy-america.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "islamic-will-america",
       "title_ar": "الوصية في أمريكا",
       "title_en": "The Islamic Will in America",
