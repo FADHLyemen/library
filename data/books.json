@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "insurance-islam-guide",
+      "title_ar": "التأمين في الإسلام",
+      "title_en": "Insurance and Islam",
+      "subtitle_ar": "ما يجوز وما لا يجوز والبدائل الإسلامية في السوق الأمريكي",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 171,
+      "description_ar": "دليل شامل يشرح أنواع التأمين في أمريكا وحكمها الشرعي، ويقدم بدائل إسلامية (تكافل) مع نصائح عملية لتوفير المال واختيار التغطية المناسبة للأسرة المسلمة.",
+      "description_en": "A comprehensive guide explaining types of insurance in America, Islamic scholarly positions on each, Takaful alternatives, and practical money-saving tips for Muslim families navigating the American insurance market.",
+      "cover": "assets/covers/insurance-islam-guide.jpg",
+      "files": {
+        "pdf": "assets/books/insurance-islam-guide.pdf",
+        "epub": "assets/books/insurance-islam-guide.epub",
+        "docx": "assets/books/insurance-islam-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "bankruptcy-america",
       "title_ar": "الإفلاس في أمريكا",
       "title_en": "Bankruptcy in America",
