@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-15",
+    "last_updated": "2026-05-17",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,52 @@
     }
   ],
   "books": [
+    {
+      "id": "metabolonr-llm",
+      "title_ar": "ميتابولون-إل إل إم: عمارة وتحقق من واجهة وكيلة لتحليل الأيض",
+      "title_en": "MetabolonR-LLM: Architecture and Validation of an Agentic Interface for Metabolomics Analysis",
+      "subtitle_ar": "",
+      "category": "tech",
+      "year": 2026,
+      "pages": 577,
+      "description_ar": "كتاب تقني شامل يوثّق تصميم وبناء والتحقق العلمي من ميتابولون-إل إل إم، وهو وكيل ذكي يعتمد على نموذج لغوي كبير يحلّ محل واجهة شايني في تحليل بيانات الأيض، مع الحفاظ على إحصاءات حتمية قابلة لإعادة الإنتاج عبر طبقة أدوات مكتوبة بدقّة.",
+      "description_en": "A comprehensive technical book documenting the design, construction, and scientific validation of MetabolonR-LLM, a tool-calling LLM agent that replaces a Shiny-app frontend for metabolomics data analysis while preserving deterministic, reproducible statistics through a typed tool layer.",
+      "cover": "assets/covers/metabolonr-llm.jpg",
+      "files": {
+        "pdf": "assets/books/metabolonr-llm.pdf",
+        "epub": "assets/books/metabolonr-llm.epub",
+        "docx": "assets/books/metabolonr-llm.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "halal-wealth-america",
+      "title_ar": "ثروة حلال",
+      "title_en": "Halal Wealth",
+      "subtitle_ar": "كيف تبني أمانك المالي في أمريكا بدون ربا",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 162,
+      "description_ar": "دليل عملي شامل للمسلم الذي يريد بناء ثروته في أمريكا دون الوقوع في الربا — من الاستثمار الحلال في الأسهم والعقارات إلى التقاعد والتأمين والزكاة على الأصول الأمريكية.",
+      "description_en": "A comprehensive practical guide for Muslims building financial security in America without riba — covering halal stocks, ETFs, retirement accounts, real estate, zakat on American assets, and Islamic alternatives to conventional financial products.",
+      "cover": "assets/covers/halal-wealth-america.jpg",
+      "files": {
+        "pdf": "assets/books/halal-wealth-america.pdf",
+        "epub": "assets/books/halal-wealth-america.epub",
+        "docx": "assets/books/halal-wealth-america.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
     {
       "id": "insurance-islam-guide",
       "title_ar": "التأمين في الإسلام",
