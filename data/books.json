@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-17",
+    "last_updated": "2026-05-18",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "id": "ai-tools-arabic-knowledge-worker",
+      "title_ar": "أدوات الذكاء الاصطناعي لعامل المعرفة العربي",
+      "title_en": "AI Tools for the Arabic Knowledge Worker",
+      "subtitle_ar": "من NotebookLM إلى نظام معرفي احترافي كامل",
+      "category": "tech",
+      "year": 2026,
+      "pages": 146,
+      "description_ar": "دليل عملي شامل لإتقان أدوات الذكاء الاصطناعي المعرفية  NotebookLM وClaude وPerplexity  وتحويلها إلى مهارات احترافية قابلة للبيع. مصمم لطلاب المسار (أ) في برنامج LLM4Yemen ولكل عربي يريد بناء مسيرة مستقلة في اقتصاد المعرفة الرقمي.",
+      "description_en": "A practical guide to mastering AI knowledge tools  NotebookLM, Claude, and Perplexity  and turning them into professional, sellable skills. Designed for LLM4Yemen Track A students and any Arab professional who wants to build a freelance career in the digital knowledge economy.",
+      "cover": "assets/covers/ai-tools-arabic-knowledge-worker.jpg",
+      "files": {
+        "pdf": "assets/books/ai-tools-arabic-knowledge-worker.pdf",
+        "epub": "assets/books/ai-tools-arabic-knowledge-worker.epub",
+        "docx": "assets/books/ai-tools-arabic-knowledge-worker.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "metabolonr-llm",
       "title_ar": "ميتابولون-إل إل إم: عمارة وتحقق من واجهة وكيلة لتحليل الأيض",
