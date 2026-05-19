@@ -318,6 +318,18 @@
               <span class="download-btn-ext">${escHtml(formatLabels[fmt] || fmt.toUpperCase())}</span>
             </a>`;
           }
+          if (fmt === 'mp3') {
+            const listenLabel = state.lang === 'ar' ? 'استمع' : 'Listen';
+            return `<div class="audio-player-wrap">
+              <audio controls preload="none" style="width:100%;margin-top:8px;border-radius:8px;">
+                <source src="${escHtml(url)}" type="audio/mpeg">
+              </audio>
+              <a class="${cls} alt" href="${escHtml(url)}" download style="margin-top:6px;font-size:12px;">
+                <span>${escHtml(downloadLabel)}</span>
+                <span class="download-btn-ext">MP3</span>
+              </a>
+            </div>`;
+          }
           return `<a class="${cls}" href="${escHtml(url)}" download>
             <span>${escHtml(downloadLabel)}</span>
             <span class="download-btn-ext">${escHtml(formatLabels[fmt] || fmt.toUpperCase())}</span>
