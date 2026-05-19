@@ -353,12 +353,14 @@
       "files": {
         "pdf": "assets/books/speak-like-native.pdf",
         "epub": "assets/books/speak-like-native.epub",
-        "docx": "assets/books/speak-like-native.docx"
+        "docx": "assets/books/speak-like-native.docx",
+        "mp3": "assets/books/speak-like-native.mp3"
       },
       "formats": [
         "pdf",
         "epub",
-        "docx"
+        "docx",
+        "mp3"
       ],
       "featured": false
     },
