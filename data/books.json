@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-19",
+    "last_updated": "2026-05-20",
     "copyright_year": 2026
   },
   "categories": [
@@ -748,12 +748,14 @@
       "files": {
         "pdf": "assets/books/attention-is-all-you-need.pdf",
         "epub": "assets/books/attention-is-all-you-need.epub",
-        "docx": "assets/books/attention-is-all-you-need.docx"
+        "docx": "assets/books/attention-is-all-you-need.docx",
+        "mp3": "assets/books/attention-is-all-you-need.mp3"
       },
       "formats": [
         "pdf",
         "epub",
-        "docx"
+        "docx",
+        "mp3"
       ],
       "featured": false
     },
