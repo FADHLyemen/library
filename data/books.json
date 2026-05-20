@@ -146,12 +146,14 @@
       "files": {
         "pdf": "assets/books/insurance-islam-guide.pdf",
         "epub": "assets/books/insurance-islam-guide.epub",
-        "docx": "assets/books/insurance-islam-guide.docx"
+        "docx": "assets/books/insurance-islam-guide.docx",
+        "mp3": "assets/books/insurance-islam-guide.mp3"
       },
       "formats": [
         "pdf",
         "epub",
-        "docx"
+        "docx",
+        "mp3"
       ],
       "featured": false
     },
