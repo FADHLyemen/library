@@ -83,7 +83,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 92
+      "pages": 92,
+      "cover": "assets/covers/ali-abdullah-saleh.jpg"
     },
     {
       "id": "saudi-succession",
@@ -104,7 +105,8 @@
         "epub",
         "docx"
       ],
-      "featured": false
+      "featured": false,
+      "cover": "assets/covers/saudi-succession.jpg"
     },
     {
       "id": "political-ideologies-guide",
@@ -126,7 +128,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 75
+      "pages": 75,
+      "cover": "assets/covers/political-ideologies-guide.jpg"
     },
     {
       "id": "us-hegemony-canada",
@@ -148,7 +151,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 71
+      "pages": 71,
+      "cover": "assets/covers/us-hegemony-canada.jpg"
     },
     {
       "id": "tucker-carlson-gaza",
@@ -170,7 +174,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 77
+      "pages": 77,
+      "cover": "assets/covers/tucker-carlson-gaza.jpg"
     },
     {
       "id": "ai-education-planning-study",
@@ -192,7 +197,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 76
+      "pages": 76,
+      "cover": "assets/covers/ai-education-planning-study.jpg"
     },
     {
       "id": "ai-strategic-planning-higher-ed",
@@ -214,7 +220,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 51
+      "pages": 51,
+      "cover": "assets/covers/ai-strategic-planning-higher-ed.jpg"
     },
     {
       "id": "captive-patient-healthcare",
@@ -236,7 +243,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 58
+      "pages": 58,
+      "cover": "assets/covers/captive-patient-healthcare.jpg"
     },
     {
       "id": "nvidia-laptop-revolution",
@@ -258,7 +266,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 56
+      "pages": 56,
+      "cover": "assets/covers/nvidia-laptop-revolution.jpg"
     },
     {
       "id": "three-body-problem",
@@ -280,7 +289,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 64
+      "pages": 64,
+      "cover": "assets/covers/three-body-problem.jpg"
     },
     {
       "id": "ai-wave-spring-2026",
@@ -302,7 +312,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 58
+      "pages": 58,
+      "cover": "assets/covers/ai-wave-spring-2026.jpg"
     },
     {
       "id": "memory-loss-guide",
@@ -324,7 +335,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 84
+      "pages": 84,
+      "cover": "assets/covers/memory-loss-guide.jpg"
     },
     {
       "id": "deep-state-america",
@@ -346,7 +358,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 74
+      "pages": 74,
+      "cover": "assets/covers/deep-state-america.jpg"
     },
     {
       "id": "why-claude-excels",
@@ -368,7 +381,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 64
+      "pages": 64,
+      "cover": "assets/covers/why-claude-excels.jpg"
     },
     {
       "id": "us-midterms-2026-forecast",
@@ -390,7 +404,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 72
+      "pages": 72,
+      "cover": "assets/covers/us-midterms-2026-forecast.jpg"
     },
     {
       "id": "healthy-aging-guide",
@@ -412,7 +427,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 59
+      "pages": 59,
+      "cover": "assets/covers/healthy-aging-guide.jpg"
     },
     {
       "id": "build-store-site-lovable",
@@ -434,7 +450,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 76
+      "pages": 76,
+      "cover": "assets/covers/build-store-site-lovable.jpg"
     },
     {
       "id": "bosnia-herzegovina",
@@ -456,7 +473,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 58
+      "pages": 58,
+      "cover": "assets/covers/bosnia-herzegovina.jpg"
     },
     {
       "id": "john-kiriakou-whistleblower",
@@ -478,7 +496,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 61
+      "pages": 61,
+      "cover": "assets/covers/john-kiriakou-whistleblower.jpg"
     },
     {
       "id": "elite-ai-salaries",
@@ -500,7 +519,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 60
+      "pages": 60,
+      "cover": "assets/covers/elite-ai-salaries.jpg"
     },
     {
       "id": "mastering-agentic-ai",
@@ -522,7 +542,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 103
+      "pages": 103,
+      "cover": "assets/covers/mastering-agentic-ai.jpg"
     },
     {
       "id": "gaza-siege-arab-abandonment",
@@ -544,7 +565,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 100
+      "pages": 100,
+      "cover": "assets/covers/gaza-siege-arab-abandonment.jpg"
     },
     {
       "id": "art-of-persuasion",
@@ -566,7 +588,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 51
+      "pages": 51,
+      "cover": "assets/covers/art-of-persuasion.jpg"
     },
     {
       "id": "ust-sanaa-seizure",
@@ -588,7 +611,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 92
+      "pages": 92,
+      "cover": "assets/covers/ust-sanaa-seizure.jpg"
     },
     {
       "id": "aipac-midterms-2026",
@@ -610,7 +634,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 73
+      "pages": 73,
+      "cover": "assets/covers/aipac-midterms-2026.jpg"
     },
     {
       "id": "claude-science-guide",
@@ -632,7 +657,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 96
+      "pages": 96,
+      "cover": "assets/covers/claude-science-guide.jpg"
     },
     {
       "id": "claude-certification-exams",
@@ -654,7 +680,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 105
+      "pages": 105,
+      "cover": "assets/covers/claude-certification-exams.jpg"
     },
     {
       "id": "yemen-brain-drain",
@@ -676,7 +703,8 @@
         "docx"
       ],
       "featured": false,
-      "pages": 73
+      "pages": 73,
+      "cover": "assets/covers/yemen-brain-drain.jpg"
     },
     {
       "id": "fall-of-andalusia",
