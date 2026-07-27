@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-05-20",
+    "last_updated": "2026-07-25",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,213 @@
     }
   ],
   "books": [
+    {
+      "id": "fall-of-andalusia",
+      "title_ar": "كيف سقطت الأندلس",
+      "title_en": "How Andalusia Fell",
+      "subtitle_ar": "قراءة في أسباب سقوط ثمانية قرون من الحضارة",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 72,
+      "description_ar": "قراءة تحليلية في أسباب سقوط الأندلس من الفتح عام 711م حتى سقوط غرناطة عام 1492م، تتناول التفكك السياسي والصراعات الداخلية وتخلّي الأمة، مع استخلاص الدروس والعِبَر لواقعنا المعاصر.",
+      "description_en": "An analytical reading of the causes behind the fall of Andalusia — from the conquest of 711 CE to the fall of Granada in 1492 — examining political fragmentation, internal conflict, and abandonment, with lessons drawn for the present.",
+      "cover": "assets/covers/fall-of-andalusia.jpg",
+      "files": {
+        "pdf": "assets/books/fall-of-andalusia.pdf",
+        "epub": "assets/books/fall-of-andalusia.epub",
+        "docx": "assets/books/fall-of-andalusia.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "exercise-science-guide",
+      "title_ar": "أهمية الرياضة في حياتنا",
+      "title_en": "The Importance of Exercise in Our Lives",
+      "subtitle_ar": "دليل علمي شامل مبني على الأدلة",
+      "category": "personal",
+      "year": 2026,
+      "pages": 74,
+      "description_ar": "دليل علمي مبني على منهجية الطب المبني على الأدلة يشرح أثر الرياضة في صحة القلب والدماغ والعضلات والحالة النفسية، ويعرض أنواع التمارين وأفضل أوقاتها وكيفية بناء عادة رياضية مستدامة.",
+      "description_en": "An evidence-based guide explaining how exercise affects heart, brain, muscle, and mental health, covering types of training, optimal timing, and how to build a sustainable exercise habit.",
+      "cover": "assets/covers/exercise-science-guide.jpg",
+      "files": {
+        "pdf": "assets/books/exercise-science-guide.pdf",
+        "epub": "assets/books/exercise-science-guide.epub",
+        "docx": "assets/books/exercise-science-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "strategic-planning",
+      "title_ar": "التخطيط الاستراتيجي وأثره في تغيير التفكير",
+      "title_en": "Strategic Planning and Its Impact on Thinking",
+      "subtitle_ar": "من التأصيل الشرعي إلى الأدوات الحديثة",
+      "category": "personal",
+      "year": 2026,
+      "pages": 64,
+      "description_ar": "كتاب عملي يشرح مفهوم التخطيط الاستراتيجي وأدواته الحديثة (SWOT وPESTEL وOKRs) ويؤصّله من القرآن والسنة، ثم يطبّقه على المستويين الشخصي والمؤسسي لتحويل التفكير من ردّ الفعل إلى المبادرة.",
+      "description_en": "A practical book explaining strategic planning and its modern tools (SWOT, PESTEL, OKRs), rooting it in the Quran and Sunnah, then applying it at both personal and institutional levels to shift thinking from reactive to proactive.",
+      "cover": "assets/covers/strategic-planning.jpg",
+      "files": {
+        "pdf": "assets/books/strategic-planning.pdf",
+        "epub": "assets/books/strategic-planning.epub",
+        "docx": "assets/books/strategic-planning.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "cupping-honey-cautery",
+      "title_ar": "الحجامة والعسل والكي",
+      "title_en": "Cupping, Honey, and Cautery",
+      "subtitle_ar": "ماذا وجد العلم الحديث عن فوائدها؟",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 52,
+      "description_ar": "تقييم علمي رصين لأدلة الطب النبوي في الحجامة والعسل والكي في ضوء الدراسات الحديثة، يميّز بوضوح بين ما أثبته العلم وما لم يثبت، بمنهجية الطب المبني على الأدلة ودون مبالغة أو تهوين.",
+      "description_en": "A rigorous scientific evaluation of prophetic medicine — cupping, honey, and cautery — in light of modern studies, clearly distinguishing what science has confirmed from what it has not, using an evidence-based methodology.",
+      "cover": "assets/covers/cupping-honey-cautery.jpg",
+      "files": {
+        "pdf": "assets/books/cupping-honey-cautery.pdf",
+        "epub": "assets/books/cupping-honey-cautery.epub",
+        "docx": "assets/books/cupping-honey-cautery.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "home-buying-america",
+      "title_ar": "مهارة شراء المنازل في أمريكا",
+      "title_en": "The Skill of Buying Homes in America",
+      "subtitle_ar": "دليل شامل للسوق والتمويل والتفاوض",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 68,
+      "description_ar": "دليل عملي شامل لسوق العقار الأمريكي يغطي الأسعار والتمويل والرهن والتفاوض والاستثمار، مع نصائح خاصة للمشتري المسلم حول البدائل الخالية من الربا واختيار السكن المناسب للأسرة.",
+      "description_en": "A comprehensive practical guide to the U.S. real-estate market — pricing, financing, mortgages, negotiation, and investment — with specific guidance for Muslim buyers on riba-free alternatives and choosing the right home for the family.",
+      "cover": "assets/covers/home-buying-america.jpg",
+      "files": {
+        "pdf": "assets/books/home-buying-america.pdf",
+        "epub": "assets/books/home-buying-america.epub",
+        "docx": "assets/books/home-buying-america.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "tayyibat-diet-science",
+      "title_ar": "نظام الطيبات في ميزان العلم",
+      "title_en": "The Tayyibat Diet on the Scale of Science",
+      "subtitle_ar": "قراءة نقدية مبنية على الأدلة",
+      "category": "islamic",
+      "year": 2026,
+      "pages": 79,
+      "description_ar": "تقييم نقدي مبني على الأدلة لنظام «الطيبات» الغذائي في ضوء علم التغذية الحديث ومفهوم الطيّبات في القرآن الكريم، يفحص دعاواه الصحية ويميّز الثابت علميًا مما هو غير مثبت.",
+      "description_en": "An evidence-based critical evaluation of the 'Tayyibat' dietary system in light of modern nutrition science and the Quranic concept of tayyibat, examining its health claims and separating what is scientifically established from what is not.",
+      "cover": "assets/covers/tayyibat-diet-science.jpg",
+      "files": {
+        "pdf": "assets/books/tayyibat-diet-science.pdf",
+        "epub": "assets/books/tayyibat-diet-science.epub",
+        "docx": "assets/books/tayyibat-diet-science.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "cracking-consensus",
+      "title_ar": "تصدّع الإجماع",
+      "title_en": "The Cracking Consensus",
+      "subtitle_ar": "هل يأتي يومٌ يقف فيه الكونجرس بلا إسرائيل؟",
+      "category": "politics",
+      "year": 2026,
+      "pages": 80,
+      "description_ar": "تحليل متوازن للتحولات التدريجية في موقف الكونجرس الأمريكي من إسرائيل، يرصد تغيّر المزاج الحزبي والجيلي والرأي العام، ويناقش ما إذا كان الإجماع التقليدي في طريقه إلى التصدّع.",
+      "description_en": "A balanced analysis of the gradual shifts in the U.S. Congress's stance toward Israel, tracking changes in partisan, generational, and public opinion, and discussing whether the traditional consensus is beginning to crack.",
+      "cover": "assets/covers/cracking-consensus.jpg",
+      "files": {
+        "pdf": "assets/books/cracking-consensus.pdf",
+        "epub": "assets/books/cracking-consensus.epub",
+        "docx": "assets/books/cracking-consensus.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "statistical-genetics-encyclopedia",
+      "title_ar": "علم الوراثة الإحصائية: الموسوعة العملية",
+      "title_en": "Statistical Genetics: The Complete Practical Encyclopedia",
+      "subtitle_ar": "25 فصلا من المسائل والحلول بـ SAIGE وREGENIE وPLINK2 وR على بيانات حقيقية",
+      "category": "tech",
+      "year": 2026,
+      "pages": 648,
+      "description_ar": "الموسوعة العملية الأشمل في علم الوراثة الإحصائية باللغة العربية  25 فصلا و150 مسألة محلولة بالكامل تغطي SAIGE وREGENIE وPLINK2 وGCTA وLDSC وSuSiE والعشوائية المندلية وتحليل المتغيرات النادرة والـPRS المتعدد الأصول وما بعدها. كل مسألة مدعومة بكود كامل قابل للتشغيل ومخرجات متوقعة وتفسير بيولوجي. مكتوب من مختبر بحثي حقيقي في جامعة ميشيغان.",
+      "description_en": "The most comprehensive practical encyclopedia of statistical genetics in Arabic  25 chapters and 150 fully solved problems covering SAIGE, REGENIE, PLINK2, GCTA, LDSC, SuSiE, Mendelian randomization, rare variant analysis, multi-ancestry PRS, and beyond. Every problem includes complete working code, expected output, and biological interpretation. Written from a real research laboratory at the University of Michigan.",
+      "cover": "assets/covers/statistical-genetics-encyclopedia.jpg",
+      "files": {
+        "pdf": "assets/books/statistical-genetics-encyclopedia.pdf",
+        "epub": "assets/books/statistical-genetics-encyclopedia.epub",
+        "docx": "assets/books/statistical-genetics-encyclopedia.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "statistical-genetics-guide",
+      "title_ar": "علم الوراثة الإحصائية",
+      "title_en": "Statistical Genetics",
+      "subtitle_ar": "دليل المبتدئ والمتوسط من الجينوم إلى GWAS وما بعدها",
+      "category": "tech",
+      "year": 2026,
+      "pages": 174,
+      "description_ar": "دليل شامل لعلم الوراثة الإحصائية مكتوب بأسلوب يجمع بين الدقة العلمية وسهولة الفهم  من مفاهيم SNP وتوازن هاردي-واينبرغ إلى GWAS ومخططات مانهاتن ودرجات الخطر متعدد الجينات وتفسير النتائج. يستند المؤلف إلى تجربته الحية في أبحاث الجينوم وأمراض الكلى في جامعة ميشيغان.",
+      "description_en": "A comprehensive guide to statistical genetics written with scientific rigor and accessible clarity  from SNPs and Hardy-Weinberg equilibrium to GWAS, Manhattan plots, polygenic risk scores, and functional interpretation. Grounded in the author's hands-on research experience in genomics and kidney disease at the University of Michigan.",
+      "cover": "assets/covers/statistical-genetics-guide.jpg",
+      "files": {
+        "pdf": "assets/books/statistical-genetics-guide.pdf",
+        "epub": "assets/books/statistical-genetics-guide.epub",
+        "docx": "assets/books/statistical-genetics-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
     {
       "id": "ai-tools-arabic-knowledge-worker",
       "title_ar": "أدوات الذكاء الاصطناعي لعامل المعرفة العربي",
@@ -2429,6 +2636,29 @@
         "epub",
         "docx"
       ]
+    },
+    {
+      "id": "trump-immigration-constitutional",
+      "title_ar": "هل إجراءات ترامب ضدّ المهاجرين قانونية أم تُعارض الدستور؟",
+      "title_en": "Are Trump's Measures Against Immigrants Legal or Unconstitutional?",
+      "subtitle_ar": "قراءة دستورية وقانونية ومسارات الإلغاء",
+      "category": "politics",
+      "year": 2026,
+      "pages": 62,
+      "description_ar": "تحليل دستوري وقانوني للإجراءات التنفيذية التي اتخذها الرئيس ترامب ضدّ المهاجرين منذ يناير 2025 — من إلغاء الجنسية بحكم المولد وإعمال قانون الأعداء الأجانب، إلى إنهاء الحماية المؤقتة (TPS) واستهداف المدن الملاذ — مع تقييم ما هو قانوني وما يخالف الدستور، ومسارات الطعن والإلغاء عبر التقاضي والتشريع.",
+      "description_en": "A constitutional and legal analysis of the executive measures taken by President Trump against immigrants since January 2025 — from ending birthright citizenship and invoking the Alien Enemies Act, to terminating Temporary Protected Status and targeting sanctuary cities — assessing what is lawful and what violates the Constitution, and mapping the avenues for legal challenge and repeal.",
+      "cover": "assets/covers/trump-immigration-constitutional.jpg",
+      "files": {
+        "pdf": "assets/books/trump-immigration-constitutional.pdf",
+        "epub": "assets/books/trump-immigration-constitutional.epub",
+        "docx": "assets/books/trump-immigration-constitutional.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
     }
   ]
 }
