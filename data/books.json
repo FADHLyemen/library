@@ -64,6 +64,621 @@
   ],
   "books": [
     {
+      "id": "ali-abdullah-saleh",
+      "title_ar": "علي عبدالله صالح",
+      "title_en": "Ali Abdullah Saleh",
+      "subtitle_ar": "ماله وما عليه",
+      "category": "yemen",
+      "year": 2026,
+      "description_ar": "ثلاثة عشر فصلاً في سيرة الرئيس اليمني: صعوده، وحكمه، وسقوطه، ومسؤوليته عمّا آل إليه اليمن، بميزان متوازن يعرض ما له وما عليه.",
+      "description_en": "Thirteen chapters on the Yemeni president's rise, rule, fall, and responsibility for Yemen's present, weighed evenhandedly on both sides of the ledger.",
+      "files": {
+        "pdf": "assets/books/ali-abdullah-saleh.pdf",
+        "epub": "assets/books/ali-abdullah-saleh.epub",
+        "docx": "assets/books/ali-abdullah-saleh.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 92
+    },
+    {
+      "id": "saudi-succession",
+      "title_ar": "من سيحكم السعودية؟",
+      "title_en": "Who Will Rule Saudi Arabia?",
+      "subtitle_ar": "الحكم بعد الملك سلمان",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "اثنا عشر فصلاً في آلية انتقال الحكم في السعودية: هيئة البيعة، والتعديل الدستوري لعام ٢٠١٧، وركائز الشرعية، ورؤية ٢٠٣٠، وسيناريوهات المستقبل.",
+      "description_en": "Twelve chapters on Saudi succession: the Allegiance Council, the 2017 constitutional amendment, the pillars of legitimacy, Vision 2030, and future scenarios.",
+      "files": {
+        "pdf": "assets/books/saudi-succession.pdf",
+        "epub": "assets/books/saudi-succession.epub",
+        "docx": "assets/books/saudi-succession.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
+      "id": "political-ideologies-guide",
+      "title_ar": "المصطلحات الفكرية الكبرى",
+      "title_en": "The Great Ideological Terms",
+      "subtitle_ar": "دليل مبسط لفهم الأيديولوجيات السياسية",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "دليل مبسّط لستة مصطلحات: الفاشية، والليبرالية، والرجعية، والماركسية، والنازية، والتقدمية، مع فصل في التمييز بينها وأصل اليمين واليسار.",
+      "description_en": "A plain-language guide to six terms: fascism, liberalism, reactionism, Marxism, Nazism, and progressivism, with a chapter on telling them apart.",
+      "files": {
+        "pdf": "assets/books/political-ideologies-guide.pdf",
+        "epub": "assets/books/political-ideologies-guide.epub",
+        "docx": "assets/books/political-ideologies-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 75
+    },
+    {
+      "id": "us-hegemony-canada",
+      "title_ar": "الهيمنة الأمريكية على كندا",
+      "title_en": "American Hegemony Over Canada",
+      "subtitle_ar": "أسباب الضعف وطريق التحرر",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "تسعة فصول في جذور التبعية الكندية للولايات المتحدة: الاقتصاد، والدفاع، والثقافة، والتقنية، مع خارطة طريق نحو السيادة.",
+      "description_en": "Nine chapters on the roots of Canadian dependence on the United States across economy, defense, culture, and technology, with a roadmap toward sovereignty.",
+      "files": {
+        "pdf": "assets/books/us-hegemony-canada.pdf",
+        "epub": "assets/books/us-hegemony-canada.epub",
+        "docx": "assets/books/us-hegemony-canada.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 71
+    },
+    {
+      "id": "tucker-carlson-gaza",
+      "title_ar": "تاكر كارلسون",
+      "title_en": "Tucker Carlson",
+      "subtitle_ar": "لماذا ناصر غزة؟ سيرته وتحوله وأبرز سجالاته",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "ثمانية فصول في سيرة الإعلامي الأمريكي وتحوّله وموقفه من غزة وأبرز سجالاته، بعرض متوازن لمواقفه المعلنة وآراء منتقديه.",
+      "description_en": "Eight chapters on the American broadcaster's biography, his turn, his stance on Gaza, and his major debates, presenting both his positions and his critics' views.",
+      "files": {
+        "pdf": "assets/books/tucker-carlson-gaza.pdf",
+        "epub": "assets/books/tucker-carlson-gaza.epub",
+        "docx": "assets/books/tucker-carlson-gaza.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 77
+    },
+    {
+      "id": "ai-education-planning-study",
+      "title_ar": "توظيف الذكاء الاصطناعي في التخطيط الاستراتيجي للتعليم",
+      "title_en": "Employing AI in Educational Strategic Planning",
+      "subtitle_ar": "دراسة تحليلية استشرافية",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "دراسة تحليلية استشرافية في عشرة فصول عن أثر الذكاء الاصطناعي في إعادة تشكيل عمليات التخطيط الاستراتيجي للتعليم.",
+      "description_en": "An analytical and foresight study in ten chapters on how artificial intelligence is reshaping the strategic planning processes of education.",
+      "files": {
+        "pdf": "assets/books/ai-education-planning-study.pdf",
+        "epub": "assets/books/ai-education-planning-study.epub",
+        "docx": "assets/books/ai-education-planning-study.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 76
+    },
+    {
+      "id": "ai-strategic-planning-higher-ed",
+      "title_ar": "الذكاء الاصطناعي والتخطيط الاستراتيجي في التعليم العالي",
+      "title_en": "AI and Strategic Planning in Higher Education",
+      "subtitle_ar": "قراءة تحليلية في ثماني دراسات عالمية",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "ثماني دراسات محكّمة وتقارير مؤسسية في توظيف الذكاء الاصطناعي في التخطيط الاستراتيجي الجامعي، فصل لكل دراسة، مع تطبيق على الجامعات العربية.",
+      "description_en": "Eight peer-reviewed studies and institutional reports on AI in university strategic planning, one per chapter, with application to Arab universities.",
+      "files": {
+        "pdf": "assets/books/ai-strategic-planning-higher-ed.pdf",
+        "epub": "assets/books/ai-strategic-planning-higher-ed.epub",
+        "docx": "assets/books/ai-strategic-planning-higher-ed.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 51
+    },
+    {
+      "id": "captive-patient-healthcare",
+      "title_ar": "المريض الأسير",
+      "title_en": "The Captive Patient",
+      "subtitle_ar": "التكامل الرأسي في النظام الصحي الأمريكي",
+      "category": "personal",
+      "year": 2026,
+      "description_ar": "ثمانية فصول في تركّز السوق والتكامل الرأسي في القطاع الصحي الأمريكي، مع فصل مخصّص لعرض حجة الصناعة المضادة.",
+      "description_en": "Eight chapters on market concentration and vertical integration in US healthcare, including a dedicated chapter presenting the industry's counterargument.",
+      "files": {
+        "pdf": "assets/books/captive-patient-healthcare.pdf",
+        "epub": "assets/books/captive-patient-healthcare.epub",
+        "docx": "assets/books/captive-patient-healthcare.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 58
+    },
+    {
+      "id": "nvidia-laptop-revolution",
+      "title_ar": "ثورة إنفيديا في عالم الحاسوب المحمول",
+      "title_en": "NVIDIA's Laptop Revolution",
+      "subtitle_ar": "شريحة N1X ومواصفاتها",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "سبعة فصول في شريحة إنفيديا الجديدة للحواسيب المحمولة: المواصفات التقنية، والسياق التنافسي، وما الذي يتغيّر فعلياً بالنسبة للمستخدم.",
+      "description_en": "Seven chapters on NVIDIA's new laptop chip: technical specifications, competitive context, and what actually changes for users.",
+      "files": {
+        "pdf": "assets/books/nvidia-laptop-revolution.pdf",
+        "epub": "assets/books/nvidia-laptop-revolution.epub",
+        "docx": "assets/books/nvidia-laptop-revolution.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 56
+    },
+    {
+      "id": "three-body-problem",
+      "title_ar": "مسألة الأجسام الثلاثة",
+      "title_en": "The Three-Body Problem",
+      "subtitle_ar": "رحلة في الجاذبية والفوضى وحدود التنبؤ",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "أحد عشر فصلاً من كبلر ونيوتن إلى استحالة الحل المغلق ونظرية الفوضى عند بوانكاريه، ونقاط لاغرانج، والمدارات الدورية، وحدود التنبؤ.",
+      "description_en": "Eleven chapters from Kepler and Newton to the impossibility of closed-form solutions, Poincaré's chaos, Lagrange points, periodic orbits, and the limits of prediction.",
+      "files": {
+        "pdf": "assets/books/three-body-problem.pdf",
+        "epub": "assets/books/three-body-problem.epub",
+        "docx": "assets/books/three-body-problem.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 64
+    },
+    {
+      "id": "ai-wave-spring-2026",
+      "title_ar": "موجة الذكاء الاصطناعي — ربيع ٢٠٢٦",
+      "title_en": "The AI Wave — Spring 2026",
+      "subtitle_ar": "أهم ما صدر في أبريل ومايو ويونيو",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "تسعة فصول ترصد أبرز إصدارات الذكاء الاصطناعي في ربيع ٢٠٢٦: النماذج الجديدة، ومؤتمرات المطوّرين، والنماذج العربية، وأحداث الاستثمار والحوكمة.",
+      "description_en": "Nine chapters surveying the major AI releases of spring 2026: new models, developer conferences, Arabic-language models, and investment and governance events.",
+      "files": {
+        "pdf": "assets/books/ai-wave-spring-2026.pdf",
+        "epub": "assets/books/ai-wave-spring-2026.epub",
+        "docx": "assets/books/ai-wave-spring-2026.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 58
+    },
+    {
+      "id": "memory-loss-guide",
+      "title_ar": "كيف يفقد الإنسان ذاكرته",
+      "title_en": "How a Person Loses Their Memory",
+      "subtitle_ar": "الأسباب والعلاجات",
+      "category": "personal",
+      "year": 2026,
+      "description_ar": "اثنا عشر فصلاً في الذاكرة: كيف تتكوّن، وأنواعها، والنسيان الطبيعي مقابل المرضي، وفقدان الذاكرة، والزهايمر، والأسباب القابلة للعلاج، والوقاية.",
+      "description_en": "Twelve chapters on memory: how it forms, its types, normal versus pathological forgetting, amnesia, Alzheimer's, reversible causes, and prevention.",
+      "files": {
+        "pdf": "assets/books/memory-loss-guide.pdf",
+        "epub": "assets/books/memory-loss-guide.epub",
+        "docx": "assets/books/memory-loss-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 84
+    },
+    {
+      "id": "deep-state-america",
+      "title_ar": "الدولة العميقة في أمريكا",
+      "title_en": "The Deep State in America",
+      "subtitle_ar": "ما معناها؟ وهل تحكم خلف الستار؟",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "عشرة فصول في مفهوم الدولة العميقة وأصوله: البيروقراطية الدائمة، وأجهزة الاستخبارات، وجماعات الضغط، والإعلام، مع تمييز الحقيقة من نظرية المؤامرة.",
+      "description_en": "Ten chapters on the deep state concept and its origins: permanent bureaucracy, intelligence agencies, lobbying, and media, separating fact from conspiracy theory.",
+      "files": {
+        "pdf": "assets/books/deep-state-america.pdf",
+        "epub": "assets/books/deep-state-america.epub",
+        "docx": "assets/books/deep-state-america.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 74
+    },
+    {
+      "id": "why-claude-excels",
+      "title_ar": "سر كلود",
+      "title_en": "The Secret of Claude",
+      "subtitle_ar": "لماذا يتفوق نموذج كلود؟",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "ثمانية فصول في فلسفة أنثروبيك: الذكاء الاصطناعي الدستوري، وثلاثية النافع والصادق وغير الضار، وتصميم الشخصية، وأبحاث السلامة والتفسيرية.",
+      "description_en": "Eight chapters on Anthropic's philosophy: Constitutional AI, the helpful-honest-harmless triad, character design, and interpretability and safety research.",
+      "files": {
+        "pdf": "assets/books/why-claude-excels.pdf",
+        "epub": "assets/books/why-claude-excels.epub",
+        "docx": "assets/books/why-claude-excels.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 64
+    },
+    {
+      "id": "us-midterms-2026-forecast",
+      "title_ar": "توقعات انتخابات التجديد النصفي ٢٠٢٦",
+      "title_en": "Forecasting the 2026 U.S. Midterms",
+      "subtitle_ar": "حسابات المقاعد وساحات المعركة",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "عشرة فصول في آليات انتخابات التجديد النصفي وحسابات المقاعد والمناخ السياسي، مع ثلاثة سيناريوهات مرجّحة احتمالياً لمجلسي النواب والشيوخ.",
+      "description_en": "Ten chapters on midterm mechanics, seat math, and the national climate, with three probability-weighted scenarios for the House and Senate.",
+      "files": {
+        "pdf": "assets/books/us-midterms-2026-forecast.pdf",
+        "epub": "assets/books/us-midterms-2026-forecast.epub",
+        "docx": "assets/books/us-midterms-2026-forecast.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 72
+    },
+    {
+      "id": "healthy-aging-guide",
+      "title_ar": "كيف أتمتع بصحة الثلاثين وأنا في الثمانين",
+      "title_en": "The Health of Thirty at Eighty",
+      "subtitle_ar": "الوقاية من التدهور والحفاظ على الاستقلالية",
+      "category": "personal",
+      "year": 2026,
+      "description_ar": "اثنا عشر فصلاً في الشيخوخة الصحية: الوقاية من التدهور المرتبط بالعمر، والحفاظ على الحركة والذاكرة والاستقلالية في السنوات المتأخرة.",
+      "description_en": "Twelve chapters on healthy aging: preventing age-related decline and preserving mobility, memory, and independence in later years.",
+      "files": {
+        "pdf": "assets/books/healthy-aging-guide.pdf",
+        "epub": "assets/books/healthy-aging-guide.epub",
+        "docx": "assets/books/healthy-aging-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 59
+    },
+    {
+      "id": "build-store-site-lovable",
+      "title_ar": "كيف تبني موقع متجرك باستخدام Lovable",
+      "title_en": "Building Your Store Website with Lovable",
+      "subtitle_ar": "دليل مصوّر خطوة بخطوة",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "دليل مصوّر مبسّط لبناء موقع متجر باستخدام أداة Lovable للذكاء الاصطناعي، باثني عشر فصلاً وصور توضيحية لكل خطوة.",
+      "description_en": "A simple illustrated guide to building a store website with the Lovable AI builder, in twelve chapters with a visual for every step.",
+      "files": {
+        "pdf": "assets/books/build-store-site-lovable.pdf",
+        "epub": "assets/books/build-store-site-lovable.epub",
+        "docx": "assets/books/build-store-site-lovable.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 76
+    },
+    {
+      "id": "bosnia-herzegovina",
+      "title_ar": "البوسنة والهرسك",
+      "title_en": "Bosnia and Herzegovina",
+      "subtitle_ar": "من الفتح العثماني إلى طريق الاتحاد الأوروبي",
+      "category": "islamic",
+      "year": 2026,
+      "description_ar": "تسعة فصول في تاريخ البوسنة: الفتح العثماني، وتكوّن الهوية البوشناقية، وحرب التسعينات وحصار سراييفو، ومجزرة سربرنيتسا، واتفاق دايتون، والحاضر.",
+      "description_en": "Nine chapters on Bosnian history: the Ottoman conquest, Bosniak identity, the 1990s war and siege of Sarajevo, Srebrenica, Dayton, and the present.",
+      "files": {
+        "pdf": "assets/books/bosnia-herzegovina.pdf",
+        "epub": "assets/books/bosnia-herzegovina.epub",
+        "docx": "assets/books/bosnia-herzegovina.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 58
+    },
+    {
+      "id": "john-kiriakou-whistleblower",
+      "title_ar": "جون كرياكو",
+      "title_en": "John Kiriakou",
+      "subtitle_ar": "الجاسوس الذي قال الحقيقة",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "سيرة ضابط الاستخبارات الأمريكي الذي كشف برنامج التعذيب ودخل السجن بسببه، وما تقوله قضيته عن حدود حرية الكشف.",
+      "description_en": "A biography of the CIA officer who exposed the torture program and went to prison for it, and what his case says about the limits of disclosure.",
+      "files": {
+        "pdf": "assets/books/john-kiriakou-whistleblower.pdf",
+        "epub": "assets/books/john-kiriakou-whistleblower.epub",
+        "docx": "assets/books/john-kiriakou-whistleblower.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 61
+    },
+    {
+      "id": "elite-ai-salaries",
+      "title_ar": "ما الذي يصنع الراتب الكبير؟",
+      "title_en": "What Makes a Top Salary?",
+      "subtitle_ar": "الموهبة أم التعليم أم العائلة؟",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "بحث متوازن في ما يفسّر رواتب كبار باحثي الذكاء الاصطناعي: الموهبة، أم التعليم، أم رأس المال الاجتماعي، يترك الحكم للقارئ.",
+      "description_en": "An evenhanded inquiry into what explains elite AI researcher pay: talent, education, or social capital, leaving the judgment to the reader.",
+      "files": {
+        "pdf": "assets/books/elite-ai-salaries.pdf",
+        "epub": "assets/books/elite-ai-salaries.epub",
+        "docx": "assets/books/elite-ai-salaries.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 60
+    },
+    {
+      "id": "mastering-agentic-ai",
+      "title_ar": "إتقان الذكاء الاصطناعي الوكيل",
+      "title_en": "Mastering Agentic AI",
+      "subtitle_ar": "من النموذج اللغوي إلى الوكيل المستقل",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "أربعة عشر فصلاً في أنظمة الوكلاء: تشريح الوكيل، والأدوات، والذاكرة، والتخطيط، وأنظمة الوكلاء المتعددة، وبروتوكول MCP، والتقييم، والسلامة.",
+      "description_en": "Fourteen chapters on agent systems: anatomy, tools, memory, planning, multi-agent systems, the Model Context Protocol, evaluation, and safety.",
+      "files": {
+        "pdf": "assets/books/mastering-agentic-ai.pdf",
+        "epub": "assets/books/mastering-agentic-ai.epub",
+        "docx": "assets/books/mastering-agentic-ai.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 103
+    },
+    {
+      "id": "gaza-siege-arab-abandonment",
+      "title_ar": "حين جاع الإخوة",
+      "title_en": "When Brothers Went Hungry",
+      "subtitle_ar": "حصار غزة بين خذلان الأنظمة ونصرة الأحرار",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "قراءة موثّقة في مواقف الدول من حصار غزة: خذلان أنظمة عربية في مقابل مواقف دول أخرى، مع تمييز منهجي بين الأنظمة والشعوب وفصل للحجج المضادة.",
+      "description_en": "A documented reading of state responses to the siege of Gaza, distinguishing throughout between regimes and peoples, with a dedicated chapter for counterarguments.",
+      "files": {
+        "pdf": "assets/books/gaza-siege-arab-abandonment.pdf",
+        "epub": "assets/books/gaza-siege-arab-abandonment.epub",
+        "docx": "assets/books/gaza-siege-arab-abandonment.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 100
+    },
+    {
+      "id": "art-of-persuasion",
+      "title_ar": "سياسة الإقناع الساحر",
+      "title_en": "The Art of Magnetic Persuasion",
+      "subtitle_ar": "من أرسطو إلى تشالديني",
+      "category": "personal",
+      "year": 2026,
+      "description_ar": "عشرة فصول في علم الإقناع الحديث من أرسطو إلى تشالديني وكانمان، تنتهي بثلاثة فصول تطبيقية: إقناع المدير، وإقناع الابن، وإقناع الشريك. الكتاب بالعربية فقط.",
+      "description_en": "Ten chapters on modern persuasion science from Aristotle to Cialdini and Kahneman, closing with three applied cases: persuading a manager, a son, and a spouse. Arabic only.",
+      "files": {
+        "pdf": "assets/books/art-of-persuasion.pdf",
+        "epub": "assets/books/art-of-persuasion.epub",
+        "docx": "assets/books/art-of-persuasion.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 51
+    },
+    {
+      "id": "ust-sanaa-seizure",
+      "title_ar": "جامعة العلوم والتكنولوجيا: قصة الاستيلاء",
+      "title_en": "The University of Science and Technology: The Story of a Seizure",
+      "subtitle_ar": "هل ما تزال شهاداتها معتمدة؟",
+      "category": "yemen",
+      "year": 2026,
+      "description_ar": "توثيق للاستيلاء الحوثي على جامعة العلوم والتكنولوجيا في صنعاء، وانتقال مقرها إلى عدن، وأثر قرار وزارة التعليم العالي على اعتماد شهادات الفروع.",
+      "description_en": "A documentation of the Houthi seizure of the University of Science and Technology in Sana'a, its relocation to Aden, and what the Ministry decree means for degree recognition.",
+      "files": {
+        "pdf": "assets/books/ust-sanaa-seizure.pdf",
+        "epub": "assets/books/ust-sanaa-seizure.epub",
+        "docx": "assets/books/ust-sanaa-seizure.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 92
+    },
+    {
+      "id": "aipac-midterms-2026",
+      "title_ar": "آيباك والانتخابات النصفية",
+      "title_en": "AIPAC and the 2026 Midterms",
+      "subtitle_ar": "من يرفض آيباك ويفوز؟",
+      "category": "politics",
+      "year": 2026,
+      "description_ar": "دراسة توثيقية لدور أموال آيباك في انتخابات التجديد النصفي ٢٠٢٦، معتمدة على ملفات لجنة الانتخابات الفيدرالية، مع فصل عن المرشحين الذين فازوا رغم رفضهم.",
+      "description_en": "A documentary study of AIPAC money in the 2026 midterms, grounded in Federal Election Commission filings, with a chapter on candidates who won after refusing it.",
+      "files": {
+        "pdf": "assets/books/aipac-midterms-2026.pdf",
+        "epub": "assets/books/aipac-midterms-2026.epub",
+        "docx": "assets/books/aipac-midterms-2026.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 73
+    },
+    {
+      "id": "claude-science-guide",
+      "title_ar": "كلود ساينس",
+      "title_en": "Claude Science",
+      "subtitle_ar": "منصة البحث العلمي بالذكاء الاصطناعي",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "تعريف بمنصة كلود ساينس البحثية من أنثروبيك: ما الذي تفعله، وكيف يوظّفها الباحثون في سير عملهم اليومي، وأين تقف حدودها.",
+      "description_en": "An introduction to Anthropic's Claude Science research workbench: what it does, how researchers use it in daily workflows, and where its limits lie.",
+      "files": {
+        "pdf": "assets/books/claude-science-guide.pdf",
+        "epub": "assets/books/claude-science-guide.epub",
+        "docx": "assets/books/claude-science-guide.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 96
+    },
+    {
+      "id": "claude-certification-exams",
+      "title_ar": "برنامج شهادات كلود: نماذج الامتحانات",
+      "title_en": "The Claude Certification Program: Practice Exams",
+      "subtitle_ar": "١٣٨ سؤالاً تدريبياً لشهادة المهندس المعتمد",
+      "category": "tech",
+      "year": 2026,
+      "description_ar": "مئة وثمانية وثلاثون سؤالاً تدريبياً أصلياً عبر خمسة مجالات، مع امتحان محاكاة كامل وشرح وافٍ لكل إجابة. الكتاب بالإنجليزية فقط.",
+      "description_en": "One hundred thirty-eight original practice questions across five domains, including a full-length mock exam with complete explanations. English only.",
+      "files": {
+        "pdf": "assets/books/claude-certification-exams.pdf",
+        "epub": "assets/books/claude-certification-exams.epub",
+        "docx": "assets/books/claude-certification-exams.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 105
+    },
+    {
+      "id": "yemen-brain-drain",
+      "title_ar": "العقول المهاجرة",
+      "title_en": "The Migrating Minds",
+      "subtitle_ar": "نزيف الأدمغة اليمنية بين التاريخ والسياسة",
+      "category": "personal",
+      "year": 2026,
+      "description_ar": "قراءة في هجرة العقول اليمنية: أسبابها التاريخية، وسياسات الدولة التي سرّعتها، وأثرها على مستقبل البلد، مع فصول ذات طابع شخصي.",
+      "description_en": "A study of Yemen's brain drain: its historical causes, the state policies that accelerated it, and its cost to the country's future, with memoir chapters.",
+      "files": {
+        "pdf": "assets/books/yemen-brain-drain.pdf",
+        "epub": "assets/books/yemen-brain-drain.epub",
+        "docx": "assets/books/yemen-brain-drain.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false,
+      "pages": 73
+    },
+    {
       "id": "fall-of-andalusia",
       "title_ar": "كيف سقطت الأندلس",
       "title_en": "How Andalusia Fell",
