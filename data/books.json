@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "glp1-blindness-naion",
+      "title_ar": "حقن إنقاص الوزن والعمى: حقيقة علمية أم مكيدة سياسية؟",
+      "title_en": "Weight-Loss Injections and Blindness: Scientific Fact or Political Plot?",
+      "subtitle_ar": "قراءة موثّقة في أحدث الدراسات السريرية وقرارات الهيئات الدولية حتى نوفمبر 2026",
+      "category": "tech",
+      "year": 2026,
+      "pages": 127,
+      "description_ar": "هل تسبب حقن التنحيف مثل أوزمبيك وويغوفي ومونجارو العمى؟ بعد قرار هيئة الغذاء والدواء الأمريكية في 9 نوفمبر 2026 فرض تحذير على جميع أدوية GLP-1 من مرض نادر في العصب البصري (NAION)، يعرض هذا الكتاب أكثر من خمس عشرة دراسة من هارفارد والدنمارك والسويد وأمريكا، وقرارات أوروبا ومنظمة الصحة العالمية، ويرسم خريطة كاملة للأدوية والشركات، ويشرح الفرق بين الخطر النسبي والمطلق، ويختبر نظريات المؤامرة بالوقائع، ويقدم دليلًا عمليًا للمريض والطبيب ورؤية شرعية في الموازنة بين المنافع والمفاسد.",
+      "description_en": "Do weight-loss injections such as Ozempic, Wegovy and Mounjaro cause blindness? After the FDA's 9 November 2026 decision to require a warning on every GLP-1 drug about a rare optic-nerve disease (NAION), this book reviews more than fifteen studies from Harvard, Denmark, Sweden and the U.S., the decisions of the EMA and WHO, maps every drug and company on the market, explains relative versus absolute risk, tests the conspiracy theories against the facts, and offers a practical guide for patients and doctors alongside an Islamic perspective on weighing benefit and harm.",
+      "cover": "assets/covers/glp1-blindness-naion.jpg",
+      "files": {
+        "pdf": "assets/books/glp1-blindness-naion.pdf",
+        "epub": "assets/books/glp1-blindness-naion.epub",
+        "docx": "assets/books/glp1-blindness-naion.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "abdul-el-sayed",
       "title_ar": "عبد الرحمن السيد — الطبيب الذي هزّ ميشيغان",
       "title_en": "Abdul El-Sayed — The Doctor Who Shook Up Michigan",
