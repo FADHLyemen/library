@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "macklemore-gaza",
+      "title_ar": "صوت لا يشترى",
+      "title_en": "A Voice Not for Sale",
+      "subtitle_ar": "ماكليمور وغزة: من «قاعة هند» إلى جولة إد شيران",
+      "category": "politics",
+      "year": 2026,
+      "pages": 135,
+      "description_ar": "في سبتمبر ٢٠٢٦ وقف مغني الراب الأمريكي ماكليمور أمام تسعين ألف إنسان في ملعب ميتلايف وقال: فلسطين حرة. بعد أيام أُقصي من جولة صديقه إد شيران، فعدّها أنجح جولة في حياته. يتتبع هذا الكتاب رحلته من منبر واشنطن إلى أغنية «قاعة هند» التي حملت اسم طفلة من غزة، ويعرض حجج مؤيديه ومنتقديه بإنصاف وتوثيق، ويستخلص دروسًا للجالية العربية والمسلمة في أمريكا.",
+      "description_en": "In September 2026, Macklemore told 90,000 people at MetLife Stadium: Free Palestine. Days later he was removed from Ed Sheeran's Loop Tour. This documented, bilingual account traces his journey from a Washington rally to 'Hind's Hall,' weighs his critics' arguments fairly, and draws lessons for Arab and Muslim Americans.",
+      "cover": "assets/covers/macklemore-gaza.jpg",
+      "files": {
+        "pdf": "assets/books/macklemore-gaza.pdf",
+        "epub": "assets/books/macklemore-gaza.epub",
+        "docx": "assets/books/macklemore-gaza.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "glp1-blindness-naion",
       "title_ar": "حقن إنقاص الوزن والعمى: حقيقة علمية أم مكيدة سياسية؟",
       "title_en": "Weight-Loss Injections and Blindness: Scientific Fact or Political Plot?",
