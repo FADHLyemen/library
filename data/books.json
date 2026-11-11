@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "abdul-el-sayed",
+      "title_ar": "عبد الرحمن السيد — الطبيب الذي هزّ ميشيغان",
+      "title_en": "Abdul El-Sayed — The Doctor Who Shook Up Michigan",
+      "subtitle_ar": "قوّته، وانتصاره الانتخابي، وأبرز خطاباته، وما قيل عن أسرته وصلته المزعومة بالإخوان المسلمين",
+      "category": "politics",
+      "year": 2026,
+      "pages": 121,
+      "description_ar": "قراءة موثّقة ومتوازنة في سيرة الطبيب الأمريكي المسلم عبد الرحمن السيد: من أكسفورد وإدارة صحة ديترويت إلى انتصاره المفاجئ في الانتخابات التمهيدية، ومصادر قوّته، وأبرز خطاباته، وما قيل عن أسرته وصلته المزعومة بالإخوان المسلمين مع الأدلة والردود، والانتقادات الموجّهة إليه، ثم فوزه في الثالث من نوفمبر 2026 ليصبح أول مسلمٍ يُنتخب لمجلس الشيوخ الأمريكي.",
+      "description_en": "A documented, balanced study of Dr. Abdul El-Sayed: from Oxford and Detroit's health department to his upset primary win, his strengths, his best speeches, the claims about his family and alleged Muslim Brotherhood ties weighed against the evidence and his responses, the criticism he faced, and his November 3, 2026 victory that made him the first Muslim elected to the U.S. Senate.",
+      "cover": "assets/covers/abdul-el-sayed.jpg",
+      "files": {
+        "pdf": "assets/books/abdul-el-sayed.pdf",
+        "epub": "assets/books/abdul-el-sayed.epub",
+        "docx": "assets/books/abdul-el-sayed.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "ilhan-omar",
       "title_ar": "إلهان عمر — سرّ القوة وميزان التهم",
       "title_en": "Ilhan Omar — Her Strength, the Accusations, and the Deportation Question",
