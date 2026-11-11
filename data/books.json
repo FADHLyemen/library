@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "trust-in-america-islamic-inheritance",
+      "title_ar": "الـ Trust في أمريكا",
+      "title_en": "The Trust in America",
+      "subtitle_ar": "دليل الأسرة المسلمة إلى الأمانة الائتمانية وتطبيق أحكام الميراث الشرعي",
+      "category": "diaspora",
+      "year": 2026,
+      "pages": 157,
+      "description_ar": "ماذا يحدث لمال المسلم وبيته وأولاده إذا مات في أمريكا؟ يشرح الكتاب أداة الـ Trust الأمريكية بلغة مبسطة: أنواعها، ومتى تحتاجها، وماذا تمنع وماذا لا تمنع، ومن يديرها، وكيف تكون طرفًا ثالثًا محايدًا، ثم يبيّن خطوة بخطوة كيف تستخدمها لتطبيق الفرائض الإسلامية في الميراث، وهل تحتاج إلى محامٍ أو توثيق حكومي، مع حالات عملية ونموذج لبند التوزيع الإسلامي.",
+      "description_en": "What happens to a Muslim's money, home, and children if he dies in America? This book explains the American trust in plain language — its types, when you need one, what it does and does not prevent, who manages it, and how it can serve as a neutral third party — then shows step by step how to use it to apply Islamic inheritance law, whether you need a lawyer or notarization, with case studies and a sample Islamic distribution clause.",
+      "cover": "assets/covers/trust-in-america-islamic-inheritance.jpg",
+      "files": {
+        "pdf": "assets/books/trust-in-america-islamic-inheritance.pdf",
+        "epub": "assets/books/trust-in-america-islamic-inheritance.epub",
+        "docx": "assets/books/trust-in-america-islamic-inheritance.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "america-held-hostage",
       "title_ar": "أمريكا الرهينة",
       "title_en": "America Held Hostage",
