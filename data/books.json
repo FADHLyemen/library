@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "nvidia-throne-and-storm",
+      "title_ar": "إنفيديا: العرش والعاصفة",
+      "title_en": "Nvidia: The Throne and the Storm",
+      "subtitle_ar": "قصة الشركة الأغلى في التاريخ، والخسارة الكبرى، وقضية أليس هوانغ",
+      "category": "tech",
+      "year": 2026,
+      "pages": 96,
+      "description_ar": "كيف وُلدت إنفيديا على طاولة مطعم ثم صارت أغلى شركة في التاريخ؟ ولماذا خسرت نحو 1.4 تريليون دولار من قيمتها في نوفمبر 2026؟ يجيب الكتاب بالأدلة عن الأسئلة المتداولة: هل كانت أليس هوانغ جاسوسة؟ هل سُرّبت الرقائق إلى الصين؟ هل طلبت زوجة جنسن هوانغ الطلاق؟ مع فصل صارم بين الثابت والمزعوم، ومحدّث حتى 11 نوفمبر 2026.",
+      "description_en": "How did Nvidia go from a diner table to the most valuable company in history, and why did it lose about $1.4 trillion in value in November 2026? Drawing on documented sources, the book answers the questions circulating online — was Alice Huang a spy, did chips leak to China, did Jensen Huang's wife file for divorce — while strictly separating established fact from allegation. Current to 11 November 2026.",
+      "cover": "assets/covers/nvidia-throne-and-storm.jpg",
+      "files": {
+        "pdf": "assets/books/nvidia-throne-and-storm.pdf",
+        "epub": "assets/books/nvidia-throne-and-storm.epub",
+        "docx": "assets/books/nvidia-throne-and-storm.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": false
+    },
+    {
       "id": "trust-in-america-islamic-inheritance",
       "title_ar": "الـ Trust في أمريكا",
       "title_en": "The Trust in America",
