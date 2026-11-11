@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "ilhan-omar",
+      "title_ar": "إلهان عمر — سرّ القوة وميزان التهم",
+      "title_en": "Ilhan Omar — Her Strength, the Accusations, and the Deportation Question",
+      "subtitle_ar": "الطريق إلى الكونجرس، والتحقيق الفيدرالي، واحتمالات الترحيل، وانتخابات 2026",
+      "category": "politics",
+      "year": 2026,
+      "pages": 140,
+      "description_ar": "قراءة متوازنة في سيرة النائبة الأمريكية إلهان عمر: من مخيم داداب للاجئين إلى الكونجرس، ومصادر قوتها السياسية، وميزان التهم الموجهة إليها بين الثابت وغير المثبت، والإطار القانوني لسحب الجنسية والترحيل بعد تفتيش منزلها في أكتوبر 2026، مع تحليل انتخابات نوفمبر 2026 ونتيجتها.",
+      "description_en": "A balanced study of U.S. Rep. Ilhan Omar: from the Dadaab refugee camp to Congress, the sources of her political strength, the accusations against her weighed between what is proven and unproven, the legal framework for denaturalization and deportation after the October 2026 search of her home, and an analysis of the November 2026 election and its result.",
+      "cover": "assets/covers/ilhan-omar.jpg",
+      "files": {
+        "pdf": "assets/books/ilhan-omar.pdf",
+        "epub": "assets/books/ilhan-omar.epub",
+        "docx": "assets/books/ilhan-omar.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "nvidia-throne-and-storm",
       "title_ar": "إنفيديا: العرش والعاصفة",
       "title_en": "Nvidia: The Throne and the Storm",
