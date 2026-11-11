@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-07-25",
+    "last_updated": "2026-11-11",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,28 @@
     }
   ],
   "books": [
+    {
+      "id": "america-held-hostage",
+      "title_ar": "أمريكا الرهينة",
+      "title_en": "America Held Hostage",
+      "subtitle_ar": "كيف أسرت أموالُ الشركات والدول الأجنبية القرارَ الأمريكي",
+      "category": "politics",
+      "year": 2026,
+      "pages": 103,
+      "description_ar": "هل يهم من ينتخب الأمريكي؟ يجيب الكتاب بالأرقام والوثائق: انتخابات بستة عشر مليار دولار، وصناعة ضغط تتجاوز خمسة مليارات في عام، وحكومات أجنبية تستأجر كبرى شركات واشنطن، ونواب يتداولون أسهم الشركات التي يشرّعون لها. ويعرض بإنصاف حجج المخالفين، ثم يقدّم برنامجًا لتحرير القرار الأمريكي، من «خطة مونتانا» إلى حظر تبرعات الشركات الكبرى واللوبيات.",
+      "description_en": "Does it matter whom Americans elect? Using data and documents, this book examines $16 billion elections, a lobbying industry spending over $5 billion a year, foreign governments hiring Washington's top firms, and lawmakers trading stocks in the companies they regulate. It fairly presents the counterarguments, then offers a program to free American decision-making — from the Montana Plan to a ban on corporate and lobby donations.",
+      "cover": "assets/covers/america-held-hostage.jpg",
+      "files": {
+        "pdf": "assets/books/america-held-hostage.pdf",
+        "epub": "assets/books/america-held-hostage.epub",
+        "docx": "assets/books/america-held-hostage.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ]
+    },
     {
       "id": "ali-abdullah-saleh",
       "title_ar": "علي عبدالله صالح",
