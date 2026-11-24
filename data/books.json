@@ -64,6 +64,29 @@
   ],
   "books": [
     {
+      "id": "yemenis-russia-ukraine-war",
+      "title_ar": "وقود حرب ليست لهم",
+      "title_en": "Fuel for a War Not Their Own",
+      "subtitle_ar": "اليمنيون في الحرب الروسية الأوكرانية: التجنيد والأجور والضحايا وموقف الدولة",
+      "category": "yemen",
+      "year": 2026,
+      "pages": 96,
+      "description_ar": "في صيف ٢٠٢٤ بدأت تظهر مقاطع لشبان يمنيين في غابات أوكرانيا المثلجة بزي الجيش الروسي. يجيب هذا الكتاب، بالاعتماد على التحقيقات الاستقصائية والوثائق الرسمية وشهادات الأسرى، عن خمسة أسئلة: من يجنّد الشباب اليمني للقتال في صفوف روسيا؟ وكيف يُعدّون ويُرسلون إلى الجبهة؟ وكم يُدفع لهم فعلًا؟ وكم قُتل منهم؟ وما موقف الحكومة اليمنية؟",
+      "description_en": "In summer 2024, videos began to appear of young Yemeni men in Russian uniforms in Ukraine's snowy forests. Drawing on investigative reporting, official documents and prisoner testimonies, this book answers five questions: who recruits Yemenis to fight for Russia, how they are prepared and sent to the front, how much they are actually paid, how many have been killed, and what the Yemeni government's position is.",
+      "cover": "assets/covers/yemenis-russia-ukraine-war.jpg",
+      "files": {
+        "pdf": "assets/books/yemenis-russia-ukraine-war.pdf",
+        "epub": "assets/books/yemenis-russia-ukraine-war.epub",
+        "docx": "assets/books/yemenis-russia-ukraine-war.docx"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "featured": true
+    },
+    {
       "id": "macklemore-gaza",
       "title_ar": "صوت لا يشترى",
       "title_en": "A Voice Not for Sale",
