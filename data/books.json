@@ -9,7 +9,7 @@
     "affiliation_ar": "جامعة ميشيغان — قسم الطب الحاسوبي والمعلوماتية الحيوية",
     "affiliation_en": "University of Michigan — Department of Computational Medicine and Bioinformatics",
     "base_url": "https://fadhlyemen.github.io/library/",
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-27",
     "copyright_year": 2026
   },
   "categories": [
@@ -63,6 +63,29 @@
     }
   ],
   "books": [
+    {
+      "category": "tech",
+      "cover": "assets/covers/israel-silicon-valley.jpg",
+      "description_ar": "هل تسيطر إسرائيل على شركات التقنية الأمريكية؟ يجيب هذا الكتاب عن السؤال بالأرقام والوثائق: من صفقة ميلانوكس التي جعلت إسرائيل ثاني أكبر مراكز إنفيديا، إلى شراكة بالانتير مع وزارة الدفاع الإسرائيلية، ومشروع نيمبوس، وقرار مايكروسوفت حجب خدماتها عن الوحدة ٨٢٠٠، وصفقات الاستحواذ الكبرى، وحقيقة ما يشاع عن لعبة GTA 6. ويخلص إلى أن العلاقة نفوذ حقيقي واعتماد متبادل غير متكافئ، لا سيطرة.",
+      "description_en": "Does Israel control America's technology companies? This book answers with numbers and documents: from the Mellanox deal that made Israel Nvidia's second-largest hub, to Palantir's partnership with the Israeli Ministry of Defense, Project Nimbus, Microsoft's cut-off of Unit 8200, the major acquisitions, and the truth behind rumors about GTA 6. It concludes that the relationship is real influence and unequal interdependence, not control.",
+      "featured": true,
+      "files": {
+        "docx": "assets/books/israel-silicon-valley.docx",
+        "epub": "assets/books/israel-silicon-valley.epub",
+        "pdf": "assets/books/israel-silicon-valley.pdf"
+      },
+      "formats": [
+        "pdf",
+        "epub",
+        "docx"
+      ],
+      "id": "israel-silicon-valley",
+      "pages": 109,
+      "subtitle_ar": "الشراكة والنفوذ والاعتماد المتبادل — من إنفيديا وبالانتير إلى جوجل ومايكروسوفت ولعبة GTA 6",
+      "title_ar": "إسرائيل ووادي السيليكون",
+      "title_en": "Israel and Silicon Valley: Partnership, Influence, and Interdependence",
+      "year": 2026
+    },
     {
       "id": "yemenis-russia-ukraine-war",
       "title_ar": "وقود حرب ليست لهم",
